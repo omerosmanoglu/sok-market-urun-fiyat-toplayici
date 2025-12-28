@@ -1,0 +1,3114 @@
+*** Meyve ve Sebze Çeşitleri ***
+Ürün	Yeni Fiyat
+Patates Kg	13,75
+Limon Kg	24,90
+Maydanoz Demet	14,95
+Kuru Soğan Kg	18,75
+Yerli Muz Kg	46,90
+Mandalina Kg	49,90
+Domates Kg	44,90
+Salata Kıvırcık	39,90
+Portakal Kg	34,75
+Salatalık Kg	49,90
+Sarımsak 250 Gr	54,90
+Avokado Adet	34,90
+Sıkmalık Portakal File Kg	32,95
+Roka Demet	17,95
+Kırmızı Soğan Kg	39,90
+Greyfurt Kg	34,90
+Havuç Kg	32,50
+Elma Starking Kg	39,95
+Çarliston Biber Kg	79,00
+Elma Granny Kg	44,90
+Patlıcan Kemer Kg	69,90
+Golden Elma Kg	39,95
+Armut Deveci Kg	59,90
+Kırmızı Biber Kg	99,90
+Dolmalık Biber Kg	49,90
+Nar Kg	49,90
+Ayva Kg	49,50
+Beyaz Lahana Kg	24,90
+Armut Santa Maria Kg	59,90
+Kivi Paket	29,90
+Kestane Kg	189,00
+Mantar 300 g Paket	44,75
+Salamura Asma Yaprak	119,90
+Amigo Dalından Kuru Üzüm 500 g	84,50
+Amigo Dalından Kuru Üzüm Antep Karası 250 g	46,50
+Amigo Dalından Meyve Mix 250 g	40,75
+Amigo Dalından Kuru İncir 250 g	100,00
+Amigo Dalından Kuru Kayısı 250 g	59,00
+Amigo Dalından Kuru Kayısı Gün Kurusu 250 g	59,00
+Amigo Medjoul Hurma 300 g	84,50
+
+*** Et ve Tavuk ve Şarküteri Çeşitleri ***
+Ürün	Yeni Fiyat
+Tadpi Poşet Bütün Piliç Kg	92,50
+Tadpi Piliç Ciğer Kg	59,00
+Tadpi Piliç Baget Kg	109,50
+Tadpi Piliç Pirzola Kg	139,00
+Tadpi Piliç Izgara Kanat Kg	199,00
+Banvit Piliç Schnitzel 700 G	89,50
+Banvit Piliç Nuget 300 Gr	45,00
+Lezita Piliç Cordon Bleu 300 g	75,00
+Banvit Piliç Yaprak Döner 300 Gr	93,50
+Banvit Piliç Köfte 300 Gr	49,00
+Banvit Piliç Acılı Kebap 400 Gr	59,50
+Lezzetlim Dana Döner 300 g	139,00
+Lezzetlim Dana Kıyma 400 g	179,00
+Lezzetlim Dana Kuşbaşı 400 g	216,00
+Lezzetlim Anne Köftesi Tadında 400 g	149,00
+Namet Pişmiş Dana Izgara Köfte 200 G	79,00
+Anadolu Çiftliği M Yumurta 30'lu (53-63 g)	155,00
+Anadolu Çiftliği Gezen Tavuk Yumurta M 10'lu 53-62	70,00
+Agsu Bıldırcın Yumurtası 12'li	49,50
+Güzide Hanım M Organik Yumurta 6'lı (53-62 g)	49,50
+Cumhuriyet Dana Parmak Sucuk 300 g	224,25
+Özlem Evlik Dana Sucuk 400 Gr	235,00
+Sultan Dana Kasap Sucuk 400 Gr	215,00
+Maret Enfes Isıl İşlem Sucuk 250 g	109,00
+Sultan Baton Sucuk Isıl İşlem 380 Gr	159,00
+Aytaç Dana Mangal Sucuk 350 g	210,00
+Maret Enfes Dilimli Sucuk Isıl İşlem 250 g	115,00
+Namet Çatal Dana Sucuk Isıl İşlem 450 Gr	215,00
+Banvit Dilimli Piliç Sucuk 400 g	67,50
+Gedik Piliç Baton Sucuk 450 Gr	74,00
+Gedik Piliç Kangal Sucuk 250 Gr	42,50
+Pınar Keyifle Dana Macar Salam Büyük Dilim 50 g	25,00
+Namet Dana Macar Salam 60 g	34,95
+Maret Enfes Macar Salam 250 g	89,00
+Maret Enfes Dana Macar Salam 60 g	24,00
+Namet 7/24 Hindi Salam 75 g	22,00
+Namet Hindi Salam Fıstıklı 50 Gr	17,50
+Banvit Bi Dilim Piliç Salam 60 g	15,50
+Banvit Piliç Salam 850 g	57,50
+Aytaç Dana Sosis 190 g	74,50
+Namet Kokteyl Sosis 350 g	120,00
+Maret Hindi Sosis 130 g	25,00
+Lezzetlim Dana Kavurma 150 g	125,00
+Lezzetlim Dilimli Pastırma 120 g	139,00
+Aytaç Geleneksel Dana Sırt Pastırma 100 Gr	149,00
+Polonez Piliç Jambon 60 g	19,90
+
+*** Süt ve Süt Ürünleri Çeşitleri  ***
+Ürün	Yeni Fiyat
+Mis Pastörize Günlük Süt 1 L	34,00
+Mis Bakraçlık Süt Tam Yağlı 1 L	35,00
+Mis Uht Süt %3.1 Yağlı 500 ml	19,25
+Mis Uht Süt %3.1 Yağlı 1 L	29,75
+Mis Uht Süt %3.1 Yağlı 200 ml	8,75
+Mis Uht Süt Yarım Yağlı 1 L	27,50
+Mis Uht Süt Yağsız 1 L	24,00
+Pınar %3,3 Yağlı Süt 200 ml	13,00
+Pınar Süt %1 Yağlı 1 L	34,50
+Mis Muzlu Süt 200 ml	9,50
+Danone Hüpper Muzlu Puding 70 g	21,00
+Pınar Kido Çilekli Süt 180 ml	12,50
+Pınar Kido Kakaolu Süt 180 ml	12,50
+Sek Çikolatalı Pastörize Süt 200 ml	18,95
+Mis Çilekli Süt 200 ml	9,50
+Mis Kakaolu Süt 200 ml	9,50
+Mis Çikolatalı Süt 200 ml	9,50
+Mis Ballı Süt 200 ml	9,50
+Mis Uht Süt Laktozsuz 1 L	34,50
+İçim Rahat Laktozsuz Süt 1 L	42,00
+İçim Organik Süt 1 L	49,90
+Pınar Protein Kakaolu Laktozsuz Süt 500 Ml	44,90
+Mis Çocuk Devam Sütü 500 ml	24,00
+İçim Çocuk Devam Sütü 500 ml	28,90
+Mis Yarım Yağlı Taze Beyaz Peynir 450 g	89,90
+Mis Tam Yağlı Beyaz Peynir 1000 g	159,00
+Mis Tam Yağlı Beyaz Peynir 500 g	89,00
+Mis Yarım Yağlı Taze Beyaz Peynir 650 g	123,00
+Mis Tam Yağlı Taze Beyaz Peynir 750 g	125,00
+Sütaş Tam Yağlı Beyaz Peynir 500 g	104,00
+İçim Tam Yağlı Beyaz Peynir 1 kg	199,00
+Mis Tam Yağlı İnek Peyniri 350 g	98,50
+Mis Tam Yağlı İnek Peyniri 600 g	129,00
+Ünal Olgunlaştırılmış Tam Yağlı İnek Peyniri 600 g	239,00
+Mis Beyaz Peynir Koyun Sütlü 350 g	99,00
+Mis Beyaz Peynir Keçi Sütlü 350 g	99,00
+Mis Tam Yağlı Süzme Beyaz Peynir 500 g	59,50
+Mis Tam Yağlı Süzme Beyaz Peynir 1 kg	139,50
+Mis Yarım Yağlı Süzme Beyaz Peynir 500 g	68,50
+Sütaş Tam Yağlı Süzme Peynir 250 g	54,95
+İçim Tam Yağlı Süzme Peynir 500 g	89,50
+Pınar Tam Yağlı Süzme Peynir 1 kg	164,00
+Mis Yağı Azaltılmış Beyaz Peynir 500 g	74,75
+Mis Peynir Topları 250 g	72,50
+Mis Peynir Çubukları 250 g	72,50
+Mis Lor Peyniri 500 g	37,50
+Mis Tulum Peyniri 300 g	111,00
+Mis Örgü Peyniri Tam Yağlı 250 g	72,90
+Mis Tel Peyniri Tam Yağlı 250 g	62,90
+Mis Dil Peyniri Tam Yağlı 250 g	72,90
+Mis Mihaliç Peyniri Tam Yağlı 350 g	118,00
+Efendioğulları Şavak Tulum Peyniri 300 g	125,00
+Karsüt Civil Peyniri 450 g	129,00
+Mis Rende Mozzarella Peyniri 150 g	42,90
+Mis Tam Yağlı Kaşar Peyniri 700 g	189,00
+Mis Tam Yağlı Kaşar Peyniri 500 g	139,00
+Mis Tam Yağlı Kaşar Peyniri 225 g	63,50
+İçim Kaşar Peyniri 700 g	229,00
+Sütaş Kaşar Peyniri 500 g	169,00
+Mis Dilimli Tam Yağlı Tost Peyniri 500 g	129,00
+Mis Tam Yağlı Tost Peyniri 1 kg	239,00
+Mis Dilimli Tam Yağlı Tost Peyniri 200 g	59,90
+Mis Dilimli Tam Yağlı Eritme Peyniri 200 g	75,00
+Mis Dilimli Tam Yağlı Tost Peyniri 75 g	28,50
+Mis Tam Yağlı Tost Peynir 500 g	125,00
+Mis Dilimli Tost Peyniri 1200 g	285,00
+Altınkılıç Gurme Eski Kaşar Peyniri 300 g	99,00
+Mis Yoğurt Tam Yağlı Homojenize 3 kg	109,00
+Mis %1,8 Yağlı Yoğurt 2 Kg	72,50
+Mis Yoğurt Tam Yağlı Homojenize 500 g	21,50
+Mis Yoğurt Tam Yağlı Homojenize 1500 g	57,00
+Mis Yoğurt Yarım Yağlı Homojenize 2500 g	68,50
+Mis Yoğurt Yarım Yağlı Homojenize 1500 g	53,50
+İçim Tam Yağlı Kaymaksız Yoğurt 1 Kg	48,50
+İçim Organik Yoğurt 750 g	55,90
+Mis Süzme Yoğurt 900 g	72,50
+Mis Kaymaklı Yoğurt 1 Kg	49,95
+İçim Rahat Laktozsuz Yoğurt 750 g	49,50
+Mis Light Yoğurt 650 g	27,50
+Mis Meyveli Yoğurt Çilek 500 g	34,50
+Mis Meyveli Yoğurt Orman Meyveli 500 g	34,50
+Mis Meyveli Yoğurt Çilekli 2*125 g	24,50
+Activia Mix&Go Çilek 183 g	41,75
+Danone Hüpper Yoğurt Çilek Aromalı 67 g	21,00
+Danone Çilek Aromalı Çıtırdat Yoğurt 90 Gr	16,50
+Activia Probiyotik Yoğurt Ananas 4*100 g	64,50
+Activia Probiyotik Yoğurt Kuru Kayısı 4*100 g	64,50
+Activia Probiyotik Yoğurt Çilek 4*100 g	64,50
+Activia Probiyotik Yoğurt Sade 4*100 g	64,50
+Mis Tereyağ 250 g	82,00
+Mis Tereyağı 500 g	139,00
+Mis Tereyağ 1 kg	299,00
+Mis Kozalak Tereyağ 350 g	119,00
+Kebir Tereyağı 500 g	187,50
+Sütaş Yayık Tereyağı 350 g	152,00
+Mis Üçgen Peynir 8*15 g	29,50
+La Vache Qui Rit Üçgen Peynir 8*12.5 g	48,00
+Mis Labne Peyniri 200 g	34,25
+Mis Labne Peyniri 400 g	67,90
+İçim Labne Peyniri 400 g	87,00
+Pınar Labne Peynir 180 g	49,50
+Mis Taze Peynir 200 g	37,00
+Mis Krem Peynir 300 g	42,50
+Mis Kaymak 200 g	59,00
+Duranlar Rulo Süt Kaymağı 150 g	60,50
+Mis Uht Krema %35 Yağlı 200 ml	39,90
+Mis Bitkisel Yağlı Krema %20 Yağlı 200 ml	16,90
+Mis Uht Krema  Yağlı 200 ml	29,90
+Mis Ayran Tam Yağlı 200 ml	6,00
+Mis Ayran Tam Yağlı 1.5 L	35,75
+Mis Ayran Tam Yağlı 285 ml	7,90
+Mis Bisküvili Büyüme Küpü 6*45 g	31,50
+Mis Muzlu Büyüme Küpü 6*45 g	31,50
+Mis Orman Meyveli Büyüme Küpü 6*45 g	31,50
+Mis Çilekli Büyüme Küpü 6*45 g	31,50
+Sütaş Hüptrik Çilekli Yoğurt 3*30 g	11,50
+Disney Milkshake Çilek&Vanilya 188 g	26,00
+İçim Kefir Orman Meyveli 1 L	57,50
+Altınkılıç Kefirix Çilekli 250 ml	24,50
+Altınkılıç Kefirix Orman Meyveli 250 ml	24,50
+Eker Şeftali Kayısılı Kefir 200 ml	19,50
+Mis Probiyotikli Sade Kefir 200 ml	16,00
+Altınkılıç Kefir Sade 1 L	52,50
+Altınkılıç Laktozsuz Kefir 1 L	59,50
+Evde Şirden Peynir Mayası 100 Ml	49,90
+Mis Puding Muzlu 100 g	8,50
+Mis Puding Çikolatalı 100 g	8,50
+Lezztat Supangle 200 g	26,50
+Üstatlım Ekler 240 g	42,50
+Üstatlım Portakallı Revani 200 g	21,50
+Kent Boringer Karamelli Sos 325 g	59,90
+Mis Puding Çilekli 100 g	8,50
+Mis Puding Muzlu 210 g	13,50
+Lezztat Kazandibi 180 g	21,50
+Lezztat Profiterol 200 g	26,50
+Lezztat Fırın Sütlaç 200 Gr	21,50
+Danone Hüpper Çikolatalı Puding 70 g	21,00
+
+*** Kahvaltılık Çeşitleri ***
+Ürün	Yeni Fiyat
+Mis Pastörize Günlük Süt 1 L	34,00
+Mis Bakraçlık Süt Tam Yağlı 1 L	35,00
+Anadolu Çiftliği M Yumurta 30'lu (53-63 g)	155,00
+Anadolu Çiftliği Gezen Tavuk Yumurta M 10'lu 53-62	70,00
+Güzide Hanım M Organik Yumurta 6'lı (53-62 g)	49,50
+Cumhuriyet Dana Parmak Sucuk 300 g	224,25
+Özlem Evlik Dana Sucuk 400 Gr	235,00
+Sultan Dana Kasap Sucuk 400 Gr	215,00
+Maret Enfes Isıl İşlem Sucuk 250 g	109,00
+Sultan Baton Sucuk Isıl İşlem 380 Gr	159,00
+Aytaç Dana Mangal Sucuk 350 g	210,00
+Maret Enfes Dilimli Sucuk Isıl İşlem 250 g	115,00
+Namet Çatal Dana Sucuk Isıl İşlem 450 Gr	215,00
+Banvit Dilimli Piliç Sucuk 400 g	67,50
+Gedik Piliç Baton Sucuk 450 Gr	74,00
+Gedik Piliç Kangal Sucuk 250 Gr	42,50
+Namet Dana Macar Salam 60 g	34,95
+Maret Enfes Macar Salam 250 g	89,00
+Maret Enfes Dana Macar Salam 60 g	24,00
+Namet 7/24 Hindi Salam 75 g	22,00
+Namet Hindi Salam Fıstıklı 50 Gr	17,50
+Banvit Bi Dilim Piliç Salam 60 g	15,50
+Banvit Piliç Salam 850 g	57,50
+Maret Hindi Sosis 130 g	25,00
+Lezzetlim Dana Kavurma 150 g	125,00
+Lezzetlim Dilimli Pastırma 120 g	139,00
+Aytaç Geleneksel Dana Sırt Pastırma 100 Gr	149,00
+Mis Uht Süt %3.1 Yağlı 500 ml	19,25
+Mis Uht Süt %3.1 Yağlı 1 L	29,75
+Mis Uht Süt %3.1 Yağlı 200 ml	8,75
+Mis Uht Süt Yarım Yağlı 1 L	27,50
+Mis Uht Süt Yağsız 1 L	24,00
+Pınar %3,3 Yağlı Süt 200 ml	13,00
+Mis Uht Süt Laktozsuz 1 L	34,50
+İçim Rahat Laktozsuz Süt 1 L	42,00
+Mis Yarım Yağlı Taze Beyaz Peynir 450 g	89,90
+Mis Tam Yağlı Beyaz Peynir 1000 g	159,00
+Mis Tam Yağlı Beyaz Peynir 500 g	89,00
+Mis Yarım Yağlı Taze Beyaz Peynir 650 g	123,00
+Mis Tam Yağlı Taze Beyaz Peynir 750 g	125,00
+Sütaş Tam Yağlı Beyaz Peynir 500 g	104,00
+İçim Tam Yağlı Beyaz Peynir 1 kg	199,00
+Mis Tam Yağlı İnek Peyniri 350 g	98,50
+Mis Tam Yağlı İnek Peyniri 600 g	129,00
+Ünal Olgunlaştırılmış Tam Yağlı İnek Peyniri 600 g	239,00
+Mis Beyaz Peynir Koyun Sütlü 350 g	99,00
+Mis Beyaz Peynir Keçi Sütlü 350 g	99,00
+Mis Tam Yağlı Süzme Beyaz Peynir 500 g	59,50
+Mis Tam Yağlı Süzme Beyaz Peynir 1 kg	139,50
+Mis Yarım Yağlı Süzme Beyaz Peynir 500 g	68,50
+Sütaş Tam Yağlı Süzme Peynir 250 g	54,95
+İçim Tam Yağlı Süzme Peynir 500 g	89,50
+Pınar Tam Yağlı Süzme Peynir 1 kg	164,00
+Mis Yağı Azaltılmış Beyaz Peynir 500 g	74,75
+Mis Peynir Topları 250 g	72,50
+Mis Peynir Çubukları 250 g	72,50
+Mis Lor Peyniri 500 g	37,50
+Mis Tulum Peyniri 300 g	111,00
+Mis Örgü Peyniri Tam Yağlı 250 g	72,90
+Mis Tel Peyniri Tam Yağlı 250 g	62,90
+Mis Dil Peyniri Tam Yağlı 250 g	72,90
+Mis Mihaliç Peyniri Tam Yağlı 350 g	118,00
+Efendioğulları Şavak Tulum Peyniri 300 g	125,00
+Mis Rende Mozzarella Peyniri 150 g	42,90
+Sütaş Kaşar Peyniri 500 g	169,00
+Mis Tam Yağlı Tost Peynir 500 g	125,00
+Lio Salamura Siyah Zeytin (321-380) 500 Gr	74,50
+Lio Salamura Siyah Zeytin (351-410) 1 Kg	139,50
+Lio Az Tuzlu Salamura Zeytin (291-320) 800 g	99,90
+Lio Salamura Siyah Zeytin (261-290) 500 g	79,90
+Lio Siyah Zeytin Kuru Sele (351-380) 500 Gr	119,00
+Lio Sade Siyah Zeytin Ezmesi 175 g	37,50
+Lio Yağlı Siyah Zeytin Salamura (291-350) 1 kg	155,00
+Lio Salamura Siyah Zeytin (201-260) 500 g	119,50
+Lio Çizik Pembe Zeytin (261-320) 400 g	49,90
+Lio Biberli Yeşil Zeytin(181-200) 400 g	69,00
+Lio Kırma Yeşil Zeytin(141-160) 400 g	79,50
+Lio Çizik Yeşil Zeytin (291-320) 400 g	79,50
+Deren Harman Çay 1 Kg	115,00
+Yemeneli Türk Kahvesi 100 g	37,50
+Deren Rize Çay 1 Kg	119,00
+Deren Filiz Çay 500 g	67,50
+Deren Bergamot Aromal Çay 500 g	69,00
+Deren Tiryaki Siyah Çay 1 Kg	122,00
+Deren Seylan Çayı 400 g	149,50
+Çaykur Rize Turist Çay 1000 g	235,00
+Çaykur Altınbaş Çay 500 g	149,00
+Lipton Doğu Karadeniz Çayı 1000 g	237,50
+Lipton Yellow Label Çay 1000 g	179,00
+Doğuş Filiz Çayı 1 kg	195,00
+Çaykur Tomurcuk Çayı 125 g	59,00
+Kurukahveci Mehmet Efendi Türk Kahvesi 100 g	65,50
+Çaykur Filiz Çay 500 g	129,00
+Kurukahveci Mehmet Efendi Türk Kahvesi 12*6 g	44,90
+Deren Demlik Poşet Çay 100'lü 320 g	76,50
+Lezzcafe Filtre Kahve 250 g	99,00
+Lezzcafe Çekirdek Filtre Kahve 500 g	199,00
+Lezzcafe Pratik Filtre Kahve Orta Kavrulmuş 8 g	10,00
+Lezzcafe Pratik Filtre Kahve Çok Kavrulmuş 8 g	10,00
+Deren Earl Grey Demlik Poşet Çay 48'li	38,50
+Kahve Filtre Kağıdı 40'lı	39,95
+Lipton Yellow Label Demlik Poşet Çay 48'li	90,00
+Lipton Altın Harman Demlik Poşet 100'lü	165,00
+Lipton Earl Grey Demlik Poşet Çay 48'li 153 g	90,00
+Jacobs Selection Filtre Kahve 250 g	135,00
+Çaykur Altınbaş Sade Demlik Poşet Çay 200 g 40'lı	87,90
+Deren Poşet Çay 25'li	22,50
+Lezzcafe Klasik 200 g	145,00
+Lezzcafe Gold 200 g	159,00
+Deren Earl Grey Fincan Poşet Çay 25'li	22,50
+Lezzcafe Latte Sütlü Köpüklü 17 g	4,50
+Nescafe Mocha 9*17 g	69,50
+Tchibo Filtre Kahve Kağıdı 80'li	59,95
+Nescafe Gold Ekonomik Paket 100 g	193,50
+Nescafe Classic 100 g Ekonomik Paket	119,50
+Jacobs Cronat Gold 100 g	162,50
+Lezzcafe Coffee Cream 200 g	37,50
+Doğadan Yeşil Çay Açai Ananaslı	59,50
+Doğadan Form Kayısılı Bitki Çayı 20'li	59,50
+Doğadan Zencefil Limon Bitki Çayı 18'li	59,50
+Doğadan Form Kiraz Saplı Bitki Çayı 20'li	59,50
+Doğadan Yeşil Çay Yumuşak İçimli 20'li	59,50
+Coffee Mate Ekonomik Paket 200 g	85,50
+Doğadan Bitki Çayı Ihlamur 18'li	59,50
+Doğadan Bitki Çayı Papatya 20'li	59,50
+Lezzcafe 3ü 1 Arada 18 g	4,25
+Lezzcafe 3ü 1 Arada Fındıklı 18 g	4,25
+Lezzcafe Cappuccino 14 g	6,00
+Nescafe Cappuccino Şekerli 14 g	9,50
+Nescafe 3'ü 1 Arada 17.5 g	8,50
+Nescafe 2'si 1 Arada 10'lu 100 g	69,50
+Nescafe 3'ü 1 Arada 17.5 g 10'lu	69,50
+Nescafe 3ü 1 Arada Sütlü Köpüklü 17.4 g	8,50
+Nescafe Sütlü Köpüklü 3'ü 1 Arada 10'lu Paket	69,50
+Nescafe 2'si 1 Arada 10 g	8,50
+Cafe Crown 2'si 1 Arada Fındık 11 g	5,90
+Lezzcafe 3'ü 1 Arada 10'lu 10*18 g	38,25
+Cafe Crown 3'ü 1 Arada Action 17 g	5,90
+Deren Tomurcuk Bergamot Çay 100 g	22,50
+Lezzcafe 2'si 1 Arada 12 g	4,25
+Balkovan Süzme Çiçek Balı 460 g	175,00
+Balparmak Yayla Ve Ova Çiçek Balı 350 g	199,90
+Balparmak Yayla Ve Ova Çiçek Balı 850 Gr	299,00
+Boltane Çilek Reçeli 2 kg	189,00
+Boltane Vişne Reçeli 380 g	43,75
+Boltane Çilek Reçeli 380 g	43,75
+Boltane Vişne Reçeli 2 kg	209,00
+Ganik Süt Reçeli 270 g	44,90
+Taşkale Çifte Kavrulmuş Tahin 600 g	98,50
+Taşkale Tahin 600 g	94,50
+Koska Tahin 550 Gr	119,00
+Taşkale Üzüm Pekmezi 800 g	169,00
+Taşkale Tahin Helvası Sade 500 g	54,50
+Taşkale Tahin Helvası Kakaolu 500 g	54,50
+Taşkale Tahin Helvası Antep Fıstıklı 500 Gr	74,50
+Seyidoğlu Sade Tahin Helvası 500 g	84,50
+Seyidoğlu Kakaolu Tahin Helvası 500 g	84,50
+Seyidoğlu Cevizli Helva 350 g	57,50
+Karmen Kakaolu Fındık Kreması 500 g	44,90
+Karmen Krokantlı Fındık Kreması 500 g	99,00
+Karmen Kakaolu Fındık Kreması Cam 400 g	72,50
+Nutella 630 g	149,00
+Ülker Çokokrem Kase 400 g	74,95
+Ülker Çokokrem Tüp 40 g	17,00
+Ülker Çokokrem 350 g	89,95
+Ülker Hobby Krem Çikolata 350 g	67,50
+Amigo Yer Fıstığı Ezmesi 340 g	69,95
+Fiskobirlik Fındık Ezmesi 180 g	99,90
+Gold Krem Fıstık 340 g	99,50
+Kranky Corn Flakes Mısır Gevreği 500 g	42,75
+Kellogg's Special K Klasik Tam Buğday ve Pirinç Gevreği 420 g	84,95
+Kellogg's Special K Kırmızı Meyveli Tam Buğday ve Pirinç Gevreği 400 g	114,95
+Kellogg's Corn Flakes Mısır Gevreği 650 g	114,95
+Kellogg's Special K Bitter Çikolatalı Tam Buğday ve Pirinç Gevreği 400 g	114,95
+Chocomix Mısır Ve Buğday Gevreği 250 g	25,00
+Kellogg's Cocopops Çokofılls 310 G	54,95
+Kellogg's Coco Pops Kakaolu Mısır ve Buğday Gevreği 450 g	95,90
+Doğa Yulaf Ezmesi 500 Gr	30,00
+Eti Lifalif Kuru Meyveli Fındıklı Müsli 350 g	67,95
+Eti Lifalif Yulaf Ezmesi 500 g	47,95
+Eti Lifalif İnce Öğütülmüş Yulaf Ezmesi 350 g	47,95
+Eti Lifalif Yulaf Ezmesi 665 g	89,00
+Bizim Vatan Acılı Kahvaltılık Sos 300 g	35,75
+Bizim Vatan Kahvaltılık Sos 300 g	35,75
+
+*** Ekmek ve Pastane Çeşitleri ***
+Ürün	Yeni Fiyat
+Üstatlım Ekler 240 g	42,50
+Büyük Ekmek	13,00
+Bagetürk Tandır Ekmeği 250 g e	29,95
+Normal Ekmek	12,25
+Odun Ekmek	12,25
+Tamköy Açma	13,50
+Tamköy Yufka 500 g	34,00
+Tamköy Baklavalık Yufka 800 g	62,50
+Fatira Böreklik Yufka 700 g	69,00
+Eyvallah Yufka Ekmek 500 g	64,50
+Fatira Üçgen Yufka 360 Gr	31,50
+Bisto Muhallebilik Kadayıf 200 g	29,50
+Tamköy Susamlı Çörek	49,95
+Tamköy Gurme Kanepe	29,95
+Simit	14,50
+Ezgi Beypazarı Kurusu 350 g	99,95
+Uno Anadolu Çavdarlı Tava Ekmegi 450 g	46,75
+Uno Anadolu Tost Ekmeği 550 Gr	28,50
+Uno Anadolu Çok Tahıllı Tava Ekmegi 430 g	47,85
+Piyale Kakaolu Puding 150 g	19,50
+Piyale Kakaolu Puding 150 g	19,50
+Uno Anadolu Kakaolu Pasta Altı 280 g	47,50
+Uno Anadolu Sade Pasta Altı 280 g	47,50
+Uno Kakaolu Pastaban 3 Kat 320 g	82,50
+Mühür Kızarmış Tel Kadayıf 400 Gr	37,50
+Tekyıldız Bu Güllaç 300 Gr	36,90
+Kent Boringer Çikolatalı Sos 300 g	59,90
+Dr. Oetker Çikolatalı Sos 98 g	19,95
+Tamköy Katmer	39,90
+Tamköy Bazlama	29,95
+Bisto Lavaş 840 g	43,50
+Uno Anadou Tandır Lavaş 6'lı 282 g	51,25
+Uno Geleneksel Lavaş 25 Cm 390 g	81,95
+Bisto Tahinli Susamlı Kurabiye 500 g	57,95
+Bisto Portakallı Kurabiye 500 g	65,00
+Bisto Beze 90 g	39,50
+Bisto Tahinli Çıtır Kurabiye 300 g	65,00
+Bisto Tereyağlı Çörek Otlu Kurabiye 500 g	65,00
+Bisto Kavala Kurabiyesi 290 g	49,00
+Bisto Damla Kurabiye 230 g	65,00
+Bisto Selanik Gevreği 200 g	53,50
+Bisto Üzümlü Kurabiye 500 g	65,00
+Bisto Süt Kaymaklı Kurabiye 400 g	65,00
+Bisto Un Kurabiyesi 500 g	57,95
+Bisto Hindistan Cevizli Kurabiye 500 g	65,00
+Bisto Sütlü Mahlepli Tuzlu Kurabiye 500 g	65,00
+Mixim Elmalı Kurabiye 320 g	52,25
+Rapata Leblebili Kurabiye 320 g	65,00
+Uno Tekli Çikolata Kremalı Kruvasan 30 g	9,95
+Uno Çikolata Kremalı Kruvasan 240 g	89,95
+Bisto Sade Galeta 200 g	21,50
+Bisto Kepekli Galeta 200 g	21,50
+Bisto Ayçekirdekli Galeta 150 g	26,00
+Altınbaşak Grissini Kepekli 125 g	38,00
+
+*** Dondurma Çeşitleri ***
+Ürün	Yeni Fiyat
+Bableyo Ice Çilek Limon 47 Ml	5,00
+Mis Gold Meyve Sepeti 900 ml	95,00
+Mis Gold Kaymak Fıstık Yarım Yağlı Dondurma 1 L	95,00
+Mis Kakao Vanilya Antep 1,5 L	59,50
+Mis Gold Kaymaklı Yarım Yağlı 1 L	95,00
+Mis Gold Tria Üç Çikolatalı 900 ml	95,00
+Mis Vişne-Vanilya-Limon 1 L	47,50
+Mis Çilek-Vanilya-Kakao 1500 ml	59,50
+Mis Vanilyalı Dondurma 1 L	47,50
+Mis Kakao-Vanilya 1 L	47,50
+Mis Baton Pasta Çikolata-Vanilya 750 ml	79,00
+Algida Maraş Tel Kadayıf Fındık Parçalı Sade Dondurma 500 ml	119,90
+Carte d'Or Selection Patisserie 800 ml	149,90
+Algida Maraş Usulü Sade Dondurma 500 ml	109,90
+Maraşım Kesme Sade 500 ml	137,90
+Algida Keyif Kakao Vanilya 750 ml	59,90
+Algida Keyif Kakao Vanilya Fıstık 1400 ml	79,90
+Golf Maraşım Kesme Dondurma 650 mL	142,90
+Golf Maraşım Çikolata Sade 500 ml	137,90
+Algida Maraş Usulü Sade-Çikolatalı Dondurma 500 ml	109,90
+Carte d'Or Classic Badem Karamel Vanilya 850 ml	139,90
+Carte d'Or Selection Meyve Şöleni 800 ml	149,90
+Carte d'Or Classic Antep Fıstık Bitter Vanilya 850 ml	139,90
+Carte d'Or Classic Vişne Bitter Vanilya 850 ml	139,90
+Carte d'Or Selection Çikolata Karnavalı 800 ml	149,90
+Algida Dövme Sade 1400 ml	84,90
+Algida Keyif Çilek Vanilya Kakao 1400 ml	79,90
+Carte d'Or Classic Çikolata Karamel Muz 850 ml	139,90
+Algida Maraş Usulü Bol Kaymaklı 500 Ml	119,90
+Carte d'Or Selection Gold Çikolata 800 ml	139,90
+Golf Royal Gourmet Belçika Çikolatası 850 Ml	154,90
+Golf Royal Gourmet Yaz Ferahlığı 850 ml	154,90
+Mis Gold Badem Junior 6 Adet 360 ml	109,00
+Magnum Mini Euphoria Limon Ahududu 353 ml	169,90
+Magnum Mini Double 6'lı 360 ml	169,90
+Magnum Mini Badem 6'lı 345 ml	169,90
+Magnum Mini Classic 6'lı 345 ml	169,90
+Golf Bravo Junior Multipack 6'lı	179,90
+Magnum Mini Classic Badem Beyaz 345 ml	169,90
+Mis Gold Antep Fıstığı Badem Tria 360 ml	109,00
+Buzlat Buz Küpü 700 ml	54,95
+
+*** Dondurulmuş Ürünler Çeşitleri ***
+Ürün	Yeni Fiyat
+Pınar Yarım Hindi Dondurulmuş kg	249,00
+İnci Dana Hamburger Köfte 225 g	99,00
+İnci Dana Kuzu Kasap Köfte 500 g	205,00
+İnci Dana Kuzu Kaşarlı Köfte 500 g	205,00
+İnci Karışık Pizza 820 G	82,50
+Şef Franzi Peynirli Pizza 475 g	89,90
+Superfresh Pizza King Cheddarlı 600 g	119,00
+Superfresh Pizza Tost Cheddarlı 200 g	49,90
+Superfresh Pizza Tost Klasik 200 g	49,90
+Superfresh Pizza King 780 g	149,00
+İnci Kayseri Mantısı 450 g	26,50
+Superfresh Mantı 400 g	84,95
+Superfresh Peynirli Tepsi Böreği 650 G	65,00
+Çıtırtat Kalem Böreği 400 g	34,50
+İnci Milföy 1000 g	49,75
+Super Fresh Milföy Hamuru 1 kg	69,90
+İnci Soğan Halkası 450 g	32,50
+Cake Time Tiramisu 600 g	145,00
+Cake Time Limonlu Cheesecake 650 g	129,00
+Şirin Künefe 135 g	21,25
+İnci Tane Mısır 450 Gr	42,50
+İnci Garnitür 450 g	25,50
+İnci Bezelye 450 g	32,00
+İnci Elma Dilim Patates 1 kg	49,90
+Superfresh İnce Çıtır Patates 1000g	135,00
+Fish Point Parmak Kalamar %20 Glaze 250 G	149,00
+Balık Dünyası Türk Somonu 440 g	75,00
+Balık Dünyası Uskumru Fileto 500 g	100,00
+
+
+*** Yemeklik Malzemeler Çeşitleri ***
+Ürün	Yeni Fiyat
+Altınküp Toz Şeker 5 kg	174,50
+Altınküp Toz Şeker 2 Kg	74,50
+Altınküp Küp Şeker 1 Kg	44,50
+Altınküp Esmer Küp Şeker 500 g	57,50
+Piyale Un 5 Kg	89,50
+Piyale Un 2 Kg	39,50
+Piyale Mısır Unu 250 g	8,95
+Piyale Galeta Unu 250 g	14,00
+Sinangil Glutensiz Un 500 g	52,95
+Piyale Tam Buğday Unu 2 Kg	72,00
+Evin Ayçiçek Yağı 1 L	69,50
+Evin Ayçiçek Yağı 2 L	134,00
+Evin Ayçiçek Yağı Pet 5 L	289,00
+Lio Riviera Zeytinyağı 1 L	199,00
+Lio Riviera Zeytinyağı 2 L	395,00
+Lio Sızma Zeytinyağı 2 L	419,00
+Lio Sızma Zeytinyağı 1 L	219,00
+Anadolu Mutfağı Yerli Pilavlık Pirinç 2.5 kg	95,00
+Anadolu Mutfağı Yerli Pilavlık Pirinç 1 Kg	42,50
+Anadolu Mutfağı Baldo Pirinç 1 Kg	67,50
+Anadolu Mutfağı Baldo Pirinç 2500 g	145,00
+Anadolu Mutfağı Yasemin Pirinç 1 Kg	46,50
+Anadolu Mutfağı Osmancık Pirinç 1 Kg	53,00
+Anadolu Mutfağı İthal Pilavlık Pirinç 2.5 Kg	79,50
+Anadolu Mutfağı İthal Pilavlık Pirinç 1 Kg	33,50
+Anadolu Mutfağı Osmancık Pirinç 2.5 Kg	117,50
+Anadolu Mutfağı Kırık Pirinç 1 Kg	23,00
+Anadolu Mutfağı Pilavlık Bulgur 1 Kg	21,00
+Anadolu Mutfağı Köftelik Bulgur 1 Kg	21,00
+Anadolu Mutfağı Esmer Köftelik Bulgur 1 Kg	21,00
+Anadolu Mutfağı Esmer Pilavlık Bulgur 1 Kg	21,00
+Anadolu Mutfağı Yeşil Mercimek 1 Kg	59,75
+Anadolu Mutfağı Kırmızı Mercimek 1000 g	38,50
+Anadolu Mutfağı Kuru Fasulye 1 Kg	59,75
+Anadolu Mutfağı Barbunya 1 Kg	82,95
+Anadolu Mutfağı Aşurelik Buğday 1 Kg	20,00
+Anadolu Mutfağı Cin Mısır 500 g	13,50
+Tat Kinoa Tohumu 500 g	119,90
+Tat Firik Bulgur 500 g	49,90
+Anadolu Mutfağı Nohut 1 Kg	51,75
+Piyale Yüksük Makarna 500 g	11,75
+Piyale Kelebek Makarna 500 g	11,75
+Piyale Spagetti 500 g	11,75
+Piyale İnce Uzun Makarna 500 g	11,75
+Piyale Burgu Makarna 500 g	11,75
+Piyale Kuskus 500 g	11,75
+Piyale Boncuk Makarna 500 g	11,75
+Barilla Spagetti Makarna No:5 500 g	41,75
+Filiz Makarna İnce Uzun 500 g	22,75
+Filiz Makarna Spaghetti 500 g	22,75
+Barilla Fusilli (Burgu) Makarna 500 g	41,75
+Barilla Lazanya Makarna 500 g	115,95
+Filiz Makarna Fiyonk 500 g	22,75
+Barilla Penne Rigate (Kalem) Makarna 500 g	41,75
+Filiz Makarna Burgu 500 g	22,75
+Piyale Arpa Şehriye 500 g	11,75
+Piyale Tel Şehriye 500 g	11,75
+Indomie Körili Hazır Noodle 5'li Paket 375 g	45,00
+Indomie Tavuk Çeşnili Noodle 60 g	22,00
+Indomie Sebze Çeşnili Noodle 75 g	10,75
+Indomie Tavuk Çeşnili Noodle 70 g	10,75
+Indomie Köri Çeşnili Noodle 75 g	10,75
+Indomie Spesiyal Çeşnili Noodle 75 Gr	10,75
+Filiz Tam Buğday Burgu Makarna 350 g	24,75
+Indomie Köri Aromalı Noodle 60 g	22,00
+Indomie Noodle Dana Etli 60 g	22,00
+Indomie Tavuklu Hazır Noodle 5'li Paket 350 g	45,00
+Piyale Fırınlanmış Dolgusuz Mantı 500 g	24,50
+Piyale Erişte 500 g	24,50
+Piyale Makarna Sosu Napoliten 340 g	74,90
+Piyale Makarna Sosu Pesto 190 g	74,90
+Barilla Napoliten (Napoletana) Makarna Sosu 400 g	117,95
+Barilla Pesto Ve Genovese Sos 190 g	117,95
+Bizim Vatan Bezelye Konservesi 830 g	27,90
+Bizim Vatan Garnitür Konservesi 560 g	22,90
+Bizim Vatan Dilimli Mantar 330 g	55,00
+Bizim Vatan Mısır Konservesi 400 g	26,50
+Superfresh Mısır Konservesi 3*200 g	61,75
+Bizim Vatan Domates Salçası Cam 650 g	38,90
+Bizim Vatan Domates Salçası 4300 g	189,00
+Bizim Vatan Domates Salçası 400 g	27,90
+Bizim Vatan Domates Salçası 830 g	37,95
+Tat Domates Salçası 830 g	44,90
+Tat Domates Püresi 200 g	19,95
+Tommis Çıtır Tavuk Burger 180 Gr	34,50
+Mr. No Peynir Salam Baton Sandviç 130 g	27,50
+Mr. No Bol Peynirli Baton Sandviç 130 g	27,50
+Bizim Vatan Yaprak Sarma 400 g	44,90
+Bizim Vatan Haşlanmış Barbunya 800 g	25,90
+Bizim Vatan Haşlanmış Nohut 800 g	25,90
+Bizim Vatan Barbunya Pilaki 400 g	32,50
+Bizim Vatan Haşlanmış Kuru Fasulye 800 g	25,90
+Bizim Vatan Közlenmiş Patlıcan 510 g	29,90
+Bizim Vatan Közlenmiş Biber 680 g	54,90
+Anacım Mantı 350 g	41,50
+Mezzet Yaprak Sarma 300 g	47,50
+Mezzet Rus Salatası 250 g	22,50
+Mezzet Etsiz Acılı Çiğ Köfte 384 g	25,50
+Mezzet Acılı Ezme 250 g	27,50
+Mezzet Haydari 200 G	29,90
+Mezzet Atom 200 G	29,90
+Mezzet Patlıcan Salata 200 G	29,90
+Mezzet Çiğ Köfte Dürüm 180 g	17,00
+Evin Margarin 250 g	15,00
+Bizim Paket Margarin 250 g	30,50
+Teremyağ Paket Margarin 250 g	35,50
+Evin Kase Margarin 250 g	16,50
+Teremyağ Kase Margarin 250 g	42,00
+Becel Zeytinyağlı Kase Margarin 250 g	46,25
+Becel Klasik Kase 500 g	76,50
+Teremyağ Gurme Kaymaklı Kase Margarin 400 g	70,00
+Bizim Vatan Ketçap 500 g	31,90
+Bizim Vatan Ketçap 1000 g	46,75
+Bizim Vatan Ketçap Acılı 500 g	31,90
+Bizim Vatan Ketçap Acılı 1000 g	46,75
+Tat Acılı Ketçap 390 g	49,95
+Tat Ketçap 390 g	49,95
+Bizim Vatan Mayonez 840 g	85,75
+Bizim Vatan Mayonez 430 g	49,95
+Tat Mayonez 330 g	69,95
+Tat Hardal 230 g	58,95
+Knorr Çabuk Çorba Kremalı Mantar 19 g	12,75
+Piyale Mercimek Çorbası 72 g	19,90
+Piyale Ezogelin Çorbası 80 g	19,90
+Piyale İşkembe Çorbası 65 g	19,90
+Piyale Tarhana Çorbası 65 g	19,90
+Piyale Kremalı Tavuk Çorbası 62 g	19,90
+Piyale Kremalı Mantar Çorbası 65 g	19,90
+Piyale Domates Çorbası 65 g	19,90
+Piyale Yayla Çorbası 80 g	19,90
+Piyale Şehriyeli Tavuk Çorbası 58 g	19,90
+Knorr Ezogelin Çorbası 74 g	32,50
+Knorr Şehriyeli Tavuk Çorbası 51 g	32,50
+Anadolu Mutfağı Tuz 750 g	6,25
+Anadolu Mutfağı İyotlu Tuz 125 g	6,50
+Billur Tuz İyotlu 750 g	27,90
+Anadolu Mutfağı Kekik 20 g	5,25
+Anadolu Mutfağı Karanfil 15 g	23,25
+Anadolu Mutfağı Limon Tuzu 50 g	13,75
+Anadolu Mutfağı Kırmızı Pul Biber 75 g	22,25
+Anadolu Mutfağı Tarçın 90 g	21,90
+Anadolu Mutfağı Nane 30 g	10,50
+Anadolu Mutfağı Çörek Otu 80 g	17,00
+Anadolu Mutfağı Kimyon 75 g	27,50
+Anadolu Mutfağı Tatlı Toz Kırmızı Biber 50 g	13,90
+Anadolu Mutfağı Kuş Üzümü 75 g	26,90
+Anadolu Mutfağı Sumak 50 g	14,25
+Anadolu Mutfağı Karbonat 100 g	9,60
+Anadolu Mutfağı Kabuklu Tarçın 45 g	26,75
+Anadolu Mutfağı Köri 35 g	12,25
+Anadolu Mutfağı Dolmalık Fıstık 25 g	51,95
+Anadolu Mutfağı Susam 90 g	19,80
+Anadolu Mutfağı Hindistan Cevizi 50 g	15,00
+Anadolu Mutfağı Karabiber 90 g	53,90
+Anadolu Mutfağı Kırmızı Pul Biber 250 g	72,25
+Anadolu Mutfağı Tane Karabiber 58 g	43,95
+Anadolu Mutfağı Zerdeçal 35 g	14,45
+Anadolu Mutfağı Zencefil 30 g	15,30
+Anadolu Mutfağı Mavi Haşhaş 100 g	32,90
+Anadolu Mutfağı Köfte Harcı 100 g	29,50
+Knorr Mangal Harcı 37 g	22,90
+Knorr Köfte Harcı 82 g	39,90
+Knorr Çıtır Pane Harcı 90 g	39,90
+Knorr Tavuk Çeşnisi Mangal Lezzeti 29 g	39,90
+Anadolu Mutfağı Çiğ Köfte Harcı 430 g	43,25
+Anadolu Mutfağı Sebzeli Çeşni 200 g	29,50
+Sıra Çiğ Köfte Etsiz 500 G	59,00
+Piyale Et Bulyon 12'li 120 g	21,90
+Knorr Et Suyu Bulyon 120 g	39,75
+Piyale Tavuk Bulyon 12'li 120 g	21,90
+Knorr Tavuk Suyu Bulyon 120 g	39,75
+Bizim Vatan Ton Balığı 2*160 g	89,50
+Fide Klasik Ton Balığı 4*80 G	169,95
+Superfresh Ton Balığı 3*75 g	199,00
+Bizim Vatan Beyaz Sirke 2 Lt	28,50
+Bizim Vatan Nar Ekişisi 250 ml	69,90
+Bizim Vatan Elma Sirkesi 750 ml	23,50
+Bizim Vatan Üzüm Sirkesi 750 ml	23,50
+Calve Ketçap 610 Gr	76,95
+Şef Franzi Srıracha Acı Sos 510 g	99,00
+Bizim Vatan Soya Sosu 250 ml	34,90
+Piyale Hamur Kabartma Tozu 15'li Paket	16,50
+Piyale Şekerli Vanilin 15'li Paket	15,75
+Dr. Oetker Hamur Kabartma Tozu 15'li	34,95
+Dr. Oetker Şekerli Vanilin 15'li	24,50
+Piyale Toz Kakao 50 g	19,35
+Ülker Toz Kakao 50 g	30,95
+Piyale Sakızlı Muhallebi 150 g	13,00
+Piyale Tavukgöğsü 125 g	13,00
+Piyale Supangle 143 g	24,00
+Piyale Aşure 225 g	24,90
+Dr.oetker Kakao 50 G Avantajlı Paket 150 G	57,00
+Dr.oetker Jelatin 2'li	18,75
+Dr. Oetker Bitter Çikolatalı Ve Meyveli Sos 2'li	43,90
+Dr.oetker 2 Kakaolu + 1 Vanilyalı Puding	49,50
+Bişkin Haşhaş Ezmesi 250 g	37,50
+Dr. Oetker Profiterol 360 g	67,75
+Dr. Oetker Sakızlı Muhallebi 2x150 Gr	27,90
+Dr. Oetker Pasta Süsü Şekerli Çubuk 10 g	12,50
+Dr. Oetker Pasta Süsü Kalpler 10 Gr	12,50
+Piyale Puding Bitter Çikolatalı 115 g	19,50
+Piyale Çilekli Puding 125  g	12,50
+Piyale Vanilyalı Puding 125 g	12,50
+Piyale Puding 115 g Çikolata Parçalı	19,50
+Piyale Muzlu Puding 125 g	12,50
+Dr. Oetker Kakaolu Puding 196 g	34,50
+Piyale Sade Krem Şanti 150 g	29,50
+Piyale Pasta Kreması Sade 140 g	28,50
+Dr.oetker Pişmeli Pastacı Kreması 156 G	18,75
+Ülker Bitter Damla Çikolata 120 g	69,95
+Dr. Oetker Sade Krem Şanti 150 g	61,50
+Piyale Buğday Nişastası 200 g	13,15
+Piyale Mısır Nişastası 200 g	12,75
+Piyale Pudra Şekeri 250 g	20,00
+Piyale Pirinç Unu 250 g	20,00
+Piyale Çikolatalı Sos 128 g	21,50
+Piyale İnstant Maya 4x42 g	9,45
+Piyale Yaş Maya 4x42 g	9,75
+Piyale İrmik 500 g	12,25
+Piyale Ekşi Maya 4x42 g	11,90
+Evde Probiyotik Yoğurt Mayası 5'li Paket	29,90
+Dr. Oetker Instant Maya 3x10 g	19,95
+Bizim Vatan Acı Biber Turşusu 325 g	29,50
+Bizim Vatan Jalapeno Turşusu 340 g	27,50
+Bizim Vatan Biberiye 325 g	29,50
+Bizim Vatan Karışık Turşu 680 g	34,50
+Bizim Vatan Çubuk Salatalık Turşusu 920 Gr	69,00
+Bizim Vatan Salatalık Turşusu 670 g	29,90
+Bizim Vatan Karışık Turşu 3000 g	89,00
+Bizim Vatan Salatalık Turşusu 3000 Gr	99,00
+Bizim Vatan Kornişon Turşusu 330 g	39,50
+Bizim Vatan Kornişon Turşusu 670 g	44,50
+
+*** Atıştırmalıklar Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Amigo Tırtıklı Sade Patates Cipsi 150 g	27,00
+Amigo Düz Sade Patates Cipsi 150 g	27,00
+Amigo Barbekü Sos Çeşnili Patates Cipsi 200 g	38,00
+Amigo Pesto Sos Çeşnili Patates Cipsi 200 g	38,00
+Amigo Acı Baharat Çeşnili Patates Cipsi 135 g	27,00
+Master Potato Acılı&baharatlı Cips 110 G	49,50
+Master Potato Soğanlı & Ekşi Kremalı Cips 110 g	49,50
+Lay's Fırından 7 Baharat Çeşnili 96 G	29,50
+Cipso Yoğurt & Mevsim Yeşillik 145 Gr	34,50
+Cipso Ketçap 150 Gr	34,50
+Pattes Yoğurt & Mevsim Yeşillikleri 100 g	27,50
+Lay's Klasik Mega Boy 193 g	39,50
+Ruffless Ketçap Aromalı 107 g	35,00
+Cipso Deniz Tuzlu Original 150 Gr	34,50
+Pattes Sade Patates Cipsi 100 g	27,50
+Chips Master Yoğurt Mevsim Yeşillikleri İncecik Patates Cipsi 100 g	33,50
+Ruffles Originals Mega Boy 193 Gr	39,50
+Lay's Fırından Yoğurt Mevsim Yeşillik 96 g	35,00
+Lay's Yoğurt Mevsim Yeşillikleri 107 g	35,00
+Ruffles Peynir Soğan Süper Boy 107 g	35,00
+Ruffles Originals 107 g	35,00
+Lay's Klasik 107 g	35,00
+Lay's Baharatlı 107 g	35,00
+Pattes Ketçaplı Patates Cipsi 100 Gr	27,50
+Pattes Tırtıklı Acı Baharat Patates Cipsi 100 Gr	27,50
+Amigo Tatlı&acı Biber Aromalı Mısır Çerezi 130 G	17,50
+Amigo Yoğurt Ve Mevsim Yeşillikleri Aromalı 130 G	17,50
+Amigo Ceheddar Peynir Aromalı Mısır Çerezi 130 G	17,50
+Amigo Ultra Taco 100 g	19,50
+Amigo Taco Mısır Cipsi 130 g	19,50
+Amigo Yer Fıstıklı Mısır Çerezi 55 g	9,50
+Amigo Barbekü Sos Çeşnili Mısır Cipsi 130 g	19,50
+Amigo Nacho Peynir Çeşnili Mısır Cipsi 130 g	19,50
+Master Puff Biftek Soğan Aromalı Mısır Cipsi 90 G	18,50
+Master Nut Fıstık Ezmeli Acı Biberli 100 G	24,50
+Doritos Nacho Mısır Cipsi 218 g	39,50
+Doritos Taco Mega Boy 218 g	39,50
+Doritos Turca Haşhaş Domates Mısır Cipsi 113 g	34,00
+Doritos Taco Baharatlı Cips 121 g	34,00
+Doritos Hot Corn Acı Biber Çeşnili Cips 113 g	34,00
+Patos Rolls Acılı Süper 109 g	29,50
+Patos Kritos Peynirli Süper Boy 115 g	34,50
+Doritos Nacho 121 g	34,00
+Amigo Pop Corn Patlamış Mısır 60 g	12,50
+Peyman Nutzz Popcorn Tuzlu- Karamelli 90 G	22,50
+Peyman Nutzz Popcorn Pizza Hut Baharatlı 85 g	22,50
+Nutzz Popcorn Yer Fıstıklı Bademli 85 g	22,50
+Amigo Yerfıstıklı Mısır Çerezi 130 g	17,50
+Amigo Peynir Aromalı Mısır Çerezi 130 g	17,50
+Amigo Ketçap Aromalı Mısır Çerezi 130 G	17,50
+Amigo Süt Mısırı Çeşnili Mısır Çerez 130 g	19,50
+Amigo Avantaj Paketi 3'lü	9,50
+Çerezos Space Ketçap Aromalı 50 G	12,50
+Çerezos Space Fıstıklı 50 G	12,50
+Çerezza 3'lü 103 g	29,95
+Cheetos Fırından Fıstıklı 46 g	14,50
+Cheetos Mega Peynir Aromalı Mısır Çerezi 80 g	22,50
+Cheetos Mini Shots Süt Mısır 3*14 g	12,00
+Cheetos Fırından 60 g 3'lü Paket	19,95
+Rolling Pops Kids 56 Gr	15,90
+Çerezza Muhabbet Klasik 60 g	19,50
+Patos Baharatlı Parti Boy Cips 109 G	29,50
+Amigo İri Boy Tuzsuz Ay Çekirdeği 400 g	42,95
+Amigo İç Ay Çekirdeği 100 g	10,95
+Amigo Tuzlu Ay Çekirdeği İri Boy 400 g	42,95
+Amigo Siyah Tuzsuz Ay Çekirdeği 400 g	31,75
+Amigo Siyah Tuzlu Ay Çekirdeği 400 g	31,75
+Amigo Tuzsuz Siyah Çekirdek 1 Kg	70,00
+Amigo Tuzlu Siyah Çekirdek 1 Kg	70,00
+Amigo Soslu Mısır 150 g	18,50
+Amigo Badem İçi 150 g	67,00
+Amigo Dalından Çiğ Badem 150 g	67,00
+Amigo Karışık Kuruyemiş 150 g	54,95
+Amigo Lüks Kabuksuz Karışık Kuruyemiş 200 g	96,75
+Amigo Kabuklu Ceviz 500 g	75,95
+Amigo Ceviz İçi 150 g	61,50
+Amigo Antep Fıstığı 150 g	84,50
+Amigo Kaju Cevizi 150 g	62,95
+Ceviz Kabuklu Kg	159,50
+Amigo Fındık İçi 150 g	71,75
+Amigo Dalından Çiğ Fındık 150 g	59,00
+Amigo Kabuklu Yer Fıstığı 500 g	62,95
+Amigo Soslu Cips Fıstık 200 g	22,95
+Amigo Tuzlu Fıstık 200 g	31,75
+Amigo Kızarmış Yer Fıstığı 150 g	22,50
+Amigo Boncuk Fıstık 200 g	22,00
+Tuzlu Kabuklu Fıstık Kg	99,50
+Amigo Sarı Leblebi 200 g	25,00
+Amigo Beyaz Leblebi 200 g	25,00
+Karmen Bütün Fındıklı Sütlü Çikolata 100 g	49,50
+Karmen Fındıklı Çikolata 80 g	39,50
+Karmen Bitter Çikolata 80 g	37,00
+Karmen Antep Fıstıklı Çikolata 80 g	49,50
+Karmen Sütlü Çikolata 80 g	36,00
+Karmen Tablet Beyaz Çikolata 80 g	39,00
+Ülker Napoliten Kalpli Çikolata 90 G	59,00
+Ülker Çikolata Vişneli Draje 67 G	49,00
+Ülker Çikolata Fındıklı Draje 67 G	49,00
+Toblerone Crunchy Almonds 100 g	59,90
+Ülker Çikolata Meşhur Dubai Lezzeti 93 G	75,00
+Şölen Ozmo Farm Parmak Çikolata 44 g	33,00
+Nestle Damak Kare Antep Fıstıklı Çikolata 60 g	72,50
+Ülker Caramio Karamelli Kare Çikolata 55 g	28,00
+Ülker Baton Fıstıklı Çikolata 30 g	35,00
+Ülker Bitter Çikolata 280 g	180,00
+Ülker Sütlü Çikolata 280 g	180,00
+Ülker Sütlü Kare Çikolata 60 g	39,50
+Milka Çilekli Yoğurtlu Çikolata 100 g	29,90
+Ülker %60 Bitter Kare Çikolata 60 Gr	39,50
+Ülker Antep Fıstıklı Kare Çikolata 65 g	67,00
+Nestle Damak Baklava Çikolata 60 g	74,50
+Ülker Çikolata Be Happy Çilek 88 Gr	37,50
+Ülker Alpella Pirinç Patlaklı Tablet Çikolata 65 g	37,00
+Ülker Fındık Rüyası Kare Çikolata 75 g	46,50
+Milka Fındıklı Çikolata 80 g	29,90
+Ülker Çikolata Bitter %80 Kakao 60 g	39,50
+Eti Karam Bitter %70 Kakao Çikolata 60 g	39,50
+Ülker Beyaz Çikolata 70 g	52,50
+Ülker Fındıklı Üzümlü Sütlü Çikolata 60 g	42,00
+Ozmo Fun Figürlü Çikolata 23 g	22,50
+Torku Miniki Sütlü Çikolata 72 g	31,75
+Amigo Yer Fıstıklı Krokan 3'lü 90 Gr	19,90
+Karmen Fındıklı Çikolata 40 g	20,00
+Karmen Nuga Bar 35 g	7,25
+Karmen Hindistan Cevizli Bar 25 g	5,75
+Karmen Tane Fındıklı Gofret 33 g	12,50
+Karmen Bandır Fındık Kreması&grissini 52 g	14,50
+Karmen Couple Çikolata Kaplama Karamel Bisküvi 42 g	7,95
+Karmen Bütün %20 Bademli Bitter Çikolata 80 g	42,00
+Karmen Bütün %20 Bademli Sütlü Çikolata 80 g	42,00
+M&m's Salted Caramel 36 G	24,50
+Bounty Hindistan Cevizli Çikolata 57 G	24,50
+Milky Way Crispy Rolls 22.5 g	9,95
+Twix Caramel Crispy Rolls 22.5 g	9,95
+Ülker Laviva Selection Sütlü Çikolatalı Gofret 45	17,00
+Eti Canga Cookie 45 g	18,25
+Ülker Antep Fıstıklı Milföy 28 g	14,00
+Biscolata Stix Sütlü 40 Gr	26,50
+Snickers Bar 2'li 80 g	24,50
+Ülker Hobby Fındıklı Bar 250 g	72,50
+Snickers Bar 50 g	19,50
+Eti Canga 45 g	18,25
+Ülker Coco Star Hindistan Cevizli 25 g	8,75
+Piko Portakallı Pirinç Patlaklı Çikolata 18 g	6,75
+Tadelle Fındık Dolgulu Sütlü Çikolata 30 g	30,00
+Ülker Laviva 35 g	16,50
+Mars Bar Çikolatalı 51 g	19,90
+Ülker Çokomilk 24 g	7,50
+Kinder Bueno White 43 g	29,90
+Ülker Caramio Sütlü Çikolata 32 g	16,50
+Ülker Metro 36 g	10,75
+Ülker Albeni 40 g	10,50
+Ülker Lovenut 30 g	22,00
+Eti Maximus Loading 50 g	16,00
+Züber Lokma Hindistan Cevizi Kaplı Meyve Topu 96 g	74,90
+Ülker Antep Fıstıklı Çikolata 14 g	12,00
+Eti Canga Gold 45 g	18,75
+Züber Lokma Antep Fıstığı Kaplı Meyve Topu 96 g	89,90
+Torku Miniki Sütlü Nuga Bar 240 g	62,50
+Toy Toy Sürpriz Yumurta 2*20 g	43,50
+Kinder Joy Sürpriz Yumurta 20 g	29,00
+Cosby Fun Sürpriz Yumurta 20 g	18,50
+Ozmo Yumurta Kafalar 20 g	31,50
+Elit Şemsiye Sütlü Çikolata 30 g	25,90
+Eti Petito Ayıcık Mini 72 g	59,90
+Elit Muz Aromalı Çubuk Çikolata 30 g	19,90
+Ülker Napoliten Sütlü Çikolata 33 g	19,90
+Elit Çilekli Çubuk Çikolata 30 gr	23,50
+Beyoğlu Dubai Çikolatası 200 G	179,00
+Beyoğlu Dubai Duo Gofret 36 g	25,00
+Beyoğlu Dubai Çikolatası 35 G	39,90
+Elit Dubai Çikolatası 30 g	39,90
+Nestle Damak İnci Çikolata Öğretmenler Günü 70 Gr	49,90
+Karmen Sütlü Çikolata Kaplı Çilek Draje 80 g	59,50
+Karmen Bitter Çikolata Kaplı Çilek Draje 80 g	59,50
+Yupo Draje Tüp 3x20 g	35,00
+M&m's Çikolatalı Draje 45 g	34,90
+Milka Bonibon 3'lü 72.9 g	45,75
+M&M's Fıstıklı Draje 45 Gr	24,50
+Karmen Pattix Kakaolu Gofret 30 g	8,75
+Karmen Pattix Hindistan Cevizli Gofret 28 g	8,75
+Karmen Fındıklı Gofret 32 g	11,00
+Karmen Çikolata Gofret 38 g	7,50
+Karmen Çokorulo Beyaz 18 g	7,95
+Karmen Çokorulo Sütlü 18 g	7,95
+Ülker Çokonat Antep Fıstıklı 30 g	19,50
+Çizmeci Time Up Çikolatalı Sütlü Kremalı 30 G	14,50
+Nestle Damak Ala %25 Antep Fıstıklı Gofret 30 g	31,50
+Ülker Bitter Çikolatalı Gofret 36 g	10,00
+Eti Karam Gurme Gofret 50 g	19,50
+Ülker Dido Kare 55.5 g	26,50
+Ülker Dido 35 g	16,50
+Şölen Ozmo Kornet Fındıklı 25 g	13,00
+Ülker Dido Gold Süt Reçeli Tadında 36 g	19,00
+Nutymax Antep Fıstıklı Kremalı Gofret 44 g	17,50
+Nutymax Fındıklı Kremalı Gofret 44 Gr	17,50
+Ülker Çikolatalı Gofret 36 g	7,50
+Ülker Dido Trio 36.5 g	17,50
+Ülker Çokonat 33 g	16,50
+Dippo Surprise Cornet Oyuncaklı 25 g	17,50
+Ülker Beyaz Çikolatalı Gofret Beyaz 35 g	10,00
+Sarelle Gofret 33 g	18,00
+Ülker Çokonat Baklava 30 g	22,00
+Ülker Çikolatalı Gofret Maxi 47 Gr	12,50
+Nesquik Gofret 26.7 g	12,00
+Miskets Dubai Mini Kornet 50 g	45,00
+Ülker Rulokat 170 g	56,00
+Karmen Hindistan Cevizi Topları Bademli 150 g	49,00
+Peki Küp Gofret Kakaolu-fındıklı 250 g	29,90
+Peki Kakaolu Gofret 350 g	29,50
+Karmen Hindistan Cevizi Topları Bademli 30 g	12,50
+Taşkale Kağıt Helva Sade 45 g	9,00
+Peki Çilek Kremalı Gofret 142 g	19,00
+Peki Fındıklı Kremalı Gofret 142 g	19,00
+Ülker Stars Hindistan Cevizli Çikolatalı 47 G	21,00
+Miskos Dondurma Külahı 10'lu	12,50
+Eti Hoşbeş Fındıklı Gofret 142 g	34,00
+Eti Hosbes Kakaolu 142 Gr	34,00
+Çizmeci Time Wafer Master Fındıklı 70 g	24,00
+Ferrero Rocher 3 'lü 37 g	42,50
+Ülker Gofret Vanilya Aromalı 220 g	36,00
+Koska Kağıt Helva 45 g	12,75
+Ülker Gofret Fındıklı 220 g	36,00
+Ülker Kat Kat Tat 25 g	6,50
+Ülker 9 Kat İnce İnce Hindistan Cevizli Gofret 114 g	25,00
+Biscolata Veni Çikolatalı Gofret 110 g	17,50
+Eti Bidolu Kakaolu 81 g	24,00
+Eti Bidolu Yer Fıstıklı Gofret 81 g	24,00
+Hanuta Gofret 44 Gr	39,90
+Tempo Potibör Bisküvi 1 kg	59,00
+Ülker Hanımeller Çokodamla 6'lı 492 g	87,00
+Ülker Hanımeller Fındıklı 6'lı 492 g	87,00
+Ülker Hanımeller Hindistan Ceviz Çikolata 276 g	72,00
+Hünnap Agubebe Keçi Sütlü Tam Buğdaylı 200 g	39,90
+Ülker Pötibör Bisküvi 800 g	80,00
+Eti Burçak Kurabi 198 g	42,50
+Eti Burçak 3'lü 393 g	47,50
+Eti Cicibebe Bisküvi 1 kg	119,00
+Torku Tam Yulaflı Bisküvi 375 g	48,00
+Eti Cicibebe 172 g	31,00
+Torku Tam Buğdaylı Bisküvi 393 Gr	48,00
+Eti Burçak Yulaflı 3'lü 465 g	52,00
+Ülker Bebe Bisküvisi 172 g	26,50
+Ülker Hanımeller Çokodamla 82 g	14,50
+Ülker Hanımeller Asorti Poşet 150 g	29,00
+Ülker Bebe Bisküvisi 1 kg	115,00
+Ülker Hanımeller Fındıklı 82 g	14,50
+Ülker Saklıköy Çikolata Kremalı 261 g	47,00
+Saklıköy Sütlü Kremalı Bisküvi 264 g	41,50
+Gioconda Kedi Dili Bisküvi 200 g	41,50
+Karmen Kakao Kaplamalı Bisküvi 276 g	39,50
+Karmen Sütlü Çikolatalı Sandviç Bisküvi 30 g	5,50
+Karmen Sandviç Bisküvi 8'li 240 g	39,50
+Karmen Zebra Kakao Kaplamalı Bisküvi 276 g	39,50
+Karmen Çikolatalı Sütlü Bisküvi 102 g	54,50
+Tempo Portakal Soslu Bisküvi 114 g	9,50
+Ülker Canpare Çikolata Kremalı 3'lü 243 G	34,90
+Milka Choco Moo 200 g	79,00
+Ülker Çokomel Dev Sade 22 g	5,75
+Ülker Çokomel Dev Muzlu 22 g	5,75
+Ülker Halley Mini Muzlu 3'lü 198 g	52,50
+Eti Puf Hindistan Cevizli 16 g	4,00
+Eti Cin Portakallı 325 g	41,50
+Ülker Cocostar Atıştırmalık 154 g	48,00
+Torku Tam Çikolatam Bisküvi 249 g	64,00
+Ülker Halley 8'li 240 g	64,00
+Ülker Mini Halley 66 g	18,00
+Ülker Albeni Atıştırmalık 72 g	21,00
+Eti Puf Kakaolu 18 g	4,00
+Ülker Halley Muzlu Pasta Tadında 210 g	64,00
+Ülker Halley 30 g	8,50
+Eti Puf Kakaolu 216 g	45,00
+Eti Puf Renkli 216 g	45,00
+Ülker Halley Beyaz Çikolatalı 210 g	64,00
+Ülker Canpare Fındıklı 3'lü 243 Gr	34,90
+Eti Puf Meyve Dolgulu 20 g	4,75
+Ülker Halley Mini 24'lü 247.2 Gr	90,00
+Ülker Çokomel 3*12 g	11,00
+Tempo Vanilya Kremalı Bisküvi 100 g	8,50
+Tempo Sandviç Bisküvi 10'lu 300 g	29,50
+Tempo Kremalı Kakaolu Bisküvi 100 g	8,50
+Saklıköy Çikolata Kremalı Tam Tahıllı Bisküvi 400 g	49,90
+Ülker Biskrem Cookie Extra 184 G	34,00
+Eti Petit Beurre Kakao Kremalı 270 g	43,50
+Ülker Saklıköy Fındık Kremalı Bisküvi 3*100 Gr	48,00
+Eti Nero Kakaolu Kremalı 110 g	16,00
+Eti Tutku Mozaik 100 Gr	17,00
+Ülker Biskrem Extra Kakaolu 184 Gr	34,00
+Ülker Biskrem Kakaolu Poşet 200 g	31,00
+Ülker Kremalı Bisküvi 4'lü 244 g	31,00
+Ülker Biskrem Rulo 150 Gr	21,50
+Milka Choco Grains 168 Gr	49,00
+Eti Tutku Bold 138 Gr	19,90
+Eti Nero Kakaolu Bisküvi 4x110 g	59,50
+Eti Burçak Bisküvi Sütlü Çikolalı 114 g	31,50
+Biscolata Mood Sütlü Çikolatalı 110 g	43,50
+Eti Burçak Sütlü Kremalı 4'lü 400 g	57,00
+Ülker Probis 10'lu 280 g	54,00
+Ülker Biskrem Rulo 100 Gr.	16,00
+Ülker Çokoprens 10'lu 300 g	44,00
+Ülker İkram Fındıklı 3'lü 252 g	42,50
+Ülker Probis Midi 10'lu 101 Gr	24,00
+Ülker Kremalı Kakaolu Bisküvi 4'lü 244 g	31,00
+Ülker Kremalı Rondo Muzlu 4'lü 244 g	31,00
+Eti Burçak Fındık Ve Proteinli 158 g	37,00
+Biscolata Pia Çikolatalı 100 Gr	40,00
+Ülker İkram Çikolatalı Bisküvi 3*84 g	42,50
+Ülker Çokoprens Midi 160 Gr	28,00
+Tempo Finger Bisküvi 450 g	32,00
+Master Puff Pizza Çeşnili Mısır Cipsi 90 G	18,50
+Ülker Pötibör Çifte Kavrulmuş 175 g	21,00
+Ülker Pötibör Bisküvi 175 g	21,00
+Ülker Pötibör 450 g	49,00
+Ülker Kakaolu Bisküvi 125 Gr	17,50
+Karabuğday Patlağı 88 g	32,00
+Tempo Tuzlu Çubuk Kraker 150 g	10,00
+Tempo Balık Kraker 140 g	9,50
+Tempo Susamlı Çubuk Kraker 100 g	10,00
+Kahve Dünyası Tambol Fındıklı Sütlü Çikolata 77 g	29,90
+Bread Bites Ekşi Krema Ve Soğanlı 70 g	15,90
+Ülker Badem Kraker Cheddar Peyniri Aromalı 135 G	22,50
+Ülker Çiziviç Kraker Peynirli Sandviç 82 g	14,50
+Ülker Taç Kraker 3'lü 228 Gr	28,00
+Eti Susamlı Çubuk 120 Gr	14,90
+Eti Crax Acı Baharatlı 50 g	14,50
+Ülker Krispi Baharatlı Tırtıklı Kraker 48 g	12,00
+Ülker Çizi 4'lü 280 Gr	32,00
+Ülker Çiziviç 246 Gr	41,00
+Ülker Çizi Kraker Sade 70 Gr	9,75
+Ülker Çubuk Kraker 40 g	4,25
+Ülker Altınbaşak Tahıl Cipsi Yoğurtlu 50 Gr	14,25
+Ülker Çizi Peynir & Soğan 40 g	14,00
+Ülker Susamlı Çubuk Kraker 45 Gr	8,00
+Eti Crax Baharatlı 80 g	13,00
+Eti Crax Peynirli 80 Gr	13,00
+Eti Burçak Tuzlu Çörekotlu Bisküvi 273 Gr	45,00
+Peki Meyveli Kek 200 g	21,95
+Peki Mozaik Kek 200 g	21,95
+Luppo Sandviç Kek Kakaolu 184 g	59,00
+Ülker Dankek Rulo Pasta Muzlu 235 g	42,50
+Eti Browni 200 g	49,90
+Ülker Dankek Rulo Pasta Çilekli 235 g	42,50
+Eti Paykek Şekli Şahane 285 Gr	69,50
+Ülker Dankek Rulo Pasta Çikolatalı 235 Gr	42,50
+Peki Meyveli Kek 40 g	4,50
+Peki Mozaik Kek 40 g	4,50
+Peki Kakaolu Kek 40 g	4,50
+Şölen Luppo Sandvıc Kek Mini Sade 55 G	15,75
+Şölen Luppo Sandvıc Kek Mini Kakaolu 55 G	15,75
+Eti Popkek Portakallı 60 g	9,75
+Eti Popkek Vişneli 60 g	9,75
+Eti Browni Intense 50 g	18,00
+Eti Browni İntense Çikolatalı Mini 160 g	64,50
+Eti Browni Gold Mini 9'lu 180 Gr	42,00
+Ülker Dankek Lokmalık Kakaolu 160 g	35,00
+Eti Mini Pop Kek Çikolatalı 180 g	36,50
+Ülker Olala Sufle Kek 70 g	21,00
+Ülker Dankek Pöti Meyveli 35 g	6,50
+Eti Popkek Çikolatalı 60 Gr	9,75
+Ülker Dankek Lokmalık Üzümlü 160 g	35,00
+Eti Popkek Muzlu 60 Gr	9,75
+Ülker Kekstra Jöleli Çilekli Kek 35 Gr	6,95
+Ülker Dankek Mousse 45 Gr	9,95
+Ülker Dankek 8 Kek 55 Gr Çikolata+ Muz	9,00
+Eti Brownı Intense Mini Karamelli 160 g	59,50
+Ülker 8 Kek Çikolatalı 55 Gr	9,00
+Eti Popkek Hindistan Cevizli 60 Gr	9,75
+Eti Popkek Limonlu 60 g	9,75
+Dankek Magma Karamelli 65 g	10,75
+Dankek Magma Çikolatalı 65 Gr	12,75
+Ülker Kekstra Mini Çilekli 150 Gr	36,00
+Ülker O'lala Tiramisu 45 Gr	14,00
+Ülker Dankek Tart Kek Mini 150 Gr	36,00
+Ülker Olala Sufle Frambuazlı 70 Gr	21,00
+Ülker Dankek Tart Kek Çilekli 180 g	44,90
+Ülker Alpella Sütlü Mini Rulo Pasta 28 Gr	8,00
+Eti Browni Gold Çikolatalı 45 g	9,00
+Ülker Dankek Tart Kek Portakallı 180 g	45,00
+Eti Browni Intense Gold 48 g	18,00
+Luppo Sandviç Kek Sade 184 Gr	59,00
+Peki Ballı Sütlü Dolgulu Kakaolu Kek 28 G	9,00
+Peki Bitter Çikolata Kaplamalı Kek 33 G	10,75
+Kinder Delice 39 Gr	22,95
+Ozmo Cool 30 g	12,50
+Kinder Süt Dilimi 28 g	13,00
+Kinder Pingui 30 g	16,50
+Eti Süt Burger Çilekli 35 Gr	11,25
+Eti Sosbom Çikolata Soslu Pasta 50 Gr	21,00
+Eti Süt Burger 35 Gr	11,25
+Karmen Madlen Çikolata 288 Gr	89,50
+Şölen Chocodans Karamel Çikolata 125 g	59,90
+Harıbo Miami Ekşi 120 g	24,50
+Haribo Sahanda Yumurta 130 g	24,50
+Haribo Yüzük Kalp 130 g	24,50
+Ülker Yupo Lokumcuk Süper Mix 77 G	14,50
+Haribo Fruitbons 400 G	59,50
+Ülker Yupo Çokojelo Portakal 20 Gr	7,95
+Ülker Yupo Çokojelo Böğürtlen 20 Gr	7,95
+Yupo Jelly Meyve Bahçesı 80 Gr	23,50
+Haribo Chammallows 130 g	37,00
+
+
+
+*** İçecek Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Kardelen Su Damacana 19 L	72,50
+Mis Ayran Tam Yağlı 200 ml	6,00
+Mis Ayran Tam Yağlı 1.5 L	35,75
+Mis Ayran Tam Yağlı 285 ml	7,90
+İçim Kefir Orman Meyveli 1 L	57,50
+Altınkılıç Kefirix Çilekli 250 ml	24,50
+Altınkılıç Kefirix Orman Meyveli 250 ml	24,50
+Eker Şeftali Kayısılı Kefir 200 ml	19,50
+Mis Probiyotikli Sade Kefir 200 ml	16,00
+Altınkılıç Kefir Sade 1 L	52,50
+Altınkılıç Laktozsuz Kefir 1 L	59,50
+Deren Harman Çay 1 Kg	115,00
+Yemeneli Türk Kahvesi 100 g	37,50
+Deren Rize Çay 1 Kg	119,00
+Deren Filiz Çay 500 g	67,50
+Deren Bergamot Aromal Çay 500 g	69,00
+Deren Tiryaki Siyah Çay 1 Kg	122,00
+Deren Seylan Çayı 400 g	149,50
+Çaykur Rize Turist Çay 1000 g	235,00
+Çaykur Altınbaş Çay 500 g	149,00
+Lipton Doğu Karadeniz Çayı 1000 g	237,50
+Doğuş Filiz Çayı 1 kg	195,00
+Lipton Yellow Label Çay 1000 g	179,00
+Çaykur Tomurcuk Çayı 125 g	59,00
+Kurukahveci Mehmet Efendi Türk Kahvesi 100 g	65,50
+Çaykur Filiz Çay 500 g	129,00
+Kurukahveci Mehmet Efendi Türk Kahvesi 12*6 g	44,90
+Deren Demlik Poşet Çay 100'lü 320 g	76,50
+Lezzcafe Filtre Kahve 250 g	99,00
+Lezzcafe Pratik Filtre Kahve Orta Kavrulmuş 8 g	10,00
+Lezzcafe Çekirdek Filtre Kahve 500 g	199,00
+Lezzcafe Pratik Filtre Kahve Çok Kavrulmuş 8 g	10,00
+Deren Earl Grey Demlik Poşet Çay 48'li	38,50
+Kahve Filtre Kağıdı 40'lı	39,95
+Lipton Yellow Label Demlik Poşet Çay 48'li	90,00
+Lipton Altın Harman Demlik Poşet 100'lü	165,00
+Lipton Earl Grey Demlik Poşet Çay 48'li 153 g	90,00
+Jacobs Selection Filtre Kahve 250 g	135,00
+Çaykur Altınbaş Sade Demlik Poşet Çay 200 g 40'lı	87,90
+Deren Poşet Çay 25'li	22,50
+Lezzcafe Klasik 200 g	145,00
+Lezzcafe Gold 200 g	159,00
+Deren Earl Grey Fincan Poşet Çay 25'li	22,50
+Lezzcafe Latte Sütlü Köpüklü 17 g	4,50
+Nescafe Gold Ekonomik Paket 100 g	193,50
+Nescafe Classic 100 g Ekonomik Paket	119,50
+Jacobs Cronat Gold 100 g	162,50
+Lezzcafe Coffee Cream 200 g	37,50
+Doğadan Yeşil Çay Açai Ananaslı	59,50
+Doğadan Form Kayısılı Bitki Çayı 20'li	59,50
+Doğadan Zencefil Limon Bitki Çayı 18'li	59,50
+Doğadan Form Kiraz Saplı Bitki Çayı 20'li	59,50
+Doğadan Yeşil Çay Yumuşak İçimli 20'li	59,50
+Coffee Mate Ekonomik Paket 200 g	85,50
+Doğadan Bitki Çayı Ihlamur 18'li	59,50
+Doğadan Bitki Çayı Papatya 20'li	59,50
+Lezzcafe 3ü 1 Arada 18 g	4,25
+Lezzcafe 3ü 1 Arada Fındıklı 18 g	4,25
+Lezzcafe Cappuccino 14 g	6,00
+Nescafe Cappuccino Şekerli 14 g	9,50
+Nescafe 3'ü 1 Arada 17.5 g	8,50
+Nescafe 2'si 1 Arada 10'lu 100 g	69,50
+Nescafe 3'ü 1 Arada 17.5 g 10'lu	69,50
+Nescafe 3ü 1 Arada Sütlü Köpüklü 17.4 g	8,50
+Nescafe Sütlü Köpüklü 3'ü 1 Arada 10'lu Paket	69,50
+Nescafe 2'si 1 Arada 10 g	8,50
+Cafe Crown 2'si 1 Arada Fındık 11 g	5,90
+Lezzcafe 3'ü 1 Arada 10'lu 10*18 g	38,25
+Cafe Crown 3'ü 1 Arada Action 17 g	5,90
+Deren Tomurcuk Bergamot Çay 100 g	22,50
+Lezzcafe 2'si 1 Arada 12 g	4,25
+Saka Su 10 L	59,50
+Saka Su 5 L	34,50
+Kardelen Su 5 L	19,50
+Saka Su 1.5 L	19,00
+Kardelen Su 1.5 Lt	6,50
+Saka Su 0.5 L	9,75
+Kardelen Su 0.5 L	3,25
+Kardelen Su 12'li 12*0.33 Ml	28,90
+Kızılay Sade Maden Suyu 6*200 ml	34,50
+Akmina Maden Suyu 1 L	19,50
+Söğütlüçeşme Karadut Ve Frenk Üzümü 6*200 ml	46,00
+Söğütlüçeşme Karpuz&Çilek Maden Suyu 6*200 ml	38,00
+Söğütlüçeşme Limon C Vitaminli Maden Suyu 6*200 ml	38,00
+Sırma C Limon Aromalı Maden Suyu 1lt	19,50
+Sırma Karadut&frenk Üzüm Aromalı 1 Lt	19,50
+Kızılay Aromalı Limon C 6*200 Ml	49,00
+Mis Elmalı Çilek Ejder Meyve Havuçlu İçecek 200 ml	8,00
+Mis Portakallı Mandalinalı Ananaslı İçecek 200 ml	8,00
+Mis Meyve Nektarı Karışık 200 ml	7,50
+Mis Meyve Nektarı Şeftali 200 ml	7,50
+Mis Meyve Nektarı Kayısı 200 ml	7,50
+Mis Meyve Nektarı Vişne 200 ml	7,50
+Caprisun Mystic Dragon Meyve Suyu 200 ml	11,00
+Capri Sun Meyve Suyu 200 ml	11,00
+Capri Sun Safari 200 ml	11,00
+Link Vişne Aromalı İMeyve Suyu 200 ml	9,00
+Cappy Vişneli Meyve Suyu Karton Kutu 200 ml	10,00
+Cappy Karışık Meyve Nektarı 200 ml	10,00
+Link Çilek Aromalı Meyve Suyu 200 ml	9,00
+Cappy Atom Ballı Karışık Meyve Suyu 200 ml	10,00
+Cappy Pulpy Portakal Suyu 330 ml	25,00
+Mis Meyve Nektarı Vişne 1 L	29,50
+Mis Meyve Nektarı Kayısı 1 L	29,50
+Mis Meyve Nektarı Şeftali 1 L	29,50
+Mis Meyve Nektarı Karışık 1 L	29,50
+Cappy Cool Pink Limonata  1 L	25,50
+Cappy Karışık Meyve Nektarı 1 L	45,00
+Cappy Vişneli Meyve Suyu Pet 1 L	43,00
+Cappy Ananaslı Meyve Suyu 1 L	43,00
+Cappy Pulpy Portakal Suyu 1 L	45,00
+Cappy Atom Meyve Suyu 1 L	45,00
+Cappy Şeftali Nektarı Karton Kutu 1 L	45,00
+Ben Organic 0 Kırmızı Karışım Suyu 946 ml	69,50
+Ben Organik 0 Kayısı Şeftali Elma Suyu 946 ml	69,50
+Juss %100 Elma Suyu 1 Lt	34,50
+Crown Cola 2,5 L	38,50
+Crown Cola 1 L	21,50
+Crown Cola Pet 250 ml	8,00
+Crown Cola 330 ml Kutu	16,50
+Coca Cola 1,5 L	45,00
+Coca Cola 450 ml	30,00
+Cola Turka 2,5 L	38,00
+Coca Cola 2.5 L	60,00
+Coca Cola 330 ml	30,00
+Pepsi Cola 1 L	33,00
+Coca Cola 1 L	35,00
+Crown Cola Şekersiz 1 L	18,50
+Coca Cola Light 1 L	25,90
+Coca Cola Zero Sugar 330 ml	30,00
+Coca Cola Zero Sugar 1.5 L	45,00
+Coca Cola Zero Sugar 1 L	35,00
+Coca Cola Zero Lime 1 Lt	17,50
+Crown Gazoz 1,5 L	23,50
+Crown Gazoz 330 ml Kutu	16,50
+Niğde Gazozu 6*250 ml	72,00
+Sprite 1.5 Lt	39,50
+Sprite Kutu 330 ml	30,00
+Sprite Pet 1 L	35,00
+Çamlıca Gazoz 1.5 L	36,00
+Çamlıca Gazoz 1.5 L	36,00
+Crown Mandalina Aromalı Gazoz 1,5 L	27,50
+Crown Portakal Aromalı Gazoz Pet 250 ml	8,00
+Çamlıca Portakal Aromalı Gazoz 200 ml	14,30
+Schweppes Mandalina 1 L	45,00
+Schweppes Bitter Limon 1 L	39,50
+Fanta Portakal Aromalı Gazoz 330 ml	30,00
+Fanta Portakal 1 L	35,00
+Schweppes Tonik 1 L	39,50
+Fanta Portakal Aromalı Gazoz 1.5 L	45,00
+Fanta Portakal Aromalı Gazoz 2.5 L	60,00
+Uludağ Frutti Extra Orman Meyveli 1 L	33,50
+Fanta Mandalına 2.5 Lt	52,00
+Fruko Gazoz 2.5 Lt	47,50
+Lipton Doğu Karadeniz Demlik Çay 120'li	99,00
+Lipton Doğu Karadeniz Poşet Çay 25'li	60,00
+Lipton Earl Grey Poşet Çay 25'li	75,00
+Lipton Yellow Label Poşet Çay 25'li	75,00
+Deren Form Kayısılı Karışık Bitki Çayı 20'li	38,50
+İnci Adaçayı 50 g	29,90
+İnci Ihlamur 50 g	99,90
+Shazel Sütlü Menengiç Kahvesi 200 G	44,50
+Karaca Hatır Türk Kahvesi 100 g	49,90
+Lezzcafe Salep 17 g	4,50
+Kronotrop No:33 Guatemala Çekilmiş Filtre Kahve 25	295,00
+NESCAFE FINE BLEND 70 g	79,00
+Nescafe 3ü1 Fındıklı 10'lu 170 g	69,50
+Nescafe Latte 14.5 g	9,50
+NESCAFE GOLD 2 g	9,50
+NESCAFE CLASSIC 2 g	8,50
+Lezzcafe Sıcak Çikolata 18.5 g	4,50
+Nescafe Latte 9'lu	69,50
+Nescafe 3in1 Extra 10*16.5 g	39,95
+Jacobs 3'ü 1 Arada Kahve 16 G	7,95
+Nescafe 2in1 Sütlü Köpüklü 10 g x 10'lu	69,50
+Nesquik Ekonomik Paket 375 g	119,00
+Tornado Enerji İçeceği 250 ml	20,95
+Redbull Winter Edıtıon Enerji İçeceği 250 ml	35,00
+Monster Mango Loco 500 Ml	39,50
+Tornado Enerji İçeceği 1 L	24,50
+Red Bull Enerji İçeceği 355 ml	60,00
+Monster Energy Ultra Şekersiz 500 Ml	39,50
+Hotline Enerji İçeceği 250 ml	27,00
+Hotline Enerji İçeceği 1 L	40,00
+Red Bull Enerji İçeceği 250 ml	35,00
+Powerade Ice Blast Sporcu İçeceği 500 ml	40,00
+Monster Energy Kutu 500 ml	39,50
+Red Bull Enerji İçeceği Şeftali 250 ml	35,00
+Burn Enerji İçeceği 4*250 ml	127,45
+Hotline Multi Vitamin 250 ml	14,50
+Forlife Smoothie Yeşil 250 ml	23,50
+Forlife Smoothie Kırmızı 250 ml	23,50
+Mis Bademli İçecek 330 ml	19,90
+Mis Çilekli Milkshake 330 ml	22,50
+Cix Bubble Tea Çilek Aromalı İçecek 300 ml	44,50
+Cix Bubble Tea Bluberry Aromalı İçecek 300 ml	44,50
+Sek Cool Lime 200 ml	7,50
+Dimes Cool Lime Mix Karpuz 310 ml	29,00
+Maltana Ananas Aromalı İçecek 250 mL	29,00
+Dimes Cool Lime Mix 310 Ml	40,00
+Dimes Cool Berry Mix 310 ml	40,00
+Crown Limonata 1 L	21,50
+Crown Limonata Şekersiz 1 L	21,50
+Cappy Naneli Limonata 1 L	25,50
+Uludağ Şekersiz Limonata 1 L	34,50
+Uludağ Limonata 1 L	34,50
+Doğanay Şalgam Suyu Sade 1 L	27,50
+Doğanay Şalgam Suyu Acılı 1 L	27,50
+Doğanay Şalgam Suyu 2 L	44,95
+Mis Hazır Salep 1 L	49,50
+Deren Ice Tea Şeftali 330 ml	16,00
+Deren Ice Tea Şeftali 1 L	18,00
+Deren Ice Tea Limon 330 ml	16,00
+Deren Ice Tea Limon 1 L	18,00
+Fuse Tea Karpuz Tetra 200 Ml	8,50
+Fuse Tea Şeftali Tetra 200 Ml	8,50
+Tamek Ice Tea Karpuz-Çilek 6*330 mL	119,00
+Fuse Tea Şeftali Pet 1 L	35,00
+Fuse Tea Karpuz 330 ml	30,00
+Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 330 ml	30,00
+Lipton Ice Tea Limon 330 ml	29,00
+Lipton Ice Tea Şeftali 330 ml	29,00
+Lipton Ice Tea Şeftali 2 L	47,50
+Fuse Tea Mango ve Ananas Aromalı Soğuk Çay 1 L	35,00
+Fuse Tea Karpuz 1 L	35,00
+Fuse Tea Şeftali Paylaşmalık Lezzet 4x1 L	133,00
+Lezzcafe Mocha 250 ml	27,00
+Lezzcafe Latte 250 ml	27,00
+Sütaş Latte 1 L	45,00
+Nescafe Xpress Cafe Choco 250 ml	49,00
+Nescafe Xpress Original 250 ml	49,00
+Lezzcafe Ice Mocha 10.5 g	2,90
+Lezzcafe Ice Latte 10.5 g	2,90
+Dr. Oetker Frappe Klasik 3'lü 45 g	18,90
+Nazo Soğuk Limon Toz İçecek 9 g	6,50
+Nazo Soğuk Portakal Toz İçecek 9 g	6,50
+Nazo Soğuk Vişne Toz İçecek 9 g	6,50
+Fellas Protein Tozu 150 g	249,00
+
+
+*** Kişisel Bakım ve Kozmetik Çeşitleri ***
+Ürün	Yeni Fiyat
+Cleana Şampuan Güçlü&Parlak Yasemin Özlü 600 ml	76,90
+Cleana Şampuan Kepeğe Karşı Zeytinyağlı 600 ml	76,90
+Elseve Arginine Komple Direnç Şampuan 360 ml	132,90
+Elseve Mucizevi Yağ Şampuan 360 ml	132,90
+Pantene Dökülme Karşıtı Şampuan 350 ml	113,50
+Clear Women Kepeğe Karşı Şampuan 350 ml	159,75
+Bioblas Botanicoils Sarımsak Şampuanı 360 ml	129,75
+Blendax Şampuan Yasemin Özlü 500 ml	114,75
+Blendax Şampuan Kepeğe Karşı 500 ml	114,75
+Pantene Kepeğe Karşı Etkili Şampuan 350 ml	113,50
+İpek Şampuan Orkide Özlü Normal Saçlar 480 ml	59,90
+Clear Woman Yumuşak&Parlak Şampuan 350 ml	159,75
+Clear Men Cool Sport Mentol Şampuan 350 ml	159,75
+Clear Men Saç Dökülmelerine Karşı Şampuan 350 ml	159,75
+Elidor Anında Onarıcı Bakım Şampuan 400 ml	89,90
+Elidor Güçlü Ve Parlak Şampuan 400 ml	89,90
+Pantene Doğal Sentez Şampuan 350 ml	113,50
+Pantene Onarıcı Bakım Şampuan 350 ml	113,50
+Komili Ladik Duş Jeli 500 ml	35,00
+Komili Bergama Duş Jeli 500 ml	35,00
+Duru Duş Jeli Lavanta Bahçesi 450 ml	55,75
+Duru Duş Jeli Deniz Esintisi 450 ml	55,75
+Urban Care Biotın&caffeine Şampuan 350ml+tonik 100	179,00
+Hobby Onarıcı Bakım Argan Şampuan 500 Ml	54,90
+Hobby Isırgan Otu Özlü Şampuan 500 Ml	54,90
+Hobby Kepeğe Karşı Zeytinyağlı Şampuan 500 Ml	54,90
+Clear Şampuan&Duş Jeli 3in1 Kömürlü 350 Ml	149,00
+Clear Şampuan&Duş Jeli 3 in 1 Mentollü 350 ml	149,00
+Blendax Men Şampuan Mentollü 500 ml	114,75
+Blendax Şampuan Isırgan Özlü 500 ml	114,75
+Head&Shoulders Şampuan Mentol 330 ml	99,75
+Head&Shoulders Şampuan Klasik Bakım 330 ml	99,75
+Head&Shoulders Şampuan Erkeklere Özel 330 ml	99,75
+Head&Shoulders Şampuan Kadınlara Özel 330 ml	99,75
+İpek Şampuan Yağ Hazinesi 480 ml	59,90
+Ebru Sıvı Sabun Hindistan Cevizi 750 ml	30,00
+Ebru Sıvı Sabun Zeytinyağlı 4 L	99,95
+Ebru Sıvı Sabun Gül Bahçesi 4 L	99,95
+Ebru Sıvı Sabun Okyanus Rüzgarı 750 ml	30,00
+Ebru Sıvı Sabun Meyve Rüyası 4 L	99,95
+Ebru Sıvı Sabun Zeytinyağlı 750 ml	30,00
+Fax Sabun Beyaz 5*60 g	35,00
+Fax Sabun Yeşil 5*60 g	35,00
+Duru Geleneksel Sabun Pirinalı 5*160 g	124,90
+Dove Cream Bar 90 g	40,50
+Duru Fresh Banyo Sabunu 600 g	114,75
+Fax Kalıp Sabun Zeytinyağlı 800 g	67,00
+Fax Kalıp Sabun 800 g	67,00
+Dove Sıvı Sabun 450 ml	99,00
+Duru Sıvı Sabun Avokado 500 ml	57,00
+Ebru Sıvı Sabun Meyve Rüyası 750 ml	30,00
+Arko Krem (yağlı) 20 cc	26,90
+Hobby Krem 20 ml	14,95
+Nivea Soft Bakım Kremi Nemlendirici 200 ml	109,95
+Nivea El Kremi 100 ml	55,00
+Mon Amour Losyon Zeytinyağlı 250 ml	42,90
+Mon Amour El Kremi 75 ml	36,90
+Mon Amour Avokadolu El Kremi 300 ml	79,00
+Arko Nem Değerli Yağlar Avokado 150 ml	89,90
+Arko Nem Krem Zeyinyağlı 150 ml	74,50
+Eyüp Sabri Tuncer Zeytinyağlı Losyon 250 ml	64,50
+Vaseline Original 100 ml	99,90
+Neutrogena Bakım Kremi 200 ml	109,90
+Mara Body Yoğurt Coconut Almond Milk 250 Ml	49,90
+Mara Body Yogurt Yaban Mersini ve Çarkıfelek 250 Ml	49,90
+Neutrogena Hydro Boost Jel Vücut Kremi 200 Ml	83,75
+Loess Siyah Nokta Burun Bandı 6'lı	37,25
+Nivea Yüz Temizleme Jeli 150 Ml+el Kremi 100 Ml	74,95
+Garnier Makyaj Temizleme Suyu 400 ml	99,90
+Nivea Sivilce Karşıtı Beyaz Kil Maskesi 150 ml	99,50
+Neutrogena Sivilce Temizleyici Jel 200 ml	109,90
+Nivea Canlandırıcı Yüz Yıkama Köpüğü 150 ml	109,90
+Neutrogena Yüz Temizleme Köpüğü 150 ml	109,90
+Ontime Çift Taraflı Yüz Temizleme Fırçası	59,00
+Mon Amour Aloe Vera Lıp Oıl	49,90
+Mon Amour Nude Lip Gloss	59,90
+Mon Amour Lipcare Orijinal	24,50
+Mon Amour Colorful Dudak Koruyucu	35,90
+Mon Amour Lipcare	29,00
+Mon Amour Spf 30 Lip Balm	32,90
+Mon Amour Lipcare Böğürtlen	24,50
+Pia Ponzalı Ayak Törpüsü	45,00
+Cocoss Organik Hindistan Cevizi Yağı 150 Ml	135,90
+Mon Amour Nude Oje	25,50
+Mon Amour Oje	21,90
+Mon Amour Tırnak Bakım Ürünleri	34,90
+Mon Amour La Nature Oje	16,00
+Mon Amour Neon Oje	26,50
+Roe's Kalıcı Kalem Oje	40,50
+Mon Amour Concealer	125,00
+Mon Amour Yumurta Lip Balm	79,90
+Mon Amour Likit Tüp Allık	79,90
+Mon Amour Bb Krem	55,90
+Mon Amour Meyveli Lipgloss	79,90
+Mon Amour Matte Liquid Lipstick	59,90
+Mon Amour Roll On Lipgloss	37,90
+Mon Amour Meyveli Dudak Bakım Yağı	64,90
+Mon Amour Diamond Shine Lipgloss	48,90
+Mon Amour Matte Lipstick Color Queen	84,90
+Mon Amour Mascara	49,90
+Mon Amour Kajal Eyeliner	34,90
+Mon Amour Super Stay Full Lash Mascara	89,90
+Mon Amour Likit Allık	39,75
+Mon Amour Lash Exceptıonal Mascara	99,90
+Maybelline New York Falsies Surreal Mascara	199,00
+Mon Amour Figürlü Lip Balm	69,90
+Pia Yılbaşı Tacı Çeşitleri	44,90
+Pia Kalpli Kutu Makyaj Süngeri	59,00
+Pia Simli Mandal Toka 2'li	59,90
+Figürlü Kulaklık Çeşitleri	89,90
+Pia Mandal Toka 2'li	89,90
+Proco Beauty 3d Esnek Kare Saç Fırçası	79,50
+Okul Dönemi Peluş Toka Set	29,90
+Tocca Neon Fermuarlı Çanta	129,00
+Tocca Çocuk Toka Çeşitleri 5'li	45,90
+Proco Beauty Neon Esnek Saç Fırçası	42,90
+Tocca Şeffaf İkili Toka	59,90
+Pia Saç Masaj Ve Şampuan Tarağı	34,90
+Kadın Çiçekli Şeffaf Toka	34,90
+Pia Yeşim Taşı Masaj Aleti	79,90
+Tocca Metal Mandal Toka	70,00
+Pia Epilasyon Aleti Ve Yüz Jileti	42,90
+Pia Kaş Bakım Seti	69,90
+Makyaj Çantası	59,90
+İnci Toka	6,00
+Lionesse Cımbız	34,50
+Mon Amour Aseton 130 ml	17,50
+Adam Tıraş Köpüğü Sport 250 ml	43,50
+Adam Tıraş Köpüğü Cool 250 ml	43,50
+Arko Men Cool Tıraş Kremi 90 g	56,50
+Arko Men Klasik Tıraş Köpüğü 200 ml	78,50
+Arko Men Klasik Tıraş Jeli 200 ml	119,00
+Adam Tıraş Bıçağı Tek Bıçaklı 6'lı	28,75
+Adam Tıraş Bıçağı Tek Bıçaklı 6'lı	28,75
+Adam Tıraş Bıçağı Üç Bıçaklı 6'lı	95,90
+Adam Tıraş Bıçağı Çift Bıçaklı 10'lu	50,90
+Gillette Mach 3 Sport Yedek Bıçak 2'li	179,90
+Gillette Permatik Kartela Tekli	19,50
+Gillette Permatik Pro2 Tıraş Bıçağı	20,50
+Gillette Permatik Tek Kullanımlık Tıraş Bıçağı 5'li	79,50
+Derby Samurai Platinum 3 Bıçaklı Jilet	33,90
+Derby Tıraş Bıçağı 3 10'lu	195,00
+Derby Tek Bıçak Tıraş Bıçağı	15,95
+Gillette Permatik Banyo Tıraş Bıçağı 5'li	79,50
+Gillette Blue3 Comfort 3 Bıçak 3'lü	199,00
+Derby Tıraş Bıçağı Tek Bıçaklı 10+3 Adet	79,00
+Derby Nemlendirici Krem 75 Ml	25,25
+Arko Men Cool Tıraş Kolonyası 255 ml	125,95
+Experdent  Naneli Diş Macunu 125 ml	24,50
+Himalaya Total White Flörürsüz Diş Macunu 100 Ml	49,50
+Colgate Çürüklere Karşı Koruma Diş Macunu 150 Ml	59,95
+Colgate White Çay & Kahve ve Tütün Diş Macunu 75 Ml	99,50
+Sensodyne Ferah Nefes Diş Macunu 100 ml	122,75
+Colgate Çocuk Diş Macunu 75 ml	99,90
+Colgate Maksimum Beyazlık Diş Macunu 75 ml	99,50
+Colgate Max Beyazlık Diş Macunu 50 ml	57,50
+Oral-B Diş Eti Bakımı Derin Temizlik Diş Macunu 65 ml	79,90
+Sensodyne Beyazlatıcı Diş Macunu 75 ml	135,00
+Sensodyne-f Diş Macunu 100 ml	122,75
+Sensodyne Tam Koruma Beyazlatıcılı Diş Macunu 50 Ml	99,90
+Colgate Üçlü Etki Diş Macunu 75 ml	75,00
+Colgate Advanced White Charcoal Diş Macunu 75 ml	94,50
+Signal White System Diş Macunu 75 ml	87,50
+Sensodyne Komple Koruma Diş Macunu 75 ml	130,00
+Experdent Diş Fırçası 1+1 Orta	24,75
+Experdent Çocuk Diş Fırçası Yumuşak	9,75
+Experdent Diş Fırçası 1+1 Yumuşak	24,75
+Experdent Tiryakilere Özel Diş Fırçası Sert	29,90
+Experdent Mikro İnce Diş Fırçası 1+1	36,90
+Experdent Pro Ultra Soft Diş Fırçası	39,90
+Sensodyne Gelişmiş Beyaz Yumuşak Diş Fırçası 1+1	159,00
+Colgate Extra Clean Diş Fırçası 1+1	85,90
+Colgate Total Orta Diş Fırçası 1+1	155,00
+Colgate Çocuk Diş Fırçası 5+ Yaş	76,90
+Colgate Zigzag Charcoal Diş Fırçası	60,00
+Sensodyne Hassas Bakım Yumuşak Diş Fırçası 1+1	119,00
+Colgate Aktif Beyazlık Diş Fırçası 1+1	99,95
+Signal White Now Diş Fırçası 1+1	189,95
+Experdent Diş İpi 50 m	37,50
+Experdent Hijyenik Kürdan 300 Adet	22,90
+Experdent Kürdanlı Diş İpi 50'li	29,90
+Colgate Üçlü Etki Ağız Bakım Suyu 500 ml	99,00
+Proco Bambu Kürdan 400 Adet	19,50
+Hobby Balsam Saç Kremi Tüm Saçlar 500 Ml	54,90
+Gliss Aqua Revive Maske 400 Ml	195,00
+Elseve Saç Kremi Mucizevi Yağ 360 ml	132,90
+Pantene Güç Ve Parlaklık Saç Kremi  275 ml	113,50
+Pantene Saç Kremi Dökülme Karşıtı 275 Ml	113,50
+Urban Care Monoi Ylang Ylang Sıvı Saç Kremi 200 ml	124,00
+Elidor Saç Dökülmelerine Karşı Saç Kremi 350 Ml	89,90
+Elseve Arginine Direnç Dökülme Karşıtı Bakım Kremi	132,90
+Elseve Saç Kremi Kuru ve Sert Saçlar için 150 ml	119,00
+Gliss Oil Elixir Sıvı Saç Kremi 200 ml	104,00
+Elidor Saç Bakım Yağı Avokado Üzüm 80 ml	149,00
+Elidor Saç Güzelleştirici Krem 7ın1 150 Ml	70,90
+İpek Saç Kremi Pro Vitamin B5 Tüm Saçlar 480 ml	59,90
+Elidor Güçlü Ve Parlak Saç Kremi 350 ml	89,90
+Elidor Anında Onarıcı Saç Bakım Kremi 350 ml	89,90
+Elidor Sağlıklı Uzayan Saçlar Saç Kremi 350 ml	89,90
+Pantene Onarıcı Saç Kremi  275 ml	113,50
+Hope Saç Boyası 6.7 Çikolata Kahve	69,90
+Hope Saç Boyası 7.1 Küllü Kumral	69,90
+Hope Saç Boyası 1.0 Siyah	69,90
+Hope Saç Boyası 7.0 Kumral	69,90
+Hope Saç Boyası 3.0 Koyu Kahve	69,90
+Hope Saç Boyası 6.0 Koyu Kumral	69,90
+Hope Saç Boyası 8.3 Bal Köpüğü	69,90
+Palette Deluxe 1-0 Siyah	142,00
+Palette Göz Alıcı Renkler 6-88 Yoğun Kızıl	89,00
+Palette Göz Alıcı Renkler 8-0 Koyu Sarı	89,00
+Palette Göz Alıcı Renkler 7-0 Kumral	89,00
+Palette Göz Alıcı Renkler 5-68 Kestane	89,00
+Palette Göz Alıcı Renkler 1-0 Siyah	89,00
+Palette Göz Alıcı Renkler 9-0 Sarı	89,00
+Palette Göz Alıcı Renkler 3-0 Koyu Kahve	89,00
+Palette Pnc 8-77 Tarçın Bakır	89,00
+Palette Pnc 7-5 Açık Karamel	89,00
+Palette Pnc 6-0 Koyu Kumral	89,00
+Palette Pnc 7-6 Fındık Kahve	89,00
+Palette Pnc 4-0 Amber Kahve	89,00
+Palette Pnc 5-0 Açık Kahve	89,00
+Palette Pnc 3-68 Kızıl Çikolata	89,00
+Palette Pnc 10-0 Açık Sarı	89,00
+Palette Pnc 1-0 Siyah	89,00
+Palette Pnc 8-0 Bal Köpüğü	89,00
+Palette Göz Alıcı Renkler 3-65 Çikolata Kahve	89,00
+Palette Göz Alıcı Renkler 10-1 Küllü Açık Sarı	89,00
+Palette Göz Alıcı Renkler 7-1 Küllü Kumral	89,00
+Morfose Saç Şekillendirici Ultra Strong 75 Ml	49,90
+Kelebek Mandal Toka 2'li	35,90
+Kadın Lastik Toka Çeşitleri	34,90
+Çocuk Toka	7,00
+Soft Puantiyeli Taç	19,95
+Peluş Ponpon Taç Seti	18,00
+Çocuk Peluş Taç-toka Seti	19,90
+Hobby Enerji Saç Jölesi Sert 250 Ml	65,90
+Morfose Ultra Strong Saç Spreyi 250 ml	99,00
+Elidor 7/24 Bakım Kremi Belirgin Bukleler 265 ml	99,90
+Adam Deodorant Cool 150 ml	52,50
+Lady Club Fresh Beauty Parfüm Deodorant 150 ml	52,50
+Lady Club Modern Romance Parfüm Deodorant 150 Ml	52,50
+Adam Deodorant Sport 150 ml	52,50
+Emotion Aqua Kiss Deodorant 2*150 Ml	139,00
+Garnier Woman Saf&temiz Arındırıcı Deodorant 150 M	99,00
+Xo Soft&Effective Kadın Deodorant 150 ml	59,90
+Xo Sensitive&Effective Kadın Deodorant 150 Ml	59,90
+Privacy Women Deo 200 Ml	158,90
+Privacy Men Deodorant 200 Ml	158,90
+Rexona Men Kömür Detox Deodorant 150 ml	159,50
+Rexona Men Champions Deodorant 150 ml	159,50
+Nivea Kadın Sprey Deodorant Pearl&Beauty 150 ml	159,50
+Nivea Men Erkek Roll On Deodorant Black&White Invisible Original 50 ml	159,50
+Emotion Deodorant Romance 150 ml	138,50
+Nivea Men Erkek Sprey Deodorant  Black & White Invisible Original 150 ml	159,50
+Axe Apollo Deodorant 150 ml	122,00
+Nivea Men Erkek Sprey Deodorant Fresh Active 150 ml	159,50
+Nivea Kadın Sprey Deodorant Black&White Insivible Clear 150 ml	159,50
+Rexona Musk Sprey Deodorant 150 Ml	159,50
+Blade Cool Fresh Deodorant 150 ml	138,50
+Rexona Sexy Bouqet Deodorant 150 ml	159,50
+Axe Deodorant Dark Temptation 150 ml	122,00
+Axe Black Deodorant 150 ml	122,00
+Blade Green Dream Deodorant 150 ml	138,50
+Nivea Fresh Natural Deodorant Sprey 150 ml	159,50
+Rexona Women Shower Fresh Deodorant 150 ml	159,50
+Rexona Men Extra Cool Deodorant 150 Ml	159,50
+Blade Deo Cool Fresh 2*150 Ml	139,90
+Rexona Cotton Dry Deodorant 150 ml	159,50
+Nivea Men Deep Dimension Erkek Deodorant 150 ml	159,50
+Nivea Kadın Sprey Deodorant Double Effect Mor Düşler 150 ml	159,50
+Nivea Erkek Roll On Deodorant Fresh Active 50 ml	159,50
+Fa Pink Passion Roll On 50 ml	99,90
+Nivea Kadın Roll on Deodorant Fresh Natural 50 ml	159,50
+Nivea Fresh Natural Kadın Stick Deodorant 50 ml	203,95
+Nivea Men Fresh Active Erkek Stick Deodorant Stick 50 ml	203,95
+Rexona Men Cobalt Dry Stick Roll On 50 ml	203,95
+Nivea Men Erkek Pump Sprey Deodorant Fresh Active 75 ml	112,90
+Nivea Deodorant Fresh Active Kadın 75 ml	112,90
+Adam Parfüm Blue Edt 100 Ml	149,00
+Niche Kadın Parfüm Love 100 Ml	149,00
+Aqua Dı Polo Velvet Charm Kadın Edt 50ml+deo 150ml	199,00
+Emotion Deodorant Ocean Fresh 150 ml	138,50
+Jagler Edt 50 ml + Deodorant Kofre 100 ml	199,00
+Rbl Edt 50 ml + Erkek Deodorant 150 ml	179,00
+Lady Club Vücut Spreyi 250 ml	64,00
+Mara Four Seasons Paradis Kofre 2'li	99,90
+Mara Dark Mıdnıght Kofre 2'li	99,90
+Mara Erkek Body Mist Gawain Man 150 ml	54,90
+Ebru Limon Kolonyası 400 ml	38,00
+Ebru Limon Kolonyası Sprey 150 ml	19,90
+Rebul Kolonya 50 Ml	21,90
+Marmara Barber Kolonya 400 ml	89,90
+Softy Klasik Ped Normal 10'lu	18,00
+Softy Günlük Ped Normal 20'li	20,50
+Softy Ped Ultra 10'lu	20,75
+Softy Ultra Gece 7'li	20,75
+Orkid White Gece Cesaret Paketi 48'li	189,00
+Orkid Ultra Ekstra Gece 24'lü	159,00
+Orkid Ultra Ekstra Normal 32'li	159,00
+Orkid Platinum Ultra Gece 10 Adet	85,00
+Molped Pure & Soft Süper Eko Gece 16'lı	135,00
+Orkid Platinum Ped Ultra Normal 8'li	64,90
+Orkid Ped Normal Ekonomik Paket 40'lı	129,00
+Orkid Platinum Ped Gece&Gündüz 6'lı	64,90
+Molped Ultra Gece Süper Fırsat 18'li	147,00
+Kotex İnce Günlük Ped 34'lü	44,90
+Kotex Ultra Hijyenik Ped Gece 16'lı	133,00
+Kotex Ultra Hijyenik Ped Gece 6'lı	51,90
+Kotex Ultra Hijyenik Ped Normal 24'lü	133,00
+Kotex Ultra Hijyenik Ped Normal 8'li	51,90
+Orkid Günlük Yaprak Ultra İnce 40'lı	95,00
+Orkid Ultra Gece 6'lı	50,90
+Kotex Günlük Ped Normal 34'lü	98,50
+Kotex Naturel Gece Pedi 14'lü	133,00
+Kotex Ekstra Uzun Gece 9'lu	55,00
+Orkid Ekstra Hassas Koruma Gece Hijyenik Ped 24'lü	171,95
+Orkid Platinum Eko Paket Uzun 12 Adet	85,00
+Molped Pure&Soft İnce Günlük Ped 30'lu	57,90
+Orkid Platinum Ultra Normal 14 Adet	85,00
+Sleepy Sensitive Yetişkin Hasta Bezi Large 7'li	110,50
+
+
+
+*** Anne-Bebek ve Çocuk Çeşitleri ***
+Ürün	Yeni Fiyat
+Bebeland Kanallı XLarge Bebek Bezi 26 Adet	120,00
+Sleepy Natural Jumbo XL 17'li	89,90
+Bebeland Kanallı Yenidoğan Bebek Bezi 68 Adet	120,00
+Bebeland Bebek Bezi Junior 29 Adet	120,00
+Sleepy Natural Jumbo Junior 20'li	89,90
+Bebeland Kanallı Maxi Bebek Bezi 40 Adet	120,00
+Bebeland Bebek Bezi Maxi 40 Adet	120,00
+Molfix Oksijen Ultra Fırsat Maxı 86'lı	309,00
+Sleepy Natural Jumbo Maxi Bebek Bezi 27'li	89,90
+Bebeland Bebek Bezi Midi 45 Adet	120,00
+Sleepy Natural Jumbo Midi 30'lu	89,90
+Bebeland Kanallı Mini Bebek Bezi 58 Adet	120,00
+Bebeland Bebek Bezi Mini 58 Adet	120,00
+Sleepy Natural Jumbo Mini 42'li	89,90
+Bebeland Bebek Bezi Yenidoğan 68 Adet	120,00
+Sleepy Natural Jumbo Yenidoğan 42'li	89,90
+Sleepy Natural Xlarge Külot Bez 20 Adet	149,00
+Sleepy Natural Junior Külot Bez 24 Adet	149,00
+Confort Islak Havlu 100'lü	29,50
+Bebeland Sensitive Islak Bebek Havlu 90 Adet	32,95
+Confort Islak Havlu Cep Mendili 3*15 Adet	16,00
+Confort Islak Havlu 4*70 Adet	76,90
+Pure Baby Islak Havlu 3*90 Adet	59,00
+Softline Papatya Özlü Islak Havlu 90'lı	29,50
+Komili Soft Islak Mendil 2*90 Adet	69,00
+Uni Baby Organik Aloe Vera Özlü Islak Mendil 4*52'li	99,00
+Confort Vücut Temizleme Havlusu 50 Adet	49,00
+Bebeland Yenidoğan Islak Havlu 3*40 Adet	49,90
+Aptamil 2 Devam Sütü 6-9 Ay 250 g	249,90
+Aptamil 1 Bebek Sütü 0-6 Ay 250 g	124,95
+Bebelac 3 Devam Sütü 9-12 Ay 400 g	187,00
+Bebelac 4 Devam Sütü +1 Yaş 400 g	187,00
+Bebelac 2 Devam Sütü 6-9 Ay 400 g	187,00
+Bebelac 1 Bebek Sütü 0-6 Ay 400 g	187,00
+Hero Baby Sütlü Bebek Çocuk Ek Gıdası 400 Gr	145,00
+Arı Sütlü Pirinç Unu 200 g	52,00
+Hero Baby Sütlü Rezeneli 8 Tahıllı 400 g	169,00
+Hero Baby Sütlü Ballı İrmikli Kaşık Mama 400 g	169,00
+Hero Baby Sütlü Meyveli 8 Tahıllı Kaşık Mama 400 g	169,00
+Hipp Organik Sütlaç 125 g	54,90
+Hero Baby Mama Karışık Meyveli 125 g	28,50
+Hero Baby Mandalina Muzlu Armutlu Mama 125 g	28,50
+Hero Baby Muzlu Yoğurtlu 120 g	28,50
+Hero Baby Elmalı Muzlu 125 g	28,50
+Hero Baby Organik Karışık Meyveli 120 g	38,90
+Bebeland Bebek Şampuanı 750 Ml	56,50
+Dalin Bebek Şampuanı 700 Ml	127,90
+Mycey Emzik Zinciri	34,50
+Mycey Kapaklı Mama Tabağı	99,95
+Bebeland Sensitive Çamaşır Deterjanı 1.5 L	139,00
+Duru Granül Matik Sabun Klasik 1 Kg	219,90
+Bebeland Sensitive Çamaşır Yumuşatıcısı 1.5 L	89,00
+Dalin Bıcı Bıcı Kolonya 150 Ml	79,90
+Johnson's Bebe Yağı 200 Ml	89,90
+Johnson's Bebek Sabunu Sütlü 90 Gr	34,90
+Bebeland Bebek Bakım Örtüsü 10 Adet	62,50
+Bebsi Pipetli Bardak 300 Ml	109,00
+Bebsi Meyve Süzgeci	55,00
+Wee Baby 2'li Damaklı Emzik No:2	89,00
+Wee Baby Silikon Diş Halkası	34,50
+Dalin Kolay Tarama Spreyi 200ml	74,90
+Bebek Yastığı	44,95
+Anne Yanı Bebek Yatağı	309,00
+Anne Yanı Bebek Yatağı	259,00
+Bebek Müslin Panço	119,00
+Okey Takımı	449,00
+Gokidy Fume Magic Metal Çekbırak Araba	199,00
+Gokidy Melisa Pet Bakım Ve Besleme Bebek Seti	149,00
+Gokidy Supercar Metal Araba Seri 1	119,00
+Gokidy Sök Tak Bisiklet Kartelada	199,00
+Gokidy Metal Retro Çek Bırak Araba 1:36	119,00
+Barbieland Mini Bebek Ve Aracı	249,00
+Gokidy Hava Araçları	99,95
+Gokidy Soft Blast Nişancı Sigma	249,00
+Gokidy Çek Bırak Süper Spor Araçlar	79,95
+Gokidy Metal Çek Bırak Kaputu Açılan Araçlar 1:36	119,00
+Gokidy Dollyland Minkie Pet Kuaförü	119,00
+Sozzy Orman Hayvanlarım Oyun Halısı	299,00
+Gokidy Bebek Manav Seti Aksesuarlı 5.5 İnç	169,00
+Link 4	129,00
+Lüks Tombala	39,95
+Kum Boyama Seti	79,95
+Basket Atma Oyunu	49,95
+Gokidy Erken Eğitim Zeka Kartları	79,95
+Gokidy Sevimli Telefon	99,95
+Gokidy Bul-tak Kaplumbağa	119,00
+Fisher Price Eğitici Köpekçiğin Uzaktan Kumandalı	399,00
+Gokidy Nsoft Blast Nişancı Delta 2'li	299,00
+Fisher Price E&ö Eğitici Hikaye Kitabı	699,00
+Gokidy Soft Blast Nişancı Beta	299,00
+Barbie Prenses Bebek	219,00
+Gokidy Tamir Seti	49,95
+Gokidy Oyuncak Puset Fileli	169,00
+Gokidy Eğlenceli Şekiller 59 Parça	149,00
+Gokidy Meyve Sebze Kesme 7'li	119,00
+Gokidy Bowling Seti	119,00
+Pilsan Sweety Kova Takımı	29,95
+Gokidy Mikrodalga	199,00
+Gokidy Mikser	179,00
+Gokidy Blendır	149,00
+Gokidy Dollyland Luvlie Parti Elbiseli	149,00
+Gokidy Melisa Ve Bebeği Balonlu Seti	199,00
+Gokidy Dollyland Balerin Bebek	349,00
+Gokidy Boncuklu Takı Seti	79,95
+Gokidy Sürtmeli Belediye Araçları	79,95
+Gokidy Ütü Seti	99,95
+Hot Wheels Kış Temalı Özel Seri Tekli Arabalar	79,95
+Star Wars 6'' Darth Vader Figür	299,00
+Gokidy Dollyland Luvlıe Konser Kızı	249,00
+Gokidy Şirin Bebek Tavşan Taçlı	99,95
+Gokidy Eva Yazı Panosu	29,95
+Soft İstifleme Piramidi/Hippo	199,00
+Gokidy Savaş Helikopteri	119,00
+Gokidy Uzay Macerası 250 Gr	49,95
+Gokidy Söktak İş Makinası	49,95
+Gokidy Aksesuarlı Köpek Bakım Seti	49,95
+Melisanın Helikopteri	179,00
+Melissa'nın Bisikleti	129,00
+Melisa Bebek Pet Bakım Ve Besleme Seti	69,95
+Melisa Tekli Bebek	129,00
+Monster High Ana Karakter Bebekler	499,00
+Hot Wheels Monster Trucks 1:70 Arabalar	59,95
+Gokidy Çocuk Parkı	399,00
+Disney Princess Moda İkonu Bebekler	299,00
+Disney Frozen Elsa Ve Anna	399,00
+Barbie Chelsea Bebek	149,00
+Gokidy Güzellik Seti Çantalı	49,95
+Barbie Pırıltılı Bebek	239,00
+Gokidy Çantalı Deniz Kabuğu Evim	119,00
+Hot Wheels Kamyonlar	249,00
+Oyun Hamuru Seti Çeşitleri	29,95
+Kidzy Oyun Hamuru Setleri 150 G Hayvanlar Ve Presi	29,95
+Gokidy Paket Oyun Hamuru Seti	24,95
+Gokidy Pizza Hamburger Ve Dondurma Serisi	69,95
+Gokidy Drift Car	149,00
+Gokidy Uzaktan Kumandalı Bebekli Araç	599,00
+Gokidy Rc Crawler Uzaktan Kumandalı Off-road Araç	599,00
+Gokidy Spor Motosiklet	99,95
+Gokidy Dans Eden Robot	299,00
+Gokidy Desenli Büyük Soft Top	69,95
+Gokidy Kurmalı Dinazor Oyuncağı	39,95
+Matchbox Avrupa Araçları Serisi	79,95
+Lisanslı Puzzle 50/100 Parça Winnie-Mouse-Şirinler	49,95
+Gokidy Mini Odam Bebek Seti	69,95
+Gokidy Spor Araba	199,00
+Gokidy Road Blast Uzaktan Kumandalı Araba	249,00
+Gokidy Dollyland Minkie Çantalı Pet Vet Set	129,00
+Gokidy 3'lü Uçak	99,95
+Gokidy Klasik Motosiklet	99,95
+Gokidy Tamir Valizi	399,00
+Gokidy Dollyland Minkie İstiridye Bebek	59,95
+Gokidy Sök Tak Dinozor Sesli Işıklı	179,00
+Gokidy 4*4 Monster Truck	249,00
+Gokidy Pvc Poşette Sök Tak İş Araçları	249,00
+Gokidy Uzay Araç Çek-bırak	39,95
+Hw Disney 100. Yıl/marvel Spiderverse Temalı Araba	119,00
+Gokidy Sürtmeli Döner Teker Araba	79,95
+Gokidy Metal Kamyonlar 1:64	59,95
+Gokidy Çiftçi Sök Tak Araçlar	99,95
+Gokidy Monster Jip Kapalı Kasa	179,00
+Gokidy Okul Otobüsü Bloklar Serisi	49,95
+Gokidy Yarış Arabası Bloklar Serisi	49,95
+Gokidy Uzay Seti Hamur Kutusu 200 Gr	49,95
+Sürpriz Yumurta	24,95
+Matchbox Beşli Arabalar	329,00
+Hot Wheels Monster Trucks 1:64 Arabalar	199,00
+Gokidy Halkalı Araba	99,95
+Hot Wheels Üçlü Arabalar	199,00
+Hot Wheels Fırlatma Seti	199,00
+Gokidy Oyuncak Traktör	49,95
+Hot Wheels 2'li Araba	149,00
+Barbie Denizkızı Bebek	249,00
+Barbie Bebek	199,00
+Hot Wheels Tekli Araba	67,50
+Gokidy Sök Tak Araba	79,95
+Gokidy Söktak İş Makineleri Poşette	59,95
+Gokidy Güzellik Seti Saç Kurutmalı	99,95
+Gokidy Mini Kamyon	39,95
+Hot Wheels Taşıyıcı Şehir Seti	299,00
+Star Wars 9'' Mandalorıan Figür	349,00
+Star Wars 9'' Mandalorıan Figür	349,00
+Gokidy Ördekli Büyük Balık Oltası	99,95
+Gokidy Yeni Yıl Gözlükleri	49,95
+Gokidy Sevimli Bebekler	99,95
+Gokidy Timsah & Balina Araç Fırlatma Seti	199,00
+Gokidy Arabalı Dinozor Oyun Seti	79,95
+Gokidy Balık Tutma Oyunu	99,95
+Gokidy Sürtmeli Dino Araçlar	149,00
+Gokidy 2'li Sevimli İş Araçları	69,95
+Gokidy Müzikal Hayvancıklar	199,00
+Gokidy Manken Bebek Payetli Günlük Elbise	99,95
+Gokidy Sürtmeli Büyük Teker Araba	69,95
+Köpekbalığı Oyuncak	149,00
+Soft İstifleme Beşgen/Koala	199,00
+Gokidy Çek-Bırak Fırlatıcı Helikopter	49,95
+Gokidy Hayvanlı Sök Tak Biçerdöver	199,00
+Gokidy Hayvanlı Sök Tak Traktör	199,00
+Kral Şakir Karakterler Squishy	99,00
+Gokidy El Arabası Seti	219,00
+Gokidy Kova Seti	49,95
+Gokidy Gemi Seti	59,95
+Rüzgar Gülü Ahşap Saplı 20 Cm	49,95
+Kızma Birader Kutu Oyunu	119,00
+Gokidy Sürtmeli Mini Araçlar 4'lü Set	69,95
+Jumbo Sürpriz Yumurta	24,95
+Nerf Elite 2.0 Ace	119,00
+Nerf Elite 2.0 Tetrad	399,00
+Gokidy Yüzücü Gözlüğü 3-6 Yaş	49,95
+Hot Wheels Oyuncak Kutusu	119,00
+Gokidy İlk Yaş Yumuşak Çıngıraklı Top	79,95
+Gokidy İlk Yaş Aktivite Masası	399,00
+Gokidy Hamburger Seti Tepsili	149,00
+Gokidy Oyuncak İlk Yazar Kasam	249,00
+Gokidy Bulaşık Sepeti	119,00
+Gokidy Blok Kaktüs 66 Parça	79,95
+Fisher Price Bebek Puzzle	69,95
+Cars Arabalar	59,95
+Gokidy Çilek Makyaj Seti	79,95
+Hot Wheels Taşıyıcı Tırlar	349,00
+Fisher Pricee E&ö Köpekçiğin Oyun Macerası	349,00
+Gokidy Pizza Sunum Seti	119,00
+Gokidy Mini Traktör Kepçeli	39,95
+Gokidy Güzellik Blok Sehpası	149,00
+Fisher Price E&ö Tablet	549,00
+Gokidy İtfaiye Blok Sehpası	149,00
+Gokidy Manken Bebek Aksesuarlı	79,95
+Fisher Price Renkli Bloklar	299,00
+İnteraktif Aktviteler Duygu Ve Duyu Kavramlar	39,95
+İnteraktif Aktviteler Mekanda Konum Kitabı	39,95
+İnteraktif Aktviteler Şekiller Boyutlarla Kitabı	39,95
+İnteraktif Aktviteler Oyunlarla Kavramlar Kitabı	39,95
+İnteraktif Aktviteler Gündelik Hayatımda Kavramlar	39,95
+Sen Harikasın Kitabı	24,95
+Zürafa Yardım İstiyor Kitabı	24,95
+Üç Küçük Kuş Kitabı	24,95
+Tarçın'ın Kabuğu Kitabı	24,95
+Şekiller Kitabı	22,95
+Sayılar Kitabı	22,95
+Sualtı Kitabı	22,95
+Müzik Aletleri Kitabı	22,95
+Oyuncaklarım Kitabı	22,95
+Meyveler Ve Sebzeler Kitabı	22,95
+Renkler Kitabı	22,95
+Benim Odam Kitabı	22,95
+Meslekler Kitabı	22,95
+Çiftlik Kitabı	22,95
+Dikkat Aktivite Şekillerle Dikkat	39,95
+Dikkat Aktivite Renklerle Dikkat	39,95
+Çarpım Tablosu	39,95
+Çıkartmalı Şekillerle Öğrenelim Hayvan Dostlarımız	39,95
+Çıkartmalı Şekillerle Öğrenelim Nesneler	39,95
+Çıkartmalı Şekillerle Öğrenelim Rakamlar	39,95
+Çıkartmalı Şekillerle Öğrenelim Deniz Canlıları	39,95
+Çıkartmalarla Orman	39,95
+Hapşıran Fil Filo	34,95
+Ayak İzi Partisi	34,95
+Oyunlarla Kodlama Eğitimi Görsel Dikkat	24,95
+Oyunlarla Kodlama Eğitimi Bilişsel Etkinlikler	24,95
+Mutluluk Demek	9,99
+Renkler Okulu Kırmızı	9,99
+Renkler Okulu Kahverengi	9,99
+Renkler Okulu Yeşil	9,99
+5 Yaş Noktaları Birleştirelim Alfabe	19,99
+Eşyalar	9,99
+İlk Adımda Oyunlarla Harfler	24,95
+Dikkat Geliştiren Oyunlar İle Sistematik Düşünme	24,95
+Dört Mevsim Oyunu	9,99
+Meslekler	9,99
+
+
+*** Oyuncak Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Okey Takımı	449,00
+Gokidy Fume Magic Metal Çekbırak Araba	199,00
+Gokidy Melisa Pet Bakım Ve Besleme Bebek Seti	149,00
+Gokidy Supercar Metal Araba Seri 1	119,00
+Gokidy Sök Tak Bisiklet Kartelada	199,00
+Gokidy Metal Retro Çek Bırak Araba 1:36	119,00
+Barbieland Mini Bebek Ve Aracı	249,00
+Gokidy Hava Araçları	99,95
+Gokidy Soft Blast Nişancı Sigma	249,00
+Gokidy Çek Bırak Süper Spor Araçlar	79,95
+Gokidy Metal Çek Bırak Kaputu Açılan Araçlar 1:36	119,00
+Gokidy Dollyland Minkie Pet Kuaförü	119,00
+Sozzy Orman Hayvanlarım Oyun Halısı	299,00
+Gokidy Bebek Manav Seti Aksesuarlı 5.5 İnç	169,00
+Link 4	129,00
+Lüks Tombala	39,95
+Kum Boyama Seti	79,95
+Basket Atma Oyunu	49,95
+Gokidy Erken Eğitim Zeka Kartları	79,95
+Gokidy Sevimli Telefon	99,95
+Gokidy Bul-tak Kaplumbağa	119,00
+Fisher Price Eğitici Köpekçiğin Uzaktan Kumandalı	399,00
+Gokidy Nsoft Blast Nişancı Delta 2'li	299,00
+Fisher Price E&ö Eğitici Hikaye Kitabı	699,00
+Gokidy Soft Blast Nişancı Beta	299,00
+Barbie Prenses Bebek	219,00
+Gokidy Tamir Seti	49,95
+Gokidy Oyuncak Puset Fileli	169,00
+Gokidy Eğlenceli Şekiller 59 Parça	149,00
+Gokidy Meyve Sebze Kesme 7'li	119,00
+Gokidy Bowling Seti	119,00
+Pilsan Sweety Kova Takımı	29,95
+Gokidy Mikrodalga	199,00
+Gokidy Mikser	179,00
+Gokidy Blendır	149,00
+Gokidy Dollyland Luvlie Parti Elbiseli	149,00
+Gokidy Melisa Ve Bebeği Balonlu Seti	199,00
+Gokidy Dollyland Balerin Bebek	349,00
+Gokidy Boncuklu Takı Seti	79,95
+Gokidy Sürtmeli Belediye Araçları	79,95
+Gokidy Ütü Seti	99,95
+Hot Wheels Kış Temalı Özel Seri Tekli Arabalar	79,95
+Star Wars 6'' Darth Vader Figür	299,00
+Gokidy Dollyland Luvlıe Konser Kızı	249,00
+Gokidy Şirin Bebek Tavşan Taçlı	99,95
+Gokidy Eva Yazı Panosu	29,95
+Soft İstifleme Piramidi/Hippo	199,00
+Gokidy Savaş Helikopteri	119,00
+Gokidy Uzay Macerası 250 Gr	49,95
+Gokidy Söktak İş Makinası	49,95
+Gokidy Aksesuarlı Köpek Bakım Seti	49,95
+Melisanın Helikopteri	179,00
+Melissa'nın Bisikleti	129,00
+Melisa Bebek Pet Bakım Ve Besleme Seti	69,95
+Melisa Tekli Bebek	129,00
+Monster High Ana Karakter Bebekler	499,00
+Hot Wheels Monster Trucks 1:70 Arabalar	59,95
+Gokidy Çocuk Parkı	399,00
+Disney Princess Moda İkonu Bebekler	299,00
+Disney Frozen Elsa Ve Anna	399,00
+Barbie Chelsea Bebek	149,00
+Gokidy Güzellik Seti Çantalı	49,95
+Barbie Pırıltılı Bebek	239,00
+Gokidy Çantalı Deniz Kabuğu Evim	119,00
+Hot Wheels Kamyonlar	249,00
+Oyun Hamuru Seti Çeşitleri	29,95
+Kidzy Oyun Hamuru Setleri 150 G Hayvanlar Ve Presi	29,95
+Gokidy Paket Oyun Hamuru Seti	24,95
+Gokidy Pizza Hamburger Ve Dondurma Serisi	69,95
+Gokidy Drift Car	149,00
+Gokidy Uzaktan Kumandalı Bebekli Araç	599,00
+Gokidy Rc Crawler Uzaktan Kumandalı Off-road Araç	599,00
+Gokidy Dans Eden Robot	299,00
+Gokidy Desenli Büyük Soft Top	69,95
+Gokidy Spor Motosiklet	99,95
+Gokidy Kurmalı Dinazor Oyuncağı	39,95
+Matchbox Avrupa Araçları Serisi	79,95
+Lisanslı Puzzle 50/100 Parça Winnie-Mouse-Şirinler	49,95
+Gokidy Mini Odam Bebek Seti	69,95
+Gokidy Spor Araba	199,00
+Gokidy Road Blast Uzaktan Kumandalı Araba	249,00
+Gokidy Dollyland Minkie Çantalı Pet Vet Set	129,00
+Gokidy 3'lü Uçak	99,95
+Gokidy Klasik Motosiklet	99,95
+Gokidy Tamir Valizi	399,00
+Gokidy Dollyland Minkie İstiridye Bebek	59,95
+Gokidy Sök Tak Dinozor Sesli Işıklı	179,00
+Gokidy 4*4 Monster Truck	249,00
+Gokidy Pvc Poşette Sök Tak İş Araçları	249,00
+Gokidy Uzay Araç Çek-bırak	39,95
+Hw Disney 100. Yıl/marvel Spiderverse Temalı Araba	119,00
+Gokidy Sürtmeli Döner Teker Araba	79,95
+Gokidy Metal Kamyonlar 1:64	59,95
+Gokidy Çiftçi Sök Tak Araçlar	99,95
+Gokidy Monster Jip Kapalı Kasa	179,00
+Gokidy Okul Otobüsü Bloklar Serisi	49,95
+Gokidy Yarış Arabası Bloklar Serisi	49,95
+Gokidy Uzay Seti Hamur Kutusu 200 Gr	49,95
+Sürpriz Yumurta	24,95
+Matchbox Beşli Arabalar	329,00
+Hot Wheels Monster Trucks 1:64 Arabalar	199,00
+Gokidy Halkalı Araba	99,95
+Hot Wheels Üçlü Arabalar	199,00
+Hot Wheels Fırlatma Seti	199,00
+Gokidy Oyuncak Traktör	49,95
+Hot Wheels 2'li Araba	149,00
+Barbie Denizkızı Bebek	249,00
+Barbie Bebek	199,00
+Hot Wheels Tekli Araba	67,50
+Gokidy Sök Tak Araba	79,95
+Gokidy Söktak İş Makineleri Poşette	59,95
+Gokidy Güzellik Seti Saç Kurutmalı	99,95
+Gokidy Mini Kamyon	39,95
+Hot Wheels Taşıyıcı Şehir Seti	299,00
+Star Wars 9'' Darth Vader Figür	349,00
+Star Wars 9'' Mandalorıan Figür	349,00
+Gokidy Ördekli Büyük Balık Oltası	99,95
+Gokidy Yeni Yıl Gözlükleri	49,95
+Gokidy Sevimli Bebekler	99,95
+Gokidy Timsah & Balina Araç Fırlatma Seti	199,00
+Gokidy Arabalı Dinozor Oyun Seti	79,95
+Gokidy Balık Tutma Oyunu	99,95
+Gokidy Sürtmeli Dino Araçlar	149,00
+Gokidy 2'li Sevimli İş Araçları	69,95
+Gokidy Müzikal Hayvancıklar	199,00
+Gokidy Manken Bebek Payetli Günlük Elbise	99,95
+Gokidy Sürtmeli Büyük Teker Araba	69,95
+Köpekbalığı Oyuncak	149,00
+Soft İstifleme Beşgen/Koala	199,00
+Gokidy Çek-Bırak Fırlatıcı Helikopter	49,95
+Gokidy Hayvanlı Sök Tak Biçerdöver	199,00
+Gokidy Hayvanlı Sök Tak Traktör	199,00
+Kral Şakir Karakterler Squishy	99,00
+Gokidy El Arabası Seti	219,00
+Gokidy Kova Seti	49,95
+Gokidy Gemi Seti	59,95
+Rüzgar Gülü Ahşap Saplı 20 Cm	49,95
+Kızma Birader Kutu Oyunu	119,00
+Gokidy Sürtmeli Mini Araçlar 4'lü Set	69,95
+Jumbo Sürpriz Yumurta	24,95
+Nerf Elite 2.0 Ace	119,00
+Nerf Elite 2.0 Tetrad	399,00
+Gokidy Yüzücü Gözlüğü 3-6 Yaş	49,95
+Hot Wheels Oyuncak Kutusu	119,00
+Gokidy İlk Yaş Yumuşak Çıngıraklı Top	79,95
+Gokidy İlk Yaş Aktivite Masası	399,00
+Gokidy Hamburger Seti Tepsili	149,00
+Gokidy Oyuncak İlk Yazar Kasam	249,00
+Gokidy Bulaşık Sepeti	119,00
+Gokidy Blok Kaktüs 66 Parça	79,95
+Fisher Price Bebek Puzzle	69,95
+Cars Arabalar	59,95
+Gokidy Çilek Makyaj Seti	79,95
+Hot Wheels Taşıyıcı Tırlar	349,00
+Fisher Pricee E&ö Köpekçiğin Oyun Macerası	349,00
+Gokidy Pizza Sunum Seti	119,00
+Gokidy Mini Traktör Kepçeli	39,95
+Gokidy Güzellik Blok Sehpası	149,00
+Fisher Price E&ö Tablet	549,00
+Gokidy İtfaiye Blok Sehpası	149,00
+Gokidy Manken Bebek Aksesuarlı	79,95
+Fisher Price Renkli Bloklar	299,00
+
+
+
+*** Temizlik Çeşitleri ve Fiyatlar ***
+Ürün	Yeni Fiyat
+Ebru Sıvı Sabun Hindistan Cevizi 750 ml	30,00
+Ebru Sıvı Sabun Zeytinyağlı 4 L	99,95
+Ebru Sıvı Sabun Gül Bahçesi 4 L	99,95
+Ebru Sıvı Sabun Okyanus Rüzgarı 750 ml	30,00
+Ebru Sıvı Sabun Meyve Rüyası 4 L	99,95
+Ebru Sıvı Sabun Zeytinyağlı 750 ml	30,00
+Fax Sabun Beyaz 5*60 g	35,00
+Fax Sabun Yeşil 5*60 g	35,00
+Duru Geleneksel Sabun Pirinalı 5*160 g	124,90
+Dove Cream Bar 90 g	40,50
+Duru Fresh Banyo Sabunu 600 g	114,75
+Fax Kalıp Sabun Zeytinyağlı 800 g	67,00
+Fax Kalıp Sabun 800 g	67,00
+Dove Sıvı Sabun 450 ml	99,00
+Duru Sıvı Sabun Avokado 500 ml	57,00
+Ebru Sıvı Sabun Meyve Rüyası 750 ml	30,00
+Mintax Elde Yıkama Toz Deterjan 1000 g	49,95
+Bingo Soft Manolya Bahçesi Konsantre Yumuşatıcı 1440 Ml	149,00
+Mintax Matik Renkliler İçin Toz Deterjan 1.5 Kg	64,95
+Omo Matik Color Toz Deterjan 1.5 Kg	134,75
+Omo Active Fresh Renkliler Toz Deterjan 4.5 Kg	305,90
+Mintax Matik Beyazlar İçin 1.5 Kg	64,95
+Mintax Matik Renkliler İçin 10 Kg	299,00
+Mintax Matik Beyazlar İçin 4.5 Kg	161,90
+Mintax Matik Renkliler İçin Toz Deterjan 4.5 Kg	161,90
+Alo Toz Deterjan 4.5 Kg	239,00
+Omo Matik Active Fresh Toz Deterjan 1.5 Kg	134,75
+Tursil Leylak Bahçesi Toz Deterjan 4.5 Kg	225,90
+Omo Active Fresh Beyazlar Toz Deterjan 4.5 Kg	305,90
+Mintax Sıvı Bakım Deterjanı Renkliler 2695 ml	149,90
+Mintax Sıvı Bakım Deterjanı Siyahlar 2695 ml	149,90
+Omo Express Fresh Beyaz Ve Renkliler 1480 Ml	249,75
+Tursil Jel Deterjan 33 Yıkama 2145 Ml	159,50
+Omo Sıvı Deterjan 2470 Ml	289,00
+Omo Sıvı Active Fresh Cold Power Renkliler için Çamaşır Deterjanı 1690 Ml	229,00
+Omo Sıvı Active Fresh Cold Power Çamaşır Deterjanı 1690 Ml	229,00
+Perwoll Sıvı Deterjan Siyahlar 2.7 Lt	248,90
+Perwoll Sıvı Deterjan Renkliler 2.7 Lt	248,90
+Mintax Sıvı Çamaşır Deterjanı 1690 ml	129,90
+Mintax Çamaşır Yumuşatıcısı Sensitive 3 L	87,50
+Mintax Lavanta Bahçesi Çamaşır Yumuşatıcısı 3 L	87,50
+Mintax Gül Bahçesi Çamaşır Yumuşatıcısı 3 L	87,50
+Yumoş Extra Amber Çamaşır Yumuşatıcısı 1440 Ml	119,00
+Vernel Max 1320 Ml Çiçek Ferahlığı Konsantre Yumuş	115,00
+Vernel Gülün Büyüsü Çamaşır Yumuşatıcısı 3 Lt	106,00
+Vernel Çamaşır Yumuşatıcısı 3 Lt Relax	106,00
+Mintax Lilyum Bahçesi Çamaşır Yumuşatıcısı 1440 ml	81,00
+Mintax Sensıtıve Çamaşır Yumuşatıcısı 1440 ml	81,00
+Mintax Konsantre Bahar Ferahlığı Çamaşır Yumuşatcısı 1440 Ml	81,00
+Yumoş Extra Sakura Çamaşır Yumuşatıcısı 1008 Ml	143,90
+Vernel Max 1320 Ml Buz Serinliği Konsantre Yumuşat	115,00
+Yumoş Extra Lilyum Çamaşır Yumuşatıcısı 1440 Ml	119,00
+Yumoş Extra Orkide Çamaşır Yumuşatıcısı 1440 Ml	119,00
+Bingo Soft Konsantre Çamaşır Yumuşatıcısı 1440 Ml	149,00
+Yumoş Konsantre Yumuşatıcı Lilyum 1008 Ml	143,90
+Yumos Extra Şakayık 1440 Ml	119,00
+Ace Ultra Çamaşır Suyu Dağ Ferahlığı 810 Gr	59,95
+Ace Ultra Çamaşır Suyu Okaliptus 810 Gr	59,95
+Mintax Kireç Önleyici 500 g	37,95
+Calgon Ultra Konsantre Kireç Önleyici 250 G.	120,00
+Mintax Tül ve Çamaşır Beyazlatıcı 750 g	49,95
+Mintax Sodamatik 500 g	42,95
+Vanish Oxi Action Leke Çıkarıcı 3 Lt	385,00
+Mintax Çamaşır Makinesi Temizleyici 250 ml	29,95
+Mintax Sıvı Bulaşık Deterjanı Limonlu 750 ml	35,00
+Mintax Ultra Sıvı Bulaşık Deterjanı 750 ml	47,00
+Mintax Bulaşık Deterjanı 4 Kg	105,00
+Mintax Sıvı Bulasık Deterjanı Losyon 750 ml	33,50
+Pril Power Limon 1306 Ml	129,00
+Pril Elma Kokulu Bulaşık Deterjanı 1306 Ml	129,00
+Fairy Losyon Bulaşık Deterjanı 750 Ml	81,25
+Fairy Bulaşık Deterjanı Limon 2600 Ml	265,95
+Pril Losyon Aloe Vera Sıvı Bulaşık Deterjanı 1405 Ml	129,00
+Fairy Sıvı Bulaşık Deterjanı 750 Ml	85,75
+Pril Losyon Bulaşık Deterjanı 750 Ml	66,90
+Mintax Bulaşık Makinesi Tableti 100 Adet	176,00
+Mintax Bulaşık Makinesi Tableti 33 Adet	141,90
+Mintax 7 in 1 Bulaşık Makinesi Tableti 50'li	119,50
+Asperox Sparx Bulaşık Makinası Kapsülü 30'lu	199,00
+Finish Quantum Tablet 50'li	399,95
+Fairy Platinum 33'lü Bulaşık Tableti	324,25
+Fairy Hepsi Bir Arada Kapsül 84'lü	486,00
+Fairy Hepsi Bir Arada Kapsül 50'li	299,00
+Finish Power 50'li Bulaşık Tableti	248,00
+Mintax Bulaşık Makinesi Jel 1 L	87,90
+Mintax Bulaşık Makinesi Tuzu 1.5 Kg	23,00
+Finish Tuz 1,5 Kg	86,00
+Mintax Bulaşık Makinesi Parlatıcısı 450 ml	24,00
+Finish Parlatıcı 250ml	75,00
+Mintax Bulaşık Makinesi Kokusu	32,95
+Mintax Lateks Eldiven Pudralı 50 Adet	83,50
+Mintax Temizlik Eldiveni S-m-l	29,95
+Mintax Oluklu Sünger 5'li	20,75
+Mintax Ovma Topu 4'lü	26,00
+Mintax Comfort Sünger Oluklu 2'li	32,95
+Mintax Sihirli Sünger Temizlik Bezi	10,75
+Mintax Bulaşık Makinesi Temizleyici 250 ml	29,95
+Cif Krem Limonlu 750 Ml	79,95
+Pril Bulaşık Sıvısı 750 Ml	76,90
+Pril Klasik Limon Bulaşık Deterjanı 4 Kg	189,90
+Mintax Çamaşır Suyu 2,5 L	41,25
+Ace Klasik Çamaşır Suyu 2 L	82,90
+Mintax Yoğun Çamaşır Suyu 1 L	34,00
+Mintax Yoğun Çamaşır Suyu 4000 ml	89,90
+Domestos Kar Beyazı 810 Gr	57,50
+Domestos Çamaşır Suyu Yoğun 750 Ml	57,50
+Domestos Çamaşır Suyu Çam Ferahlığı 3240 Ml	169,75
+Domestos Yoğun Çamaşır Suyu 7'li Püskürtme 750 Ml	54,95
+Mintax Çiçek Yüzey Temizleyici 2.5 L	68,00
+Mintax Yüzey Temizleyici 2.5 L	68,00
+Bingo Fresh Pembe Düşler Yüzey Temizleyici 2.5 L	99,90
+Mintax Silikonlu Temizleyici 1000 ml	39,95
+Mintax Cam Temizleyici 1000 ml	32,00
+Mintax Amonyaklı Ovma Kremi 750 ml	38,00
+Mintax Tüm Yüzeyler Jel Bahar Ferahlığı 750 ml	43,90
+Mintax Mutfak Temizleyici 1000 ml	50,50
+Mintax Ovma Kremi 750 ml	38,00
+Cif Krem 750 Ml Müge Çiçeği Ve Frezya	79,95
+Cif Krem Amonyaklı 750 Ml	79,95
+Cif Tüm Yüzeyler 750 Ml	85,95
+Mintax Kireç Ve Pas Çözücü 1000 ml	33,25
+Porçöz Pas ve Kireç Çözücü 1 L	59,90
+Mintax Ahşap Temizleyici 1 L	46,90
+Pronto Ahşap Temizleyici 750 Ml	135,00
+Fakir Halı Şampuanı Elde Temizlik 1 L	65,00
+Mintax Sıvı Arap Sabunu 1000 ml	49,90
+Mintax Banyo Temizleyici 1000 ml	50,50
+Mintax Çok Amaçlı Temizleyici 1000 ml	44,95
+Mintax Ultra Güç Kireç Ve Pas Çözücü 1 L	54,95
+Mintax Yağ Çözücü 1000 ml	37,50
+Mintax Sirkeli Genel Temizleyici 1 L	39,95
+Mintax Ultra Güç Sprey 1000 ml	54,95
+Asperox Sarı Güç 1 L	69,75
+Cif Sprey Ultra Hız Banyo 1000 Ml	67,00
+Cif Sprey Ultra Hız Mutfak 1000 Ml	67,00
+Asperox Mavi Güç  1 L	69,75
+Cillit Bang Mutfak Sprey 1000 Ml	120,00
+Selsil Pak Köpük Temizleyici Sprey 500 Ml	59,90
+Mintax Lavabo Açıcı 3*70 g	30,00
+Mintax Yüzey Temizlik Havlusu 100'lü	74,75
+Mintax Çam Kokulu Katı Wc Blok 2*48 g	39,75
+Sleepy Yüzey Temizlik Havlusu 100 Adet	84,75
+Duru İlk Hasat Zeytinyağlı Sabun 150grx4	89,00
+Duru Sıvı Sabun Okyanus 4 Lt	219,00
+Duru Sıvı Sabun Okyanus 500 Ml	57,00
+Ebru Sabun Leylak 5*75 G	43,75
+Ebru Sabun Gül 5*75 G	43,75
+Ebru Klasik Kalıp Beyaz Sabun 4*200 G	67,00
+Ebru Kalıp Sabun Zeytinyağlı 4*200 G	67,00
+La Diva Güzellik Sabunu Karpuz 100 Gr	25,00
+Ebru Oda Kokusu Pudra Esintisi 100 Ml	59,95
+Ebru Oda Kokusu Orkide Rüyası 100 Ml	59,95
+Ebru Oda Kokusu Lavanta Yedek 300 Ml	52,00
+Ebru Oda Kumaş Temizleyici 1000 Ml	54,50
+Glade Aerosol Oda Kokusu 300 Ml	89,90
+Sitil Likit Boya 80 Ml Kahve	26,00
+Raid Off! Pump Sprey 100 Ml	99,90
+Mintax Mikrofiber Cam Bezi 2'li	34,50
+Mintax Mikrofiber Temizlik Bezi 3'lü	60,00
+Mintax Mikrofiber Desenli Bez 3'lü	65,00
+Mintax Temizlik Bezi 5'li	21,50
+
+
+
+
+*** Kağıt Ürünler Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Softy Klasik Ped Normal 10'lu	18,00
+Softy Günlük Ped Normal 20'li	20,50
+Softy Ped Ultra 10'lu	20,75
+Softy Ultra Gece 7'li	20,75
+Orkid Ultra Ekstra Gece 24'lü	159,00
+Orkid Ultra Ekstra Normal 32'li	159,00
+Orkid Platinum Ultra Gece 10 Adet	85,00
+Orkid Platinum Ped Ultra Normal 8'li	64,90
+Orkid Ped Normal Ekonomik Paket 40'lı	129,00
+Orkid Platinum Ped Gece&Gündüz 6'lı	64,90
+Molped Ultra Gece Süper Fırsat 18'li	147,00
+Kotex İnce Günlük Ped 34'lü	44,90
+Kotex Ultra Hijyenik Ped Gece 16'lı	133,00
+Kotex Ultra Hijyenik Ped Gece 6'lı	51,90
+Kotex Ultra Hijyenik Ped Normal 24'lü	133,00
+Kotex Ultra Hijyenik Ped Normal 8'li	51,90
+Orkid Günlük Yaprak Ultra İnce 40'lı	95,00
+Orkid Ultra Gece 6'lı	50,90
+Kotex Günlük Ped Normal 34'lü	98,50
+Kotex Naturel Gece Pedi 14'lü	133,00
+Orkid Platinum Eko Paket Uzun 12 Adet	85,00
+Mintax Yüzey Temizlik Havlusu 100'lü	74,75
+Sleepy Yüzey Temizlik Havlusu 100 Adet	84,75
+Confort 2 Katlı Tuvalet Kağıdı 16'lı	93,00
+Beyaz Güvercin Tuvalet Kağıdı 16'lı	134,00
+Beyaz Güvercin Peçete 200 Yaprak	40,00
+Beyaz Güvercin Premium Peçete 50'li	21,50
+Confort Peçete 200'lü	18,50
+Selpak Deluxe Peçete 20'li	14,90
+Confort Dev Havlu 600 Yaprak	51,90
+Beyaz Güvercin Mendil 10'lu	21,00
+Beyaz Güvercin Mini Cep Mendili 10'lu	19,50
+
+
+*** Evcil Dostlar Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Freecat Somonlu Kedi Maması 85 G	16,50
+Freecat Biftekli Kedi Maması 85 G	16,50
+Freecat Tavuklu Kedi Maması 85 G	16,50
+Felıx Tavuklu Kuru Kedi Maması 2 Kg	457,45
+Gourmet Gold Ton Balıklı Yetişkin Kıyılmış 85 Gr	41,95
+Felix Konserve Kedi Maması Sığırlı 400 G	103,45
+Whiskas Kedi Maması Sığırlı 1+yaş 400 Gr	99,90
+Dreamies Kedi Somonlu Ödül Maması 60 Gr	45,90
+Free Cat Yetişkin Kedi Maması Biftekli 1.4 Kg	280,00
+Free Cat Yetişkin Kedi Maması Biftekli 300 Gr	61,50
+Whiskas Kedi Kuru Biftek Ve Havuçlu 300 Gr	91,50
+Whiskas Kedi Maması Sığırlı 1+yaş 1.4 Kg	389,90
+Whiskas Kedi Maması Junior 2-12 Ay 4*85gr	99,90
+Whiskas Kedi Maması Sığır Etli 85 Gr	28,50
+Whiskas Kedi Maması Tavuklu 85 Gr	28,50
+Whiskas Yaş Mama Balık Favorileri 340 Gr	99,90
+Whiskas Poşet Yaş Mama Junior 85 g	28,50
+Whiskas Kedi Maması Somonlu 85 Gr	28,50
+Free Dog Yetişkin Köpek Maması Biftekli 3 Kg	300,00
+Pedigree Sığır Etli Köpek Konservesi 400 g	99,90
+Pedigree Biscrock Original 200 Gr	69,90
+Tüy Toplayıcı 60 Yaprak	24,95
+2 Gözlü Mama Ve Su Kabı	119,00
+Enjoy Muhabbet Kuşu Yemi Vitaminli 400 Gr	39,50
+King Muhabbet Kuşu Krakeri 3'lü 81 Gr	29,50
+Freecat Kedi Kumu 5 L	79,00
+
+
+
+*** Elektronik Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Alpina Cam Ankastre Set	5.999,00
+Asonic Kulak İçi Mikrofonlu Kulaklık	64,95
+S-link Kablosuz Kulaklıklı Transmitter	199,00
+Asonic Powerbank 10.000 Mah	269,00
+Asonic Ios Şarj Kablosu	49,95
+Asonic Type-c Kablo	49,95
+S-Link Ip-g10n Micro+TypeC Giriş Powerbank 10000m	269,00
+Asonic As-x230 20w Hızlı Beyaz Şarj Adaptörü	219,00
+Asonic As-x706 20w Type-c To Type-c Şarj Kablosu	89,00
+Asonic X806 Type-c To Lightning Hızlı Şarj Kablosu	99,90
+Asonic As-x225 20w Hızlı Beyaz Şarj Adaptörü	189,00
+Asonic Ev Şarj Adaptörü 2.1a	95,95
+Asonic As-xk110 TypeC Kulak İçi Kulaklık	139,00
+Asonic As-xk100 Lightning Kulak İçi Kulaklık	139,00
+S-link Sl-u264 64 Gb Usb 2.0 Flash Driver Bellek	219,00
+S-link Sl-tf264 64 Gb Class10 Micro Sd Kart Bellek	219,00
+Arzum Airchef Airfryer Siyah	2.499,00
+Sinbo Sco-5055 Airfryer 4.5 Lt	1.599,00
+Arzum Teablend Çay Makinesi Ar3141	1.399,00
+Arzum Okka Minio Jet Türk Kahvesi Makinesi Ok0013	1.199,00
+Sinbo Plastik Cezve	279,00
+Arzum Olivya Seramik Tabanlı Ütü Ar 684	849,00
+Superia Doğrayıcı Spr 342	899,00
+Sinbo Ssm-2587 Tost Makinesi	619,00
+Asonic As-w6 Bluetooth Alarmlı Saat Speaker Beyaz	399,00
+Kochler Otomatik Cam Temizleme Robotu	3.699,00
+Arzum Linda Saç Kurutma Makinesi	699,00
+Sinbo Katlanabilir Mini Saç Kurutma Makinesi	399,00
+Forever Ledli Katlanır Işıklı Ayna	119,00
+Forever Ledli Katlanır Işıklı Ayna Siyah	119,00
+Kreuzer Dijital Baskül Siyah / Beyaz	199,00
+Sinbo Sfh-3399 Quartz Isıtıcı	549,00
+Meganit Cr2032 Lityum Pil 3v 2'li	24,95
+Meganit Alkalin Kalem Pil 4'lü	25,50
+Meganit Alkalin İnce Kalem Pil 4'lü	24,50
+Simply Duracell Aa Kalem Pil 6'lı	159,95
+Simply Duracell Aaa İnce Kalem Pil 6'lı	159,95
+Duracell Simply 2032 Lityum Düğme Pil 3v 3'lü	124,95
+Sakura Led Ampül Beyaz Işık 8.5 W	41,50
+Sakura Led Ampül Gün Işığı 8.5 W	41,50
+Sakura Led Ampül Sarı Işık 15w	49,00
+Sakura Led Ampül Beyaz Işık 15w	49,00
+Sakura 4w E14 Filament Led Ampul	52,95
+Orbus Fener Led Işık	79,95
+Solar Yanma Efektli Bahçe Aydınlatması	129,00
+Solar Mantar Lamba	219,00
+Orbus Gu10 Led Ampul	14,95
+Orbus 6w Flament Led Ampul Sarı Işık 600lm	72,95
+Orbus Peri Led 100 Lü	89,95
+Forever Metal Top Led Işık Zinciri	149,00
+Forever Işık Zinciri 150 Led	169,00
+Forever Ağaç Led Mum	229,00
+Forever Işıklı Metal Kardan Adam 40 Cm	349,00
+Petrix Hareketli Alev Efekt Gaz Lambası	109,00
+Petrix Alev Efekt Askılı Fener Işık	99,95
+Petrix Solar Mum Efektli Meşale Pxs-22	119,00
+Petrix Sensörlü Solar Bahçe Lambası Px-s05	449,00
+Petrix Cam Küre Dekoratif Solar Işık Px-s09	179,00
+Sinbo Sto-6697 Abajur	179,00
+Sinbo Sto-5003 3 Katlı Işıklı Raf	549,00
+Nilson Anahtar Tekli	24,95
+Flash Beyaz Golyat 3'lü	99,95
+Flash Topraklı Grup Priz 1 Mt Kablolu 3'lü	179,00
+Papara Card	20,00
+İninal Kart	5,00
+Paycell Kart	29,90
+Tosla Kart	25,00
+
+
+
+
+*** Giyim-Ayakkabı ve Aksesuar Çeşitleri ***
+Ürün	Yeni Fiyat
+Peluş Hareketli Kulaklık	249,00
+Peluş Kulaklık Figürlü	129,00
+Slazenger Erkek T-shirt Antrasit S-M	149,00
+Kadın Terlik Bej	159,00
+Simli Kapaklı Organizer Antrasit	139,00
+Simli Organizer Büyük Boy Antrasit	129,00
+Kadın Terlik Kürklü	119,00
+Çok Amaçlı Kapaklı Kutu	99,95
+Wellsoft Ev Babeti Gri Ponponlu	89,95
+Slazenger Erkek Tam Fermuarlı Sweatshırt S-m	399,00
+Slazenger Erkek Tam Fermuarlı Sweatshirt L-xl	399,00
+Simli Sepet Büyük Boy Antrasit	199,00
+Wellsoft Tam Fermuarlı Sweatshirt	299,00
+Simli Sepet Küçük Boy Antrasit	179,00
+Slazenger Erkek Polar Üst Tam Fermuar Lacivert S-m	349,00
+Slazenger Erkek Polar Üst Tam Fermuarlı Siyah S-m	349,00
+Slazenger Erkek Polar Üst Tam Fermuar Lacvert L-xl	349,00
+Slazenger Erkek Polar Üst Tam Fermuarlı Siyah L-xl	349,00
+Slazenger Kadın Polar Üst Tam Fermuarlı L-xl	349,00
+Slazenger Kadın Polar Üst Tam Fermuarlı S-m	349,00
+Wellsoft Tam Fermuarlı Sweatshirt	299,00
+Slazenger Kadın Polar Tam Fermuarlı Bordo S-m	349,00
+Slazenger Çocuk Polar Üst Kapüşonlu 9-10 Yaş	299,00
+Slazenger Erkek Polar Üst Yarım Fermuar Siyah L-xl	249,00
+Slazenger Çocuk Polar Üst Kapüşonlu 7-8 Yaş	299,00
+Slazenger Erkek Polar Üst Yarım Fermuar Siyah S-m	249,00
+Slazenger Kadın Fermuarlı Sweatshirt Modal L-XL	349,00
+Slazenger Kadın Fermuarlı Sweatshirt Modal S-M	349,00
+Slazenger Kadın Sweatshırt Sıfır Yaka S-m	219,00
+Slazenger Kadın Sweatshirt Sıfır Yaka L-xl	219,00
+Erkek Oduncu Gömlek M-l	249,00
+Erkek Oduncu Gömlek Xl-xxl	249,00
+Erkek Polar Gömlek L-xl	299,00
+Erkek Flanel Gömlek M-l	259,00
+Spor Tayt	99,95
+Fitilli Tayt Yüksel Bel	99,95
+Slazenger Erkek Ribanalı Eşofman Altı L-xl	349,00
+Slazenger Erkek Ribanalı Eşofman Altı S-m	349,00
+Slazenger Ribanalı Eşofman Altı Pike Kumaş S-m	399,00
+Slazenger Ribanalı Eşofman Altı Pike Kumaş L-xl	399,00
+Slazenger Erkek Eşofman Altı Ribanalı S-m	299,00
+Slazenger Kadın Eşofman Altı Mikro Modal L-xl	299,00
+Slazenger Kadın Ribanalı Eşofman Altı Modal S-M	279,00
+Slazenger Erkek Ribanalı Eşofman Altı Modal L-XL	249,00
+Slazenger Kadın Ribanalı Eşofman Altı Modal L-XL	279,00
+Kadın Jogger Pantolon Kuşaklı	149,00
+Kadın Panduf Kuzu Kumaş	199,00
+Erkek Tek Alt Mikrosüet	179,00
+Kedi-köpek Yatağı	219,00
+Slazenger Kadın Polar Üst Kırmızı S-m	219,00
+Slazenger Erkek Şort Mikro Modal S-M	184,00
+Slazenger Erkek Şort Mikro Modal L-XL	184,00
+Slazenger Kadın Şort Mikro Modal L-XL	184,00
+Kadın Şort Krinkıl Kahverengi S-M	89,95
+Kadın Şort Krinkıl Siyah S-M	89,95
+Slazenger Erkek Şort Antrasit S-M	189,00
+Slazenger Erkek Şort Antrasit S-M	189,00
+Slazenger Kadın Şort Modal Kumaş Gri L-XL	189,00
+Slazenger Kadın Şort Modal Kumaş Gri S-M	189,00
+Slazenger Kadın Şort Modal Kumaş Siyah S-M	189,00
+Slazenger Kadın Şort Modal Kumaş Siyah L-XL	189,00
+Slazenger Erkek Şort Modal L-xl	109,00
+Kadın Mikrosüet Tek Alt L-xl	249,00
+Kadın Mikrosüet Tek Alt S-m	249,00
+Kadın Tek Alt Mikrosüet	179,00
+Erkek Ekose Pijama Takımı Mikrosüet L-xl	299,00
+Kadın Ekose Pijama Takımı Mikrosüet L-xl	299,00
+Erkek Pijama Takımı L-xl	299,00
+Kadın Düğmeli Pijama Takımı	299,00
+Kadın Dantelli Şortlu Pijama Takımı L-XL	219,00
+Kadın Dantelli Şortlu Pijama Takımı S-M	219,00
+Kadın Şortlu Pijama Takımı	239,00
+Kız Çocuk Pijama Takımı	149,00
+Erkek Pijama Takımı Ekose S-M	279,00
+Kadın Pijama Takımı Ekose S-M	279,00
+Kadın Sabahlık Kuzu Kumaş Gri	299,00
+Gecelik Viskon Dantel Detaylı	71,25
+Kadın Pijama Takımı Ekose L-XL	279,00
+Slazenger Erkek Ayakkabı 43	399,00
+Kinetix Erkek Spor Ayakkabı 42	599,00
+Letoon Kadın Spor Ayakkabı	239,00
+Letoon Erkek Spor Ayakkabı	239,00
+Letoon Erkek Spor Ayakkabı	239,00
+Kadın Terlik Nubuk	119,00
+Çocuk Sandalet Aksesuarlı Asker Mavisi	119,00
+Çocuk Sandalet Aksesuarlı Vişne	119,00
+Patik Sandalet Aksesuarlı Vişne	119,00
+Kadın Ev Botu Kürklü	199,00
+Wellsoft Ev Botu	149,00
+Kadın Havuz Tabanlı Ev Botu	249,00
+Kadın Desenli Terlik Lila	129,00
+Kadın Örgü Terlik	49,95
+Kadın Terlik Fuşya	69,95
+Kadın Terlik Kot Örgü	99,95
+Erkek Kapalı Terlik	99,95
+Kadın Terlik Metalik Tek Bant	59,95
+Kadın Terlik Simli Tek Bant	79,95
+Kadın Terlik Antrasit	99,95
+Esem Kız Çocuk Işıklı Filet Terlik 33 Bej	219,00
+Kadın Çift Bant Eva Sandalet Terlik Kırmızı	129,00
+Kadın Çift Bant Eva Sandalet Terlik Somon	129,00
+Gezer Kadın Yaz Terlik Gt1yzm.14976.00	99,95
+Kadın Tokalı Terlik Renkli	99,95
+Kadın Terlik Aksesuarlı	99,95
+Kadın Yüksek Taban Burnu Açık Terlik Lila	139,00
+Kadın Tokalı Terlik Siyah	99,95
+Kadın Örgü Bant Terlik Pudra Pembe	99,95
+Esem Kız Çocuk Işıklı Patik Terlik 29 Lila	169,00
+Esem Kız Çocuk Terlik Sarmalsız 34 Kırmızı	129,00
+Kadın Tek Bant Terlik Bej	99,95
+Kadın Tek Bant Terlik Vişne	99,95
+Kadın Bantlı Terlik	79,95
+Kadın Aksesuarlı Terlik	54,95
+Kadın Çapraz Terlik Krokodil	64,95
+Kız Çocuk Sandalet	49,95
+Kadın Kürklü Ekose Terlik	89,95
+Kadın Gondol Terlik	64,95
+Kadın Ev Botu Kürklü Kahve	119,00
+Kadın Tek Toka Terlik	44,95
+Kadın Terlik Yılbaşı Desenli	79,95
+Kadın Örgü Terlik	29,95
+Kadın Örgü Terlik Yeşil	54,95
+Kadın Örgü Tek Bant Terlik	79,95
+Kadın Suni Deri Çapraz Terlik Gümüş	29,95
+Kadın Örgü Terlik	15,25
+Erkek Çocuk Sandalet	49,95
+Gezer Terlik Kadın Kış Gt1kzm.14363.00	79,95
+Gezer Terlik Erkek Kış Gt2kmm.14697.00	79,95
+Gezer Plaj Terlik Çocuk	10,20
+Gezer Kadın Terlik Gt1yzm.12505.00	45,80
+Kadın Buklet Şal	139,00
+Kadın Şal	119,00
+Panço	149,00
+2'li Kadın Bambu Sneaker Çorap	49,95
+2'li Erkek Bambu Sneaker Çorap	49,95
+Chantale Erkek Kışlık Çorap	27,50
+Chantale Kadın Bambu Soket Çorap	24,95
+Chantale Kadın Bambu Patik Çorap	22,95
+Chantale Siyah Tayt	79,95
+Chantale Çocuk Bambu Çorap	22,50
+Chantale Fit 15 Parlak Külotlu Çorap	43,50
+Chantale Fit 15 Parlak Pantolon Çorabı 2'li	27,50
+Chantale Erkek Bambu Çorap	29,75
+Thermoform Kadın Termal Çorap Baston Şeker 36-40	99,95
+Thermoform Kadın Termal Çorap Baykuş 36-40	99,95
+Thermoform Çocuk Termal Çorap Kurabiye 5-7 Yaş	79,95
+Thermoform Çocuk Termal Çorap Geyik 5-7 Yaş	79,95
+Kadın Wellsoft Ev Patiği Mor 37-38	54,95
+Kadın Wellsoft Ev Patiği Mor 39-40	54,95
+Wellsoft Ev Babeti 36-38	79,95
+Çapraz Bantlı Pilates Çorabı Pamuk Tekli	39,95
+2'li Bebek Çorabı	39,95
+2'li Çocuk Çorap Marul Lastik	49,95
+3'lü Patik Çorap Erkek	34,95
+3'lü Patik Çorap Kadın	34,95
+Penti Daima Termal Külotlu 3 Siyah	179,00
+Penti Daima Termal Külotlu 2 Siyah	179,00
+Penti Daima Termal Tayt 3 Siyah	179,00
+Penti Daima Termal Tayt 2 Siyah	179,00
+Penti Daima 50 Külotlu Çorap 2 Siyah	89,95
+Penti Daima 15 Den Külotlu 2 Ten Rengi	49,95
+Penti Daima 15 Den Külotlu 2 Siyah	49,95
+Thermoform Termal Çocuk Çorap 3-5 Yaş Penguendesen	59,95
+Thermoform Termal Çocuk Çorap 5-6 Yaş Penguendesen	59,95
+Penti Daima Termal Tayt 3 Siyah	129,00
+Penti Daima Termal Tayt 1 Siyah	129,00
+Penti Daima Termal Tayt 2 Siyah	139,00
+Abs Büyük Boy Valiz Lacivert	849,00
+Niloya Baskılı Balon 5'li	29,95
+Çok Amaçlı Çanta Büyük Boy Lacivert	74,95
+Çok Amaçlı Çanta Büyük Boy	109,00
+Abs Büyük Boy Valiz	799,00
+Pp Kabin Boy Valiz	599,00
+Çevreci Lamineli Çanta	14,95
+Körüklü Alışveriş Çantası	14,95
+Bez Çanta 54*38cm	9,99
+Kadın Sırt Çantası Krinkıl Kumaş	179,00
+Ribanalı Bato Slip 2'li	69,95
+Kız Çocuk 2'li Slip Ekose 5-6 yaş	39,95
+Erkek Boxer	49,95
+Kadın Bato Slip	34,95
+Erkek Boxer Dijital Baskılı Lastik Lacivert L-XL	49,95
+Kadın Basic Atlet Siyah S-M	59,95
+Desenli Slip 2'li	54,95
+Dantelli Bralet Gül Kurusu 85 Beden	91,60
+Chantale Sütyen Dolgulu/dolgusuz	106,50
+Chantale Erkek Atlet	64,50
+Chantale Erkek Boxer	52,50
+Chantale İp Askılı Kadın Modal Atlet	61,50
+Chantale Kadın Modal Slip 3'lü	79,50
+Chantale Kadın 2'li Bato Slip	65,75
+Kadın Dantelli Bralet Siyah 80 Beden	99,95
+Kadın Ribanalı Bato Slip 2'li Xl-2xl	79,95
+Erkek Boxer Lacivert M-l	59,95
+Kadın Slip 2li Kırmızı Kalp S-m	59,95
+Kadın Slip 2li Bordo Kalp S-m	59,95
+Kadın Slip 2li Bordo Kalp L-xl	59,95
+Düz Renk Erkek Boxer Tekli Xl-2xl	64,95
+2'li Ribanalı Bato Slip Yeşil-koyu Yeşil M-l	79,95
+2'li Ribanalı Slip Ekru-lila S-m	69,95
+Kadın Atlet Ribanalı Siyah L-XL	74,95
+Kadın Atlet Ribanalı Siyah S-M	74,95
+Sütyen Ribanalı 85 Siyah	199,00
+Sütyen Ribanalı 85 Ten	199,00
+Kadın Slip 2'li Ekru S-m	49,95
+Kadın Slip 2'li Bordo S-m	49,95
+Dantelli Bralet Siyah 80 Beden	71,25
+Thermoform Soft Termal Alt İçlik S-m	319,00
+Thermoform Soft Termal Alt İçlik L-xl	319,00
+Thermoform Soft Termal Üst İçlik L-xl	319,00
+Minimizer Sütyen Ten 90	91,60
+
+
+
+
+*** Ev ve Yaşam Çeşitleri ve Fiyatları ***
+Ürün	Yeni Fiyat
+Kahve Filtre Kağıdı 40'lı	39,95
+Anne Yanı Bebek Yatağı	309,00
+Gokidy El Arabası Seti	219,00
+Gokidy Kova Seti	49,95
+Gokidy Gemi Seti	59,95
+S-link Kablosuz Kulaklıklı Transmitter	199,00
+Bebek Nevresim Seti	199,00
+Silikon Micro Yastık 50*70 Cm	99,95
+Microfiber Yorgan Tek Kişilik	349,00
+Baskılı Midi Hurç Kulplu	44,95
+Arkalıklı Sandalye Minderi	59,95
+Pamuklu Çift Kişilik Battaniye	259,00
+Pamuklu Tek Kişilik Battaniye	229,00
+El Havlusu Antrasit	34,95
+Yüz Havlusu Bej	99,95
+Erkek Terlik Keçe Kumaş	239,00
+Banyo Havlusu Bej	219,00
+Keçe Supla Yeşil	49,95
+Keçe Supla Kırmızı	49,95
+Kadın Peluş Terlik Aksesuarlı	199,00
+Jüt Çok Amaçlı Kapaksız Kutu	179,00
+2'li Supla Simli Antrasit	159,00
+Mega Kutulu Hurç	129,00
+Pamuklu Çift Kişilik Battaniye	299,00
+Pamuklu Tek Kişilik Battaniye	249,00
+Wellsoft Tv Battaniyesi	189,00
+Kadın Terlik Çanak Model	79,95
+Kadın Düğmeli Pijama Takımı (soft Kumaş)	399,00
+Kadın Gondol Ev Ayakkabısı	129,00
+Çizgili Çorap	21,95
+Kadın Lastiksiz Soket Çorap	21,95
+Erkek Bambu Çorap Soket	29,95
+Kadın Bambu Çorap Soket	29,95
+3 Bölmeli Organizer	349,00
+Penguen Organizer Büyük Boy	279,00
+Emboss Banyo Paspas Seti 2'li	249,00
+Wellsoft Banyo Paspas Seti	249,00
+Tv Battaniyesi Pamuklu Çift Taraflı	399,00
+Tv Battaniyesi Tavşan Kumaş	599,00
+Tek Kişilik Pamuklu Battaniye Çift Taraflı	479,00
+Çift Kişilik Soft Dokulu Yorgan	999,00
+Yüz Havlusu Etnik	99,95
+El Havlusu Etnik	34,95
+2'lı Ranforce Yastık Kılıfı	79,95
+Koltuk Örtüsü	159,00
+Yüz Havlusu Jakarlı - Bej	79,95
+Baskılı Baza Altı Hurç Kulplu Maxi	59,95
+Baskılı Mega Hurç Kulplu	54,95
+Havlu Bone	49,95
+Anne Yanı Bebek Yatağı	259,00
+Pamuklu Battaniye Çift Kişilik	259,00
+Pamuklu Battaniye Tek Kişilik	229,00
+Koltuk Örtüsü	119,00
+Jüt Kapaklı Çekmece İçi Saklama Kutusu	169,00
+Kapı Önü Paspası	44,95
+3'lü Bavul Organizer	149,00
+Hasır Amerikan Servis 2'li	149,00
+Dolap Düzenleyici 4 Bölmeli	69,95
+Premium Çok Amaçlı Raf	249,00
+Ruumstore 4 Bölmeli Ayakkabılık	799,00
+Sahil Çay Bardağı 6'lı 110 Cc	49,00
+Sahil Su Bardağı 6'lı 200 Cc	62,75
+Saroz Karton Bardak 20'li	17,75
+Saroz Plastik Bardak 180 Cc 20'li	19,95
+Sahil Fincan/kupa 200 Cc	25,75
+12 Parça Çay Seti	599,00
+Cam Pipetli & Silikonlu Bardak	129,00
+Cam Pipetli Bardak Lusterli 270 Cc	129,00
+Paşabahçe Iconıc 3'lü Bardak 365 Cc	99,95
+Paşabahçe Casablanca Bardak 355 Cc	22,95
+Papatya Bardak 350 Ml	12,90
+Papatya Kase	12,90
+Sahil Kapaklı Kase 10 Cm	24,75
+Bambu Çerezlik Dikdörtgen	119,00
+Bambu Çerezlik Yuvarlak	119,00
+Bambu Çerezlik Kalp	119,00
+Bambu Çerezlik Papatya	119,00
+290 Cc Su Bardağı	34,95
+Kare Tatlı Kasesi	44,95
+Cam Aşure Kasesi	19,95
+Dikdörtgen Kahvaltılık	19,95
+Çerezlik 11 Cm Yaprak	24,95
+Bambu Çerezlik 2'li	24,55
+Bambum Çerezlik Çam Yaprak	129,00
+Bambum Çerezlik Lfy İncir Yaprak	99,00
+Bambum Çerezlik Pine Üçgen Çam Ağacı Desenli	99,00
+Paşabahçe Marine Batık Servis	23,35
+Saroz Plastik Kaşık 10'lu	9,75
+Saroz Plastik Tabak 10'lu	27,95
+Saroz Plastik Çatal 10'lu	9,75
+Saroz Karton Tabak 10'lu	16,50
+Mama Tabağı Silikon Vakumlu	129,00
+Dik Kenarlı Cam Tabak 16 Cm	29,95
+Dik Kenarlı Tabak 16 Cm Cam Kırmızı	34,95
+Dik Kenarlı Tabak 26 Cm Cam Kırmızı	69,00
+Keramika Tabak Ege Servis 26 Cm	40,65
+Papatya Kayık Tabak	12,90
+Yumurta Saklama Kabı (12li)	34,95
+No Frost Saklama Kabı 675 Ml	34,95
+Kare Bölmeli Beslenme Kabı (yeni)	34,95
+Vip Ahmet Masal Saklama Kabı 1.6 L	59,95
+Vip Ahmet Masal Saklama Kabı 4.5 L	99,95
+Vip Ahmet Masal Saklama Kabı 10 L	189,00
+Kupa Bardak 250 Cc	19,95
+Rüya Saklama Dikdörtgen Sığ Büyük 2.10 L	79,95
+Rüya Saklama Dikdörtgen Sığ Küçük 1.5 L	59,95
+Hamur Leğeni 11 L	189,00
+Cam Kapaklı Saklama Kabı 17 Cm	49,95
+Cam Kapaklı Saklama Kabı 12 Cm	59,95
+Cam Kapaklı Saklama Kabı 14 Cm	29,95
+Camsil Çek	29,95
+Silikon Bulaşık Süngeri 2'li	49,95
+Vakumlu Saklama Kabı Dikdörtgen 2.7 Lt Kumsal	69,95
+Vakumlu Saklama Kabı 0.5 Lt Bej Renk	34,95
+Hamur Leğeni 7 Lt Bej Renk	149,00
+Vakumlu Saklama Kabı Dikdörtgen 4.2 Lt Kumsal	79,95
+Vakumlu Saklama Kabı 2 Lt	59,95
+Vakumlu Saklama Kabı 1 Lt	49,95
+Vakumlu Saklama Kabı 3 Lt	79,95
+Vip Ahmet Sude Kare Saklama Kabı 350 Ml	36,95
+Paşabahçe Saklama Kabı Basic Pk 275 Cc	99,95
+Sarkap Home 6'lı 40 Ml Yuvarlak Kapak Cam Kavanoz	59,95
+Sarkap Home 4'lü 210 Ml Yuvarlak Kapak Cam Kavanoz	59,95
+Sarkap Kavanoz Kapağı 10'lu	24,90
+3'lü Süzgeçli Huni Seti	29,95
+Manuel El Rondosu	129,00
+El İmalatı Cam Kurabiyelik 26 Cm	199,00
+Metaltex Köşe Süzgeçi Kanatlı	399,00
+Silikon Tencere Kapağı	39,95
+Kumsal Kavurma Sacı 32 cm	379,00
+Hosse Sac Kavurma Tavası Döküm 28 Cm	599,00
+No:4 Cezve	169,00
+Esse Granite Döküm 36 Cm Ahşap Saplı Çift Taraflı	319,00
+Sos Tavası	129,00
+Papilla 18 Sahan	169,00
+Papilla 18 Wok Tava	169,00
+Saroz Körüklü Pipet Jelatinli 50'li	31,95
+Dekoratif Metal Sunumluk	199,00
+Mystyle 12'li Muffin Kek Kalıbı	99,95
+Hayvan Şekilli Kupa	199,00
+Dik Kenarlı Sunum Tabağı 26 Cm	69,95
+Dik Kenarlı Sunum Tabağı 22 Cm	49,95
+Ahşap Kapak Termos	399,00
+Hasır Peçetelik	169,00
+Katlı Kurabiyelik Yuvarlak 26*21 Cm	499,00
+Silikon Dubai Çikolata Kalıbı	59,95
+2'li Kahvaltı Bıçağı	44,95
+4'lü Meyve Bıçağı	69,95
+Metal Kapak Optikli Cam Kavanoz 90*220mm 1200ml	149,00
+Metal Kapak Optikli Cam Kavanoz 90*140mm 790ml	119,00
+Metal Kapak Optikli Cam Kavanoz 90*180mm 1000ml	149,00
+Metal Kapak Optikli Cam Kavanoz 70*180mm 600ml	119,00
+Metal Kapak Optikli Cam Kavanoz 70*220mm 750ml	149,00
+Metal Kapak Optikli Cam Kavanoz 90*100mm 570ml	119,00
+Metal Kapak Optikli Cam Kavanoz 70*140mm 450ml	119,00
+Metaltex Klipsli Tencere Süzgeçi	199,00
+Küçük Tabaklık Gümüş	149,00
+Bambu Peynir Kesme Tahtası	199,00
+Mycey Uzun Saplı Besleme Kaşığı - 3'lü	79,95
+Totobag Hijyen Torbası Evcil Hayvan 23*30 Cm	10,95
+Metaltex Dikdörtgen Baton Pasta Kek Kalıbı 30cm	199,00
+Çelik Kevgir - 304	129,00
+3 Litre Cam Kavanoz	69,95
+Pipetli Matara Asorti 600 Ml	90,00
+Cam Pipet Temizleme Fırçası 6'lı	59,95
+Oval Hasır Sepet 40*31*5 Cm	249,00
+Vip Ahmet Mikser Kabı	299,00
+Adana Şiş 25 cm	24,95
+Pls Saplı Çelik No:3 Kasap Bıçağı	44,95
+Metaltex Rotomac Manuel Mutfak Robotu	899,00
+Bakır Kapak Matara 1 Lt	59,95
+Metal Matara 500 Ml	111,00
+Amerikan Servis	79,95
+Yumurtalık Ege 13 Cm	19,95
+Metal Mısır Kovası	69,95
+Demlik İçi Çay Süzgeci	7,95
+Saplı Çay Süzgeci	26,95
+Çöp Şiş 100'lü	26,95
+Çay Kaşığı 6'lı	24,95
+Silikon Dondurma Kaşığı	34,95
+Sebze Meyve Bıçağı	32,95
+Sebze Meyve Koruyucu	49,95
+Plastik Servis Çırpıcı	14,95
+Piknik Seti Bıçağı 6'lı	5,99
+Piknik Seti Çatalı 6'lı	10,10
+Süzgeç No:1	149,00
+Yemek Çatalı Çelik 6'lı	89,95
+Kurabiye Kalıbı Çeşitleri	49,95
+Katlanır Huni	32,95
+Kedi Motifli Metal Peçetelik	65,90
+Çift Katlı Çocuk Basamağı	199,00
+Ahşap Karıştırıcı 100'lü	16,95
+Ahşap Tepsi Seti 7 Parça	99,00
+Ambalaj Lastiği	52,95
+Isıya Dayanıklı Pc Geyik Çocuk Matara 600 Ml	99,95
+Bardak Altlığı	69,95
+Ekmeklik Yuvarlak Kare	139,00
+Vip Ahmet Plastik Kaşık	22,95
+Terra Peynir Dilimleyici	19,95
+Paı Ahşap Saplı Takı / Kupa Standı	99,95
+Papilla 28 Cm Turta Bravo Kek Kalıbı Kırmızı	0
+Smart Deterjan Hazneli Süngerlik	59,95
+Titiz Snowy Dondurma Kabı	29,95
+Akay Fırça Çeşitleri	24,95
+Klipsli Askı 4'lü	69,95
+Derz Temizleme Fırçası	14,95
+Vip Ahmet Klipsli Palet Mop	499,00
+Tiftik Tüy Toplayıcı	29,95
+Kapaklı Tuvalet Kağıtlığı	99,95
+Vip Ahmet Cam Mopu	699,00
+Tuvalet Kağıtlığı	99,95
+Kağıt Havluluk	99,95
+Bornoz Askısı	99,95
+Çubuk Havluluk	99,95
+Kancalı Fincan Askısı	99,00
+Derz Temizleyici Keçe	39,95
+Bambu Mutfak Aletleri	24,95
+Cam Çerez Tabak Yeşil	44,95
+Sıvı Sabunluk	199,00
+Çok Amaçlı Banyo Matı	99,95
+Vip Ahmet Sprey Mop	499,00
+Metaltex My Mug Kupa Rafı (siyah)	199,00
+Metaltex Easy-roll Kağıt Havlu Rafı (siyah)	199,00
+Pia Banyo Lifi	29,90
+Yer Çekçek 40 Cm	49,95
+Bulaşıkmatik Fırçası Yedek Sünger	19,95
+Bulaşık Altlığı	36,95
+Halı Kaydırmaz 40*90	59,95
+2 Katlı Banyo Köşe Rafı	269,00
+Objevi Cam Gider Kapağı	29,95
+Lıonesse Banyo Lifi	19,75
+Pia Sisal Ahşap Saplı Banyo Süngeri	89,90
+Metaltex Babette Raf Altı Sepeti	199,00
+Metaltex Totem Dolap İçi Düzenleyici Raf	199,00
+Metaltex Tabaklık Köşe Rafı	249,00
+Objeevi Gaz Lambası	299,00
+Objeevi Dekoratif Mum Feneri	99,95
+Kapsül Mum 4'lü	69,95
+Şamdan Mum Konik 2'li	49,95
+Retro Mutfak Sepeti	169,00
+Objevi Beton Saksı Yapay Çiçek Asorti	69,95
+Ahşap Kapı Stoperi Yaprak	29,95
+Ahşap Takı Aksesuarı	79,95
+Ahşap Kalp Anı Kutusu	99,95
+10'lu Silikon Mandal Pastel Renk	49,95
+Slazenger Çelik Atlama İpi	99,95
+Slazenger İki Raket 3 Top Masa Tenis Raket Seti	199,00
+Slazenger Atlama İpi Rulmanlı	69,95
+Krone Voleybol Topu	129,00
+Saplı Rulo 20 Cm	49,95
+Wd-40 Yağlama Ve Pas Sökücü Sprey 150 Ml	149,00
+Pattex Japon Yapıştırıcı 3 Gr	36,95
+Ve-ge Paketleme Bandı 48mm*40m	27,95
+Slim Elbise Askısı 9'lu	49,95
+Carıno Terra Ütü Masası	599,00
+Lector Sulu Boya 12'li	12,95
+Peluş Kalemlik	69,95
+Metal 2 Katlı Kalem Kutu Kamyon Mavi	90,00
+Rotring Kırmızı Kopya Kalemi 3'lü Blister	24,45
+Fc 3 Kırmızı Kalem 2 Silgi 1 Kopya Kalem Seti	65,00
+F.c. Jumbo Okul Kalemi 2.5b 2'li	27,95
+F.c. Suluboya 12li Küçük Boya Set+2 Boya Kalemi	111,00
+80 Yp Ciltli Sert Kapak Defter Kareli 13*21 cm	41,95
+100 Yp Spiralli Sert Kapak Bloknot Kareli 17*24 cm	48,95
+A4 100 Yp Üstten Spiral Sert Kapak Bloknot Çizgili	69,95
+100 Yp Spiralli Sert Kapak Bloknot Çizgili 17*24 cm	48,95
+A4 100 Yp Üstten Spiral Sert Kapak Bloknot Kareli	69,95
+A4 100 Yp Soldan Spiral Sert Kapak Bloknot Kareli	69,95
+A5 Okul Defteri 60 Yaprak Çizgili	9,05
+A4 40 Yp Tel Dikişli Pp Kapak Defter Kareli	13,95
+A4 40 Yp Tel Dikişli Pp Kapak Defter Çizgili	13,95
+A5 80 Yp Tel Dikişli Pp Kapak Defter Çizgili	11,85
+A5 Okul Defteri 40 Yaprak Çizgili	6,95
+A4 96 Yp Spiralli Pp Kapak Defter Kareli	31,40
+A5 80 Yp Tel Dikişli Pp Kapak Defter	11,85
+A4 100 Yp Tel Dikişli Pp Kapak Defter çizgili	27,95
+A4 120 Yp Spiralli Pp Kapak Defter Çizgili	38,40
+A4 100 Yp Tel Dikişli Pp Kapak Defter Kareli	27,95
+A4 Proje Defteri 80yp	55,95
+A4 Müzik Defteri	12,55
+A5 Okul Defteri 40 Yaprak	6,95
+A4 Kareli Okul Defteri 80 Yaprak	20,95
+A5 Okul Defteri 60 Yaprak	9,05
+A4 Çizgili Okul Defteri 80 Yaprak	20,95
+A4 Baskılı Pp Kapak Defter 80 Yp Çizgili	23,00
+A4 Çizgili Okul Defteri 60 Yaprak	16,00
+A4 Kareli Okul Defteri 60 Yaprak	16,00
+A4 Baskılı Pp Kapak Defter 80 Yp Kareli	22,40
+Monopol Rulo Kap	3,45
+Hot Whells Kareli Bloknot	10,45
+Barbie Kareli Bloknot	10,45
+Sky Print A4 Fotokopi Kağıdı	99,50
+Eva	24,45
+Lector Şeffaf Zarf Dosya Çıtçıtlı	4,15
+Lector Körüklü Dosya 7 Bölmeli Neon Renkler	55,95
+Lector Baskılı Çıtçıtlı Dosya	6,95
+Baskılı Çıtçıtlı Dosya	6,95
+Marin Ve Kırtasiye Desen Sırt Çantası	314,00
+Paraşüt Çanta	349,00
+Spor Mini Sırt Çantası	195,00
+Batwheels Anaokulu Çantası	174,00
+Lol Anaokulu Çantası	174,00
+Lol Anaokulu Çantası	139,00
+Jurassic World Anaokulu Çantası	139,00
+Barbie Okul Çantası	244,00
+Hot Wheels Okul Çantası	244,00
+Renkli Sırt Çantası	174,00
+Silindir Kumbara	32,95
+Coğrafya Atlası	34,95
+Sherlock Holmes Altı Napolyon	22,90
+Eylül Koltuk	499,00
+Maya Rattan Desen Koltuk	399,00
+Meşe Palamutu Saksı/mumluk	39,95
+Yapay Çiçek Asorti	49,95
+Truva Balkon Saksı No 1	32,95
+Truva Balkon Saksı No 2	49,95
+Truva Saksı No 2	22,95
+Truva Saksı No 1	14,95
+1 No Elvan Kare Kaktüs Saksı 120 Ml	4,95
+Lale Saksı 1 L	7,95
+Lale Saksı 1.5 L	12,95
+Paşa Kılıcı	99,90
+Benjamin Salon Çiçeği	99,90
+Dracaena Marginata Çiçek	149,00
+Kauçuk Salon Bitkisi	99,90
+Aloevera Saksı Çiçeği	39,90
+Yucca (salon Bitkisi)	129,00
+Yeni Yıl Çiçeği.	99,90
+Rattan Saksı 1	9,95
+Dekoratif Saksı 0.6 Lt	12,95
+Sümbül Sulama Kabı 2.5 Lt	19,95
+Sahra Saksı No:6 9.8 Lt	39,95
+Koko 518 Uzun Manyetolu Çakmak	12,95
+Bk Jet 1975 Plastik Çakmak	16,95
+Piknik Seti	139,00
+Piknik Seti	199,00
+Piknik Örtüsü Kılıflı	139,00
+Büyük Izgara Teli	59,95
+Piknik Termos 4.5 L	179,00
+Retro Termos 20 Lt	499,00
+Kav Kibrit 10'lu Paket	47,95
+Bio Mangal Kömürü 2 Kg	99,95
+I-lighter Y-330 Çakmak Elektronik	12,95
+I-lighter Y-434 Turbo Çakmak	17,95
+I-lighter Y-333 Çakmak	11,95
+Saroz Jumbo Boy Çöp Torbası 10'lu 80*110 Cm	69,95
+Saroz Orta Boy Çöp Torbası 30'lu 55*60 Cm	26,50
+Saroz Büzgülü Çöp Torbası Büyük Boy 15'li 65*70 Cm	39,75
+Saroz Büyük Boy Çöp Torbası 20'li 65*80 Cm	31,75
+Tuttaze Hazır Kesilmiş Pişirme Kağıdı 16 Adet	31,75
+Tuttaze Yanmaz Fırın Torbası 25 Gr	19,95
+Tuttaze Pişirme Kağıdı 8 Mt	36,75
+Tuttaze Streç Film 30 Cm*50 M	37,95
+Tuttaze Kilitli Poşet Orta Boy 15 Adet	26,50
+Saroz Büzgülü Çöp Torbası Orta Boy 15'li 55*60 Cm	33,95
+Tuttaze Buzdolabı Poşeti Orta Boy 100'lü	22,75
+Tuttaze Alüminyum Folyo 8 M	34,95
+Tuttaze Buzdolabı Poşeti Büyük Boy 70'li	22,75
+Yapışkanlı Folyo 45cm*2m	79,95
+Sera Buzdolabı Poşeti Orta Boy 4 Al 3 Öde	59,90
+Sera Yağlı Pişirme Kağıdı 16 Adet 42*37cm	45,00
+Sera Streç Film (33 M)	49,00
+Sera Alüminyum Folyo 8 M 16 Adet	45,00
+Sera Kilitli Poşet 12 Adet	29,90
+Sera Büzgülü Çöp Torbası Orta Boy Limon 15'li	49,95
+Ebru Dekoratif Araba Kokusu 8 Ml	49,95
+Araç Koltuk Minderi Seti	249,00
+Boss Tape Reklektif Bant	24,95
+Direksiyon Tepsisi	129,00
+Kapı İçi Aparat	199,00
+Tampon Koruma 2'li	79,95
+Çekme Halatı 3 Ton	179,00
+Oto Cam Suyu -21 5 Lt	89,95
+Oto Minderi 3 Parça	199,00
+Oto Cam Sileceği	49,95
+Metal Sibop Kapağı 4'lü	24,95
+Radyatör Antifirizi	139,00
+Expert By Fakir Yağmur Kaydırıcı 500 Ml	49,95
+Expert By Fakir Torpido Temizleyici 500 Ml	49,95
+Expert By Fakir Buz Çözücü 500 Ml	49,95
+Ay-yıldız Balon 5'li	24,95
+Gökkuşağı Bulut Seti	39,95
+Disney Karışık 5'li Balon Seti	29,95
+Pasta Mumu Ve Altlığı 10'lu	19,95
+Kar Spreyi	49,95
+Konfeti	49,95
+Kotyon Set	14,95
+Gokidy Baskılı Balon Çeşitleri	19,95
+Gokidy Su Tabancası	49,95
+Intex Sarı Bebe Flatoru	299,00

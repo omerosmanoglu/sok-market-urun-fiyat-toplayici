@@ -1,0 +1,102 @@
+'ALT+F11 'e bas veya Geliştirici sekmesinden Makroları seçip Oluştur de.
+'Bu sayfadaki kodları yapıştır
+'Çalıştırmak için ALT+F8 tuşuna bas veya Geliştirici->Makrolar'a gir
+'TumSayfalariOlustur'u seç ve "Çalıştır" 'a tıkla.
+
+Sub IlkKolonaSayfaIsminiEkle()
+    Dim ws As Worksheet
+    Dim sonSatir As Long
+
+    For Each ws In Worksheets
+        sonSatir = ws.Range("A" & Rows.Count).End(xlUp).Row
+        If ws.Range("A1").Value <> ws.Name Then
+            ws.Range("A1").EntireColumn.Insert
+            ws.Range("A1:A" & sonSatir).Value = ws.Name
+        End If
+    Next ws
+
+    
+End Sub
+
+Sub TumSayfalaraDigerSayfalardakiVeriyiAl()
+    Dim ws As Worksheet
+    Dim sayfa As Worksheet
+    Dim sonSatir As Long
+    Dim sonKolon As Long
+
+    'Tüm sayfalarda diye bir sayfa varsa sil
+    On Error Resume Next
+        Application.DisplayAlerts = False
+        Worksheets("Tüm Sayfalar").Delete
+        Application.DisplayAlerts = True
+    On Error GoTo 0
+
+    Set sayfa = Worksheets.Add(After:=Worksheets(Worksheets.Count))
+    sayfa.Name = "Tüm Sayfalar"
+
+    'Sayfadaki verileri seç ve kopyala
+    For Each ws In Worksheets
+        If ws.Name <> sayfa.Name Then
+            sonSatir = ws.Range("A" & Rows.Count).End(xlUp).Row
+            sonKolon = ws.Cells(1, Columns.Count).End(xlToLeft).Column
+            ws.Range(ws.Cells(2, 1), ws.Cells(sonSatir, sonKolon)).Copy
+            sayfa.Range("A" & Rows.Count).End(xlUp).Offset(1, 0).PasteSpecial xlPasteValues
+        End If
+    Next ws
+    
+    'Tüm Sayfalarda kolon isimlerini yaz.
+    sayfa.Range("A1").Value = "Tarih"
+    sayfa.Range("B1").Value = "Ürün İsmi"
+    sayfa.Range("C1").Value = "Yeni Fiyat"
+    sayfa.Range("D1").Value = "Eski Fiyat"
+    sayfa.Range("E1").Value = "Fiyat Değiştimi?"
+    sayfa.Range("A1:E1").Interior.Color = RGB(255, 255, 153)
+    sayfa.Range("A1:E1").Font.Color = RGB(0, 0, 0)
+    sayfa.Range("A1:E1").Font.Bold = True
+    sayfa.Range("A2:E" & Rows.Count).Sort Key1:=Range("B2"), Order1:=xlAscending, Key2:=Range("A2"), Order2:=xlAscending, Header:=xlYes
+    
+    'B kolonundaki verilerin sağındaki ve solundaki boşlukları sil
+    For i = 2 To sayfa.Range("B" & Rows.Count).End(xlUp).Row
+        If sayfa.Cells(i, 2).Value <> "" Then
+            sayfa.Cells(i, 2).Value = Trim(sayfa.Cells(i, 2).Value)
+        End If
+    Next i
+    
+    'E2 kolonuna formül ekle ve sayfa sonuna kadar doldur.
+    sayfa.Cells(2, 5).Formula = "=IF(B2=B1, IF(C2<>C1, ""! Fiyat Değişti Eski Fiyat:""&C1&"", Yeni Fiyat:""&C2&"" "", """"), """")"
+    sonSatir = sayfa.Cells(sayfa.Rows.Count, "B").End(xlUp).Row
+    Range("E2:E" & sonSatir).Select
+    Selection.FillDown
+
+    'E2 kolonunda "! Fiyat Değişti" yazıyorsa BOYA
+    With sayfa
+        For i = 2 To .Range("E" & .Rows.Count).End(xlUp).Row
+            'If .Cells(i, 5).Value = "! Fiyat Değişti" Then 'Eşitse
+            If InStr(1, .Cells(i, 5).Value, "! Fiyat Değişti", vbTextCompare) > 0 Then 'İçeriyora
+                .Cells(i, 5).EntireRow.Interior.Color = RGB(255, 0, 0)
+            End If
+        Next i
+    End With
+
+
+    'Kolon genişliklerini ayarla
+    With sayfa
+        .Range("A:D").EntireColumn.AutoFit
+        .Range("E1").AutoFilter
+        '.Range("E1").AutoFilter Field:=1, Criteria1:="Fiyat Değişti", Operator:=xlFilterValues 'Eşit olan
+        .Range("E1").AutoFilter Field:=1, Criteria1:=RGB(255, 0, 0), Operator:=xlFilterCellColor 'Rengi eşit olan
+    End With
+	
+
+	
+    
+
+
+    
+End Sub
+
+
+Sub TumSayfalariOlustur()
+    Call IlkKolonaSayfaIsminiEkle
+    Call TumSayfalaraDigerSayfalardakiVeriyiAl
+End Sub
